@@ -1,5 +1,6 @@
 ---
 title: What Makes A Problem Important? 
+published: false
 ---
 
 todo: brainstorm things that affect a lot of people but aren't important
