@@ -1,0 +1,132 @@
+---
+title: What Makes a Problem Important, Redux
+layout: post
+---
+
+> If you do not work on an important problem, it's unlikely you'll do important work. 
+  <span id="quote-attribute">Richard Hamming, <a href="http://www.cs.virginia.edu/~robins/YouAndYourResearch.html">You and Your Research</a></span>
+  
+A problem's importance is determined by the amount of good that work on it
+produces. 
+
+## What's Good?
+
+> On all plausible theories, everyone's well-being consists at least in part in being happy, and avoiding suffering.
+  <span id="quote-attribute">Derek Parfit, <em>On What Matters</em></span>
+  
+The essence of "what is good" is the extent to which something reduces suffering
+and increases happiness. This is not to claim that these are the sole factors
+that determine goodness, but rather that any theory of the good would be
+incomplete without them and that they are the core of most
+theories of the good.
+
+## More Good is Gooder
+
+> That is wise. Were I to invoke logic, however, logic clearly dictates that the needs of the many outweigh the needs of the few. 
+  <span id="quote-attribute">Spock, <a href="http://www.imdb.com/title/tt0084726/quotes"><em>Star Trek II: The Wrath of Khan (1982)</em></a></span>
+
+It's better to save two lives than it is to save one life. The more people that
+work on a problem helps, the more good that work does and, consequently, the
+more important that work is.
+
+## Hard Problems
+
+Work on impossible problems is not important. It will not lead anywhere. The
+human condition will not be improved. The more likely it is that work on a
+problem will do a lot of good, the more important that problem is. It is
+better to work on something where you have a 95% chance of saving a million
+lives than it is to work on something where you have a 5% chance of
+saving a million lives.
+
+It is not good to work on something hard just because it is hard. Working on something hard is not in and of itself virtuous. Most of the people working on research in pure mathematics are working on hard
+problems. Given how disconnected pure mathematics is from reality, just donating
+some spare money to a charity is probably more important than working on the millenium problems. 
+
+At this point, I imagine some smart-ass reader thinking, "Yeah, but
+sometimes pure mathematics does have important real world consequences." I
+agree. This is not a real objection,
+though. We are again talking about the likelihood of doing a lot of good.
+
+One could argue, for example, that there is a chance you might have some kind of
+powerful insight into  many of the world's greatest ills by becoming a chess
+grandmaster. The chance is neglibible. You would be better served by direct work
+on solving the problem. 
+
+## If Not Me, Then Who?
+
+> It has always appalled me that really bright scientists almost all work in the most competitive fields, the ones in which they are making the least difference. In other words, if they were hit by a truck, the same discovery would be made by somebody else about 10 minutes later.
+  <span id="quote-attribute">Aubrey de Grey</span>
+  
+> When the time is ripe for certain things, these things appear in different places in the manner of violets coming to light in early spring.
+   <span id="quote-attribute">Farkas Bolyai</span>
+  
+It is important to take in account context when deciding whether or not to work
+on a problem. Consider two scenarios:
+
+1. Curing a rare disease that will save 20 lives per year. Discovering
+the cure is an active area of inquiry within your discipline and there is a 90%
+chance that someone will discover a cure within the next year regardless of your
+contribution.
+
+2. Curing a rare disease that will save 5 lives per year. The disease is absent
+from the academic literature and most researchers have no idea that it
+exists. Those that do know of its existence are not interested in finding a
+cure. There is less than a 1% chance that someone will discover a cure within
+the next year without your contribution.
+
+You should work on the second problem.
+
+This has an odd implication. Most people believe that Isaac Newton's discovery
+of calculus and Alexander Graham Bell's invention of the telephone were
+extremely important. However, all of these were discovered independently by other people:
+Leibniz (among others) [discovered calculus at the same time as Newton](http://en.wikipedia.org/wiki/History_of_calculus).
+[Elisha Gray](http://en.wikipedia.org/wiki/Elisha_Gray) filed a patent for the invention of the telephone on the same day as
+Alexander Graham Bell. The infamous formula \\( E=mc^2 \\) 
+was [chanced upon by Henri Poincaré, Olinto De Pretto, Paul Langevin and, of
+course, Albert Einstein](http://en.wikipedia.org/wiki/E%3Dmc%C2%B2#History).
+
+For more along these lines, Wikipedia has a [list of multiple discoveries in
+science](http://en.wikipedia.org/wiki/List_of_multiple_discoveries).
+
+It's useful here to make a distinction. I'm not saying that the discovery
+of caclulus or the invention of the telephone were not important. Rather, my
+point is that the individual work of Alexander Graham Bell and Isaac Newton was
+less important than it first appears. The world may have been better off if they had
+invested energy in some other pursuit. 
+
+Our aim should be an efficient distribution of intellectual resources
+among problems so that we maximize the amount of good accomplished. One aspect
+of reducing waste is to prevent duplicated work, such as two people inventing
+the telephone. By taking into account the amount of work that other people are
+doing on a problem before we begin working on it, we can maximize the amount of
+difference made as an individual.
+
+## Recognition and Reproduction
+
+Doing important work doesn't always feel important and is often not recognized
+as such. Important work is distinct from recognition for doing important
+work. When we think of doing groundbreaking research, we think of Albert
+Einstein and how great it would be to be like him.
+
+This is a [focusing illusion](http://en.wikipedia.org/wiki/Anchoring#Focusing_effect). We only hear about important work when it has been
+recognized. Important work without recognition is invisible. We have no memory of it because we've never heard of it. Who knows how many important discoveries have been ignored?
+
+A significant amount of the appeal of doing important work is connected to the
+social status that we expect to gain as a result of doing that work. In this
+sense, then, aspirations of being a great researcher are often not much
+different from dreams of being rich and famous. Our monkey brains want
+desperately to maximize their reproductive fitness.
+
+The model I have presented here is not about maximizing reproductive fitness. If
+that is your goal, you would be better served by donating to a sperm bank or
+studying seduction than by setting out to do important work. This model is
+concerned with doing important work regardless of whether or not one achieves
+recognition for it. 
+
+You might ask yourself, for example, would you be content with improving the
+world even if someone else received credit for it? If the answer is yes, then
+you are probably interested in defining important work as I've
+presented here. If not, you are interested in something else and ought to be
+focusing on that goal directly instead. 
+
+
