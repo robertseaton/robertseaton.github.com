@@ -1,5 +1,5 @@
 ---
-title: What Makes a Problem Important, Redux
+title: What Makes a Problem Important?
 layout: post
 ---
 
@@ -42,7 +42,7 @@ It is not good to work on something hard just because it is hard. Working on som
 problems. Given how disconnected pure mathematics is from reality, just donating
 some spare money to a charity is probably more important than working on the millenium problems. 
 
-At this point, I imagine some smart-ass reader thinking, "Yeah, but
+At this point, you think, "Yeah, but
 sometimes pure mathematics does have important real world consequences." I
 agree. This is not a real objection,
 though. We are again talking about the likelihood of doing a lot of good.
@@ -83,10 +83,8 @@ Leibniz (among others) [discovered calculus at the same time as Newton](http://e
 [Elisha Gray](http://en.wikipedia.org/wiki/Elisha_Gray) filed a patent for the invention of the telephone on the same day as
 Alexander Graham Bell. The infamous formula \\( E=mc^2 \\) 
 was [chanced upon by Henri Poincaré, Olinto De Pretto, Paul Langevin and, of
-course, Albert Einstein](http://en.wikipedia.org/wiki/E%3Dmc%C2%B2#History).
-
-For more along these lines, Wikipedia has a [list of multiple discoveries in
-science](http://en.wikipedia.org/wiki/List_of_multiple_discoveries).
+course, Albert Einstein](http://en.wikipedia.org/wiki/E%3Dmc%C2%B2#History). (For more along these lines, Wikipedia has a [list of multiple discoveries in
+science](http://en.wikipedia.org/wiki/List_of_multiple_discoveries).)
 
 It's useful here to make a distinction. I'm not saying that the discovery
 of caclulus or the invention of the telephone were not important. Rather, my
@@ -98,7 +96,7 @@ Our aim should be an efficient distribution of intellectual resources
 among problems so that we maximize the amount of good accomplished. One aspect
 of reducing waste is to prevent duplicated work, such as two people inventing
 the telephone. By taking into account the amount of work that other people are
-doing on a problem before we begin working on it, we can maximize the amount of
+doing on a problem before you begin working on it, you can maximize the amount of
 difference made as an individual.
 
 ## Recognition and Reproduction
@@ -129,4 +127,6 @@ you are probably interested in defining important work as I've
 presented here. If not, you are interested in something else and ought to be
 focusing on that goal directly instead. 
 
+## Further Reading
 
+Robin Hanson explores some similar themes in [Do Helping Professions Help More?](http://www.overcomingbias.com/2006/12/do_helping_prof.html)
