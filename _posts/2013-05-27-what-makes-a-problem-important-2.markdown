@@ -83,7 +83,7 @@ Leibniz (among others) [discovered calculus at the same time as Newton](http://e
 [Elisha Gray](http://en.wikipedia.org/wiki/Elisha_Gray) filed a patent for the invention of the telephone on the same day as
 Alexander Graham Bell. The infamous formula \\( E=mc^2 \\) 
 was [chanced upon by Henri Poincaré, Olinto De Pretto, Paul Langevin and, of
-course, Albert Einstein](http://en.wikipedia.org/wiki/E%3Dmc%C2%B2#History). (For more along these lines, Wikipedia has a [list of multiple discoveries in
+course, Albert Einstein](http://en.wikipedia.org/wiki/E%3Dmc%C2%B2#History). (For more, Wikipedia has a [list of multiple discoveries in
 science](http://en.wikipedia.org/wiki/List_of_multiple_discoveries).)
 
 It's useful here to make a distinction. I'm not saying that the discovery
@@ -116,7 +116,7 @@ different from dreams of being rich and famous. Our monkey brains want
 desperately to maximize their reproductive fitness.
 
 The model I have presented here is not about maximizing reproductive fitness. If
-that is your goal, you would be better served by donating to a sperm bank or
+that is your goal, you would be better served by [donating to a sperm bank](http://www.gwern.net/Ethical%20sperm%20donation) or
 studying seduction than by setting out to do important work. This model is
 concerned with doing important work regardless of whether or not one achieves
 recognition for it. 
@@ -129,4 +129,4 @@ focusing on that goal directly instead.
 
 ## Further Reading
 
-Robin Hanson explores some similar themes in [Do Helping Professions Help More?](http://www.overcomingbias.com/2006/12/do_helping_prof.html)
+* [Do Helping Professions Help More?](http://www.overcomingbias.com/2006/12/do_helping_prof.html)
