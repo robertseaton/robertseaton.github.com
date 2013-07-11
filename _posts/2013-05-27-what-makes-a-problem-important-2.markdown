@@ -17,8 +17,7 @@ produces.
 The essence of "what is good" is the extent to which something reduces suffering
 and increases happiness. This is not to claim that these are the sole factors
 that determine goodness, but rather that any theory of the good would be
-incomplete without them and that they are the core of most
-theories of the good.
+incomplete without them.
 
 ## More Good is Gooder
 
@@ -38,7 +37,7 @@ better to work on something where you have a 95% chance of saving a million
 lives than it is to work on something where you have a 5% chance of
 saving a million lives.
 
-It is not good to work on something hard just because it is hard. Working on something hard is not in and of itself virtuous. Most of the people working on research in pure mathematics are working on hard
+Working on something hard is not in and of itself virtuous. Most of the people working on research in pure mathematics are working on hard
 problems. Given how disconnected pure mathematics is from reality, just donating
 some spare money to a charity is probably more important than working on the millenium problems. 
 
@@ -48,8 +47,7 @@ agree. This is not a real objection,
 though. We are again talking about the likelihood of doing a lot of good.
 
 One could argue, for example, that there is a chance you might have some kind of
-powerful insight into  many of the world's greatest ills by becoming a chess
-grandmaster. The chance is neglibible. You would be better served by direct work
+powerful insight into  many of the world's greatest ills setting the record for most olives eaten in a sitting. The chance is neglibible. You would be better served by direct work
 on solving the problem. 
 
 ## If Not Me, Then Who?
@@ -128,4 +126,7 @@ focusing on that goal instead.
 
 ## Further Reading
 
-* [Do Helping Professions Help More?](http://www.overcomingbias.com/2006/12/do_helping_prof.html)
+* Robin Hanson explores some similar themes in [this post](http://www.overcomingbias.com/2006/12/do_helping_prof.html).
+* The idea that one should choose whatever will do the most good is standard consequentialism, which you can read more about [here](http://plato.stanford.edu/entries/consequentialism/). 
+* The idea that a problem's importance depends on the probability of solving it is an expected value calculation, which [Wikipedia covers here](http://en.wikipedia.org/wiki/Expected_value).
+* The failure to take into consideration a decision's context is termed "system neglect." You can read more about it in [this paper](http://www.cepr.eu/meets/wkcn/3/3509/papers/Wu.pdf).
