@@ -26,7 +26,7 @@ theories of the good.
   <span id="quote-attribute">Spock, <a href="http://www.imdb.com/title/tt0084726/quotes"><em>Star Trek II: The Wrath of Khan (1982)</em></a></span>
 
 It's better to save two lives than it is to save one life. The more people that
-work on a problem helps, the more good that work does and, consequently, the
+work on a problem helps, the more good that work does and the
 more important that work is.
 
 ## Hard Problems
@@ -77,8 +77,7 @@ the next year without your contribution.
 You should work on the second problem.
 
 This has an odd implication. Most people believe that Isaac Newton's discovery
-of calculus and Alexander Graham Bell's invention of the telephone were
-extremely important. However, all of these were discovered independently by other people:
+of calculus and Alexander Graham Bell's invention of the telephone were important. However, all of these were discovered by other people:
 Leibniz (among others) [discovered calculus at the same time as Newton](http://en.wikipedia.org/wiki/History_of_calculus).
 [Elisha Gray](http://en.wikipedia.org/wiki/Elisha_Gray) filed a patent for the invention of the telephone on the same day as
 Alexander Graham Bell. The infamous formula \\( E=mc^2 \\) 
@@ -123,9 +122,9 @@ recognition for it.
 
 You might ask yourself, for example, would you be content with improving the
 world even if someone else received credit for it? If the answer is yes, then
-you are probably interested in defining important work as I've
+you are interested in defining important work as I've
 presented here. If not, you are interested in something else and ought to be
-focusing on that goal directly instead. 
+focusing on that goal instead. 
 
 ## Further Reading
 
