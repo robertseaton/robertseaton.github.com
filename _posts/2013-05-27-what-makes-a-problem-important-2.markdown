@@ -47,16 +47,13 @@ agree. This is not a real objection,
 though. We are again talking about the likelihood of doing a lot of good.
 
 One could argue, for example, that there is a chance you might have some kind of
-powerful insight into  many of the world's greatest ills setting the record for most olives eaten in a sitting. The chance is neglibible. You would be better served by direct work
-on solving the problem. 
+powerful insight into  many of the world's greatest ills by setting the record for most olives eaten in a sitting. The chance is neglibible. You would be better served by direct work
+on solving world hunger, etc. 
 
 ## If Not Me, Then Who?
 
 > It has always appalled me that really bright scientists almost all work in the most competitive fields, the ones in which they are making the least difference. In other words, if they were hit by a truck, the same discovery would be made by somebody else about 10 minutes later.
   <span id="quote-attribute">Aubrey de Grey</span>
-  
-> When the time is ripe for certain things, these things appear in different places in the manner of violets coming to light in early spring.
-   <span id="quote-attribute">Farkas Bolyai</span>
   
 It is important to take in account context when deciding whether or not to work
 on a problem. Consider two scenarios:
@@ -83,7 +80,7 @@ was [chanced upon by Henri Poincaré, Olinto De Pretto, Paul Langevin and, of
 course, Albert Einstein](http://en.wikipedia.org/wiki/E%3Dmc%C2%B2#History). (For more, Wikipedia has a [list of multiple discoveries in
 science](http://en.wikipedia.org/wiki/List_of_multiple_discoveries).)
 
-It's useful here to make a distinction. I'm not saying that the discovery
+It's useful here to make a distinction. I'm not claiming that the discovery
 of caclulus or the invention of the telephone were not important. Rather, my
 point is that the individual work of Alexander Graham Bell and Isaac Newton was
 less important than it first appears. The world may have been better off if they had
@@ -118,7 +115,7 @@ studying seduction than by setting out to do important work. This model is
 concerned with doing important work regardless of whether or not one achieves
 recognition for it. 
 
-You might ask yourself, for example, would you be content with improving the
+Would you be content with improving the
 world even if someone else received credit for it? If the answer is yes, then
 you are interested in defining important work as I've
 presented here. If not, you are interested in something else and ought to be
@@ -130,3 +127,5 @@ focusing on that goal instead.
 * The idea that one should choose whatever will do the most good is standard consequentialism, which you can read more about [here](http://plato.stanford.edu/entries/consequentialism/). 
 * The idea that a problem's importance depends on the probability of solving it is an expected value calculation, which [Wikipedia covers here](http://en.wikipedia.org/wiki/Expected_value).
 * The failure to take into consideration a decision's context is termed "system neglect." You can read more about it in [this paper](http://www.cepr.eu/meets/wkcn/3/3509/papers/Wu.pdf).
+* The observation that unrecognized things are invisible is what Donald Rumsfeld called "unknown unknowns" in [a 2002 speech](http://en.wikipedia.org/wiki/There_are_known_knowns).
+* The intimate relationship between goals and reproductive fitness is described in [this paper](http://homepage.psy.utexas.edu/homepage/group/busslab/pdffiles/Evolution_Of_Happiness_2000.pdf).
