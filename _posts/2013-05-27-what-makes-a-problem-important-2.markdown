@@ -24,7 +24,7 @@ incomplete without them.
 > That is wise. Were I to invoke logic, however, logic clearly dictates that the needs of the many outweigh the needs of the few. 
   <span id="quote-attribute">Spock, <a href="http://www.imdb.com/title/tt0084726/quotes"><em>Star Trek II: The Wrath of Khan (1982)</em></a></span>
 
-It's better to save two lives than it is to save one life. The more people that
+It's better to save two lives than one. The more people that
 work on a problem helps, the more good that work does and the
 more important that work is.
 
@@ -37,25 +37,22 @@ better to work on something where you have a 95% chance of saving a million
 lives than it is to work on something where you have a 5% chance of
 saving a million lives.
 
-Working on something hard is not in and of itself virtuous. Most of the people working on research in pure mathematics are working on hard
-problems. Given how disconnected pure mathematics is from reality, just donating
-some spare money to a charity is probably more important than working on the millenium problems. 
+Working on something hard is not in and of itself virtuous. People working on research in pure mathematics are working on hard
+problems, butiven how disconnected pure mathematics is from reality, just donating money to a charity is probably more important than working on the [millenium problems](http://www.claymath.org/library/monographs/MPPc.pdf). 
 
-At this point, you think, "Yeah, but
-sometimes pure mathematics does have important real world consequences." I
+You might think, "Yeah, but sometimes pure mathematics does have important real world consequences." I
 agree. This is not a real objection,
 though. We are again talking about the likelihood of doing a lot of good.
 
-One could argue, for example, that there is a chance you might have some kind of
-powerful insight into  many of the world's greatest ills by setting the record for most olives eaten in a sitting. The chance is neglibible. You would be better served by direct work
-on solving world hunger, etc. 
+One could argue, for example, that you might have some kind of
+powerful insight into  many of the world's greatest ills by setting the record for most olives eaten in a single sitting. The chance is neglibible. You would have a higher likelihood of success by working directly on solving world hunger, etc. 
 
 ## If Not Me, Then Who?
 
 > It has always appalled me that really bright scientists almost all work in the most competitive fields, the ones in which they are making the least difference. In other words, if they were hit by a truck, the same discovery would be made by somebody else about 10 minutes later.
   <span id="quote-attribute">Aubrey de Grey</span>
   
-It is important to take in account context when deciding whether or not to work
+It is important to consider context when deciding whether or not to work
 on a problem. Consider two scenarios:
 
 1. Curing a rare disease that will save 20 lives per year. Discovering
@@ -77,8 +74,7 @@ Leibniz (among others) [discovered calculus at the same time as Newton](http://e
 [Elisha Gray](http://en.wikipedia.org/wiki/Elisha_Gray) filed a patent for the invention of the telephone on the same day as
 Alexander Graham Bell. The infamous formula \\( E=mc^2 \\) 
 was [chanced upon by Henri Poincaré, Olinto De Pretto, Paul Langevin and, of
-course, Albert Einstein](http://en.wikipedia.org/wiki/E%3Dmc%C2%B2#History). (For more, Wikipedia has a [list of multiple discoveries in
-science](http://en.wikipedia.org/wiki/List_of_multiple_discoveries).)
+course, Albert Einstein](http://en.wikipedia.org/wiki/E%3Dmc%C2%B2#History).
 
 It's useful here to make a distinction. I'm not claiming that the discovery
 of caclulus or the invention of the telephone were not important. Rather, my
@@ -91,7 +87,7 @@ among problems so that we maximize the amount of good accomplished. One aspect
 of reducing waste is to prevent duplicated work, such as two people inventing
 the telephone. By taking into account the amount of work that other people are
 doing on a problem before you begin working on it, you can maximize the amount of
-difference made as an individual.
+difference you can make as an individual.
 
 ## Recognition and Reproduction
 
@@ -105,7 +101,7 @@ recognized. Important work without recognition is invisible. We have no memory o
 
 A significant amount of the appeal of doing important work is connected to the
 social status that we expect to gain as a result of doing that work. In this
-sense, then, aspirations of being a great researcher are often not much
+sense, then, aspirations of being a great researcher are not much
 different from dreams of being rich and famous. Our monkey brains want
 desperately to maximize their reproductive fitness.
 
@@ -124,8 +120,10 @@ focusing on that goal instead.
 ## Further Reading
 
 * Robin Hanson explores some similar themes in [this post](http://www.overcomingbias.com/2006/12/do_helping_prof.html).
+* For more multiple discoveries, like the invention of the telephone, Wikipedia [has a list]((http://en.wikipedia.org/wiki/List_of_multiple_discoveries).
 * The idea that one should choose whatever will do the most good is standard consequentialism, which you can read more about [here](http://plato.stanford.edu/entries/consequentialism/). 
-* The idea that a problem's importance depends on the probability of solving it is an expected value calculation, which [Wikipedia covers here](http://en.wikipedia.org/wiki/Expected_value).
+* The dependence of a problem's importance on the probability of solving it is an expected value calculation, which [Wikipedia covers here](http://en.wikipedia.org/wiki/Expected_value).
 * The failure to take into consideration a decision's context is termed "system neglect." You can read more about it in [this paper](http://www.cepr.eu/meets/wkcn/3/3509/papers/Wu.pdf).
 * The observation that unrecognized things are invisible is what Donald Rumsfeld called "unknown unknowns" in [a 2002 speech](http://en.wikipedia.org/wiki/There_are_known_knowns).
+* Daniel Kahneman has a [great paper](http://weber.ucsd.edu/~aronatas/Kahneman%20et%20al%20Would%20You%20Be%20Happier%20Science-2006.pdf) on a relevant focusng illusion, the relationship between income and happiness.
 * The intimate relationship between goals and reproductive fitness is described in [this paper](http://homepage.psy.utexas.edu/homepage/group/busslab/pdffiles/Evolution_Of_Happiness_2000.pdf).
