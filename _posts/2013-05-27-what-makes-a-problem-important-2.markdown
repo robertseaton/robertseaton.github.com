@@ -38,14 +38,14 @@ lives than it is to work on something where you have a 5% chance of
 saving a million lives.
 
 Working on something hard is not in and of itself virtuous. People working on research in pure mathematics are working on hard
-problems, butiven how disconnected pure mathematics is from reality, just donating money to a charity is probably more important than working on the [millenium problems](http://www.claymath.org/library/monographs/MPPc.pdf). 
+problems, but given how disconnected pure mathematics is from reality, just donating money to a charity is probably more important than working on the [millennium problems](http://www.claymath.org/library/monographs/MPPc.pdf). 
 
 You might think, "Yeah, but sometimes pure mathematics does have important real world consequences." I
 agree. This is not a real objection,
 though. We are again talking about the likelihood of doing a lot of good.
 
 One could argue, for example, that you might have some kind of
-powerful insight into  many of the world's greatest ills by setting the record for most olives eaten in a single sitting. The chance is neglibible. You would have a higher likelihood of success by working directly on solving world hunger, etc. 
+powerful insight into  many of the world's greatest ills by setting the record for most olives eaten in a single sitting. The chance is negligible. You would have a higher likelihood of success by working directly on solving world hunger, etc. 
 
 ## If Not Me, Then Who?
 
@@ -77,7 +77,7 @@ was [chanced upon by Henri Poincaré, Olinto De Pretto, Paul Langevin and, of
 course, Albert Einstein](http://en.wikipedia.org/wiki/E%3Dmc%C2%B2#History).
 
 It's useful here to make a distinction. I'm not claiming that the discovery
-of caclulus or the invention of the telephone were not important. Rather, my
+of calculus or the invention of the telephone were not important. Rather, my
 point is that the individual work of Alexander Graham Bell and Isaac Newton was
 less important than it first appears. The world may have been better off if they had
 invested energy in some other pursuit. 
@@ -125,5 +125,5 @@ focusing on that goal instead.
 * The dependence of a problem's importance on the probability of solving it is an expected value calculation, which [Wikipedia covers here](http://en.wikipedia.org/wiki/Expected_value).
 * The failure to take into consideration a decision's context is termed "system neglect." You can read more about it in [this paper](http://www.cepr.eu/meets/wkcn/3/3509/papers/Wu.pdf).
 * The observation that unrecognized things are invisible is what Donald Rumsfeld called "unknown unknowns" in [a 2002 speech](http://en.wikipedia.org/wiki/There_are_known_knowns).
-* Daniel Kahneman has a [great paper](http://weber.ucsd.edu/~aronatas/Kahneman%20et%20al%20Would%20You%20Be%20Happier%20Science-2006.pdf) on a relevant focusng illusion, the relationship between income and happiness.
+* Daniel Kahneman has a [great paper](http://weber.ucsd.edu/~aronatas/Kahneman%20et%20al%20Would%20You%20Be%20Happier%20Science-2006.pdf) on a relevant focusing illusion, the relationship between income and happiness.
 * The intimate relationship between goals and reproductive fitness is described in [this paper](http://homepage.psy.utexas.edu/homepage/group/busslab/pdffiles/Evolution_Of_Happiness_2000.pdf).
