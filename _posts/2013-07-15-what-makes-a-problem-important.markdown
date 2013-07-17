@@ -122,7 +122,7 @@ focusing on that goal instead.
 * Robin Hanson explores some similar themes in [this post](http://www.overcomingbias.com/2006/12/do_helping_prof.html).
 * For more multiple discoveries, like the invention of the telephone, Wikipedia [has a list]((http://en.wikipedia.org/wiki/List_of_multiple_discoveries).
 * The idea that one should choose whatever will do the most good is standard consequentialism, which you can read more about [here](http://plato.stanford.edu/entries/consequentialism/). 
-* The dependence of a problem's importance on the probability of solving it is an expected value calculation, which [Wikipedia covers here](http://en.wikipedia.org/wiki/Expected_value).
+* The dependence of a problem's importance on the probability of solving it is an expected value calculation, which [Wikipedia covers here](http://en.wikipedia.org/wiki/Expected_value), and is related to the concept of [comparative advantage](http://en.wikipedia.org/wiki/Comparative_advantage) in economics.
 * The failure to take into consideration a decision's context is termed "system neglect." You can read more about it in [this paper](http://www.cepr.eu/meets/wkcn/3/3509/papers/Wu.pdf).
 * The observation that unrecognized things are invisible is what Donald Rumsfeld called "unknown unknowns" in [a 2002 speech](http://en.wikipedia.org/wiki/There_are_known_knowns).
 * Daniel Kahneman has a [great paper](http://weber.ucsd.edu/~aronatas/Kahneman%20et%20al%20Would%20You%20Be%20Happier%20Science-2006.pdf) on a relevant focusing illusion, the relationship between income and happiness.
