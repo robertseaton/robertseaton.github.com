@@ -62,6 +62,15 @@ ality Questionnaire, which does not clearly distinguish between life
 satisfaction and positive affect. As such, the WB scale measures both positive
 affect and life satisfaction, but not negative affect.
 
+This paper has an oft quoted line, "It may be that trying to be happier is as
+futile as trying to be taller and therefore is counterproductive." One should be
+cautious, however, about arguing that it is futile to become happier on the
+strength of such evidence. It is not even futile to try to become taller. [Human growth
+hormone](http://en.wikipedia.org/wiki/Growth_hormone_treatment) can increase height in individuals whose growth plates have not yet
+closed, NASA reports ["astronauts living aboard the International Space Station
+grow up to 3 percent taller while living in microgravity,"](http://www.nasa.gov/mission_pages/station/research/news/spinal_ultrasound.html#.UecYmKC9y7I) and the average
+height among Europeans has been [increasing at a rate of two centimeters per
+decade](http://archpedi.jamanetwork.com/article.aspx?articleid=348646).
 
 
 ### Happiness Is a Personal(ity) Thing: The Genetics of Personality and Well-Being in a Representative Sample 
@@ -75,7 +84,7 @@ phrase "subjective well-being," then, is somewhat misleading.
 
 ### Would you be happier if you were richer? A focusing illusion
 
-In this paper, Daniel Kahneman argues that our
+Given that money doesn't buy happiness, why are so many people obssessed with pursuing it? In this paper, Daniel Kahneman argues that the 
 
 ## Experience Sampling Perspectives
 
