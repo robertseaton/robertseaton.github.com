@@ -1,6 +1,7 @@
 ---
 title: "Happiness: An Annotated Bibliography"
 published: false
+layout: post
 ---
 
 ## Terminology
