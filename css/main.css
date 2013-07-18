@@ -35,6 +35,13 @@ h1 {
     line-height: 1.25;
 }
 
+#title h1 {
+    font-weight: normal;
+    font-size: 1.5em;
+    margin-bottom: 0;
+    line-height: 1.25;
+}
+
 #related h2 {
    padding-bottom: 15px;
 }
