@@ -1,5 +1,6 @@
 ---
 title: Notes on <em>The Psychology of Happiness</em>
+layout: post
 published: false
 ---
 
@@ -11,7 +12,7 @@ good life than moral goodness and going to heaven.<a href="#1-citation"><sup>1</
 Happiness has sometimes been measured by an answer to a single question, but
 this has led to some very improbable results.
 
-According to one survery, there is are 17 papers on depression for every one
+According to one survery, there are 17 papers on depression for every one
 paper on happiness.
 
 Well-being is different from subjective well-being in that well-being usually
@@ -225,4 +226,4 @@ The central feature of events that makes them funny is incongruity. (pg. 58)
 
 # Sources
 <a name="1-citation"></a>
-King, Laura A., and Christie K. Napa. ["What makes a life good?."](http://www.mysmu.edu/faculty/cscollon/King_Napa_1998.pdf) Journal of personality and social psychology 75.1 (1998): 156.
+1. King, Laura A., and Christie K. Napa. ["What makes a life good?."](http://www.mysmu.edu/faculty/cscollon/King_Napa_1998.pdf) Journal of personality and social psychology 75.1 (1998): 156.
