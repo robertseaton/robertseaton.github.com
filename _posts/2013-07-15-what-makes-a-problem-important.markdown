@@ -120,7 +120,7 @@ focusing on that goal instead.
 ## Further Reading
 
 * Robin Hanson explores some similar themes in [this post](http://www.overcomingbias.com/2006/12/do_helping_prof.html).
-* For more multiple discoveries, like the invention of the telephone, Wikipedia [has a list]((http://en.wikipedia.org/wiki/List_of_multiple_discoveries).
+* For more multiple discoveries, like the invention of the telephone, Wikipedia [has a list](http://en.wikipedia.org/wiki/List_of_multiple_discoveries).
 * The idea that one should choose whatever will do the most good is standard consequentialism, which you can read more about [here](http://plato.stanford.edu/entries/consequentialism/). 
 * The dependence of a problem's importance on the probability of solving it is an expected value calculation, which [Wikipedia covers here](http://en.wikipedia.org/wiki/Expected_value), and is related to the concept of [comparative advantage](http://en.wikipedia.org/wiki/Comparative_advantage) in economics.
 * The failure to take into consideration a decision's context is termed "system neglect." You can read more about it in [this paper](http://www.cepr.eu/meets/wkcn/3/3509/papers/Wu.pdf).
