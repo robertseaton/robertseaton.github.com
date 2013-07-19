@@ -178,7 +178,7 @@ Adams (1997) found that objective indicators for Black Americans declined from
 1980 to 1992, but life satisfaction increased. (pg. 46)
 
 Strack et al. (1990) found that being with a handicapped confederate who seemed
-to be on a kidney dialysis machine increased the well-being of real
+1to be on a kidney dialysis machine increased the well-being of real
 subjects. (pg. 46)
 
 For individuals with the same income, living in a richer or poorer area had no
@@ -223,6 +223,181 @@ By age 6 there is a gender difference; boys tell more jokes and fool about more
 than girls. (pg. 57)
 
 The central feature of events that makes them funny is incongruity. (pg. 58)
+
+Extraversion is usually found to correlate with sense of humor as measured by
+the 3WD test, and extraverts like sexual jokes the most. (pg. 60)
+
+Humour makes young people more attractive to one another. (Lundy et al. 1998)
+
+Keltner et al. (1998) found that in romantic couples teasing led to increased
+flirtation and positive affect. (pg. 62)
+
+For males who laughed a lot, stressful events led to an increase in positive
+affect. Kuniper et al. 1992 (pg. 62)
+
+Children who initiate a lot of humor have often experienced a period of
+rejection early in life. (pg. 65)
+
+Jokes were found funnier when they esteemed a subject's own group or one with
+which he identified, and when they disparaged groups to which he did not belong
+or identify with. La Fave et al. (1976)
+
+Jokes may be an indirect way of expressing hostile attitudes. (pg. 66)
+
+Graham (1995) asked pairs of stranger to talk for 30 minutes; a strong sense of
+humor led to reduction of social distance between them. (pg. 68)
+
+Grammer (1990) found that young men indicated their sexual interest by laughter
+combined with bodily  posture. (pg. 68)
+
+Decker and Rotondo (1999) found that job satisfaction as greater when
+supervisors were rated as having a good sense of humor, espcially female
+supervisors. (pg. 68)
+
+When humor is used in public speaking, the speaker is liked more, the audience
+are in a better modd, and the speech is found more interesting. (pg. 69)
+
+Teachers are like more if they use humor. (pg. 69)
+
+The key to most humor is entertaining two versions of events, or stories, where
+the second and unexpected one is less worthy, e.g. ruder, than the
+first. (pg. 69)
+
+# Social relationships
+
+Infant monkeys rared in total isolation start to discriminate friendly and
+threatening faces at 2 months, so this ability must be largely innate. (Sackett,
+1996) (pg. 74)
+
+Lu and Argyle (1992b) found that extraverts gave more social support than
+introverts did. (pg. 74)
+
+Weiss (1973) found that to avoid loneliness people needed a single close
+relationship and also a network of relationships. (pg. 75)
+
+Wheeler et al. (1983) fond that a number of students who had plenty of friends
+and spent a lot of time with them  were still lonely becayse they talked about
+impersonal topics. (pg. 75)
+
+Friendships were most often lose by individuals breaking such "third party
+rules" as keeping confidences and standing up for friends in their
+absence. (Argyle and Henderson, 1985). (pg. 75)
+
+The best predictor of not being lonely is the frequency of interaction with
+women; time spent with men made no difference. (Wheeler at al. 1983). (pg. 75)
+
+Extraverts are more assertive and more cooperative, making them able to manage
+their relationships better (Argyle and Lu, 1990).
+
+Ross and Mirowsky (1989) found that social support led to less depression, but
+that intimate conversations about problems made things worse since this meant
+talking about problems, or complaining, rather tan solving them. (pg. 76)
+
+Bereavement is more damaging for men than women. (pg. 79)
+
+Being in love is good for health. Smith and Hoklund (1988) found that Danish
+students who were in love had a higher white blood cell count, and had fewer
+sore thorats, colds, or afters-effects of drinking than those not in love. (pg. 80)
+
+The overall effect of having children on the happiness of their parets is zero
+(Veenhoven, 1994). (pg. 82)
+
+There are two bad periods for marital happiness: when there are very young
+children and when they are adolescents. (pg. 82)
+
+Favorite cousins in later life are those who were childhood playmates (Adams,
+1968). (pg. 84)
+
+Couples with children live longer. (Kobrin and Hendershot, 1977), (pg. 84).
+
+Headey (1999) found that only 11% of those who had dogs were on some medication
+compared with 19% of those with no pets; the pets ownders went to the doctor
+less too. (pg. 85)
+
+Hall and Nelson (1996) found that the well-being of a sample of patients
+depended on the percentage of women in their networks, providing social
+support. (pg. 86)
+
+Argyle and Furnham (1983) found that the spouse was the greatest source of
+conflict as well as of satisfaction. (pg. 86)
+
+# Work and employment
+
+In a survey of 7000 workers from nine European countries, Clark (1998a) found
+that 42% reported having high job satisfaction. (pg. 89)
+
+The overall correlation between pay and job satisfaction is low, typically .15
+to .17, so pay is not an important cause of job satisfaction. (pg. 91)
+
+Those doing voluntary work ares ometimes found to enjoy their work as much or
+more than paid workers (Furnham and Argyle, 1998). (pg. 91)
+
+A meta-analysis of job status found a rather modest overall correlation of .18
+with job satisfaction (Haring et al., 1984).
+
+For European workers, having "good relations" at work, with management and
+colleagues, was the strongest predictor of job satisfaction. (pg. 93)
+
+There is a U-shaped curve to job satisfaction, such that the young and the old
+tend to be more satisfied with their jobs (Clark et al., 1996) (pg. 95).
+
+
+Arvey et al. (1994) studied 2200 pairs of twins and found that 30% of the
+variability of in job satisfaction could be explained by genetic factors
+(pg. 96).
+
+Furnham and Schaeffer (1984) found there was more satisfaction if an
+individual's profile of needs matched the profile of rewards offered by the
+job. (pg. 96)
+
+American surveys have found that 10-12% of the unemployed described themselves
+as "very ahppy" compared with 30% of the general population. This effect is
+causal. (Warr, 1978) (pg. 103)
+
+Clark et al. (1996) conclude that the effect of job loss on general mental
+health is worse than that of divorce. (pg. 104)
+
+Murphy and Athanasou (1999) carried out a meta-analysis and found that starting
+work led to increased mental health witht an effect size of .54, while losing a
+job led to deterioration with an effect size of .36. (pg. 104)
+
+In Britain it has been found that income explains less than a quarter of the
+reduction of GHQ scores for the unemployed (Clark, 1998b).
+
+Unemployment creats more distress for those high in neuroticism (Payne, 1988),
+introversion, and for type A personalities. (pg. 105)
+
+The unemployed structure their time less (Feather and Bond, 1983) and this is a
+cause of lower psychological health (Wanberg et al,, 1997).
+
+When voluntary workers are compared with paid workers doing the same work, the
+voluntary workers have been found to have higher job satisfaction (Pearce,
+1993).
+
+On average the retired are happier than those at work. (pg. 107)
+
+American studies find no difference in mental health before and after retirement
+(Kasl, 1980).
+
+# Leisure
+
+Several studies have found a negative relation between TV watching and
+happiness. (pg. 112)
+
+Thayer (1989) found that a 10-minute brisk walk resulted n less tiredness, more
+energy, and less tension 2 hours later. Other studies found that after an hour's
+exercise, such as aerobics, those involved felt less tense, depressed, angry,
+tired or confused, and had more vigour, for the rest of the day and, in some,
+for the next day (Maroulakis and Zervas, 1993). (pg. 113)
+
+Paffenbarger el at. (1991) followed up 17,000 Harvard alumni over a period of 16
+years and found fewer heart attacks for those who did more exercise. Thirty
+minutes a day was enough to give maximum benefits. There were 31% fewer
+deahts. (pg. 115)
+
+Former athletes have been found to live longer than non-athlets (Shepherd,
+1997). (pg. 115)
+
 
 # Sources
 <a name="1-citation"></a>
