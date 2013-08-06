@@ -107,6 +107,6 @@ The evidence also shows that when one spouse does something and the other spouse
 
 At this point in the text, Layard writes at length about utilitarianism. His analysis is aimed at a popular audience and will not be of much use to anyone who has taken an ethics course or read a few articles on Wikipedia. However, Layard does mention two books that argue against utilitarianism, *Utilitarianism and Beyond* and *Utilitarianism: For and Against*. This sort of information is very useful to utilitarians, as reading these will help correct for confirmation bias.
 
-# Can we tame the rate race?
+# Can we tame the rat race?
 
 For example, in 1996 the Eurobarometer survey asked employed people in each country whether in the last five years there had been a significant increase in the stress involved with your job. Nearly 50% said it increased, while 10% said it diminished. (pg. 158)
