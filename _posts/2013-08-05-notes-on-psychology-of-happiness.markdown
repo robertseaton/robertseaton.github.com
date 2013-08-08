@@ -16,7 +16,7 @@ good life than moral goodness and going to heaven.<a href="#1-citation"><sup>1</
 Happiness has sometimes been measured by an answer to a single question, but
 this has led to some very improbable results.
 
-According to one survery, there are 17 papers on depression for every one
+According to one survey, there are 17 papers on depression for every one
 paper on happiness. 
 
 Well-being is different from subjective well-being in that well-being usually
@@ -69,7 +69,7 @@ satisfaction was .41, but higher for individualist nations, where it was over
 .50.<a href="#citation-5"><sup>5</sup></a> 
 
 
-Positive affect and negtive affect correlate at about -.43. (pg. 14)<a href="#citation-6"><sup>6</sup></a> 
+Positive affect and negative affect correlate at about -.43. (pg. 14)<a href="#citation-6"><sup>6</sup></a> 
 
 
 Headey and Wearing (1992) found that depression and anxiety correlated at .50,
@@ -115,9 +115,9 @@ intensity of negative emotions with neuroticism at .64. (pg. 26)
 
 
 Thinking about and talking to others about positive events produces positive
-moodes (Argyle and Martin, 1991).<a href="#citation-13"><sup>13</sup></a> 
+meed's (Argyle and Martin, 1991).<a href="#citation-13"><sup>13</sup></a> 
 
-Seven emotions can be reliably discrimnated by others in most cultures. (pg. 28)
+Seven emotions can be reliably discriminated by others in most cultures. (pg. 28)
 
 Monkeys reared in isolation can recognize happy versus angry. (pg. 28)
 
@@ -163,7 +163,7 @@ People are in a better mood when the sun is shining, it is warm but not too
 warm, and humidity is low, <a href="#citation-16"><sup>16</sup></a>, but there is a high degree of
 adaptation to the weather. (pg. 33)
 
-Larson et al. (1984) foud that alochol produced positive emotions along all the
+Larson et al. (1984) found that alcohol produced positive emotions along all the
 scales they used. (pg. 36) <a href="#citation-17"><sup>17</sup></a> 
 
 
@@ -178,7 +178,7 @@ versa. (Diener et al., 1999), (pg. 44) <a href="#citation-19"><sup>19</sup></a>
 
 
 In one study, asked if they would choose the same profession again, 91% of
-mathematicians and 82% of lawyers said they would, compared wth 16% of unskilled
+mathematicians and 82% of lawyers said they would, compared with 16% of unskilled
 steel workers. (pg. 44)
 
 Widows are about four times more likely (42% vs 10%) to be depressed than the
@@ -215,7 +215,7 @@ contrast, while present events are used as evidence of well-being. (pg. 50) <a h
 
 ## Humour and laughter
 
-Finding things funny happens about 18 times a day, most often in spntaneous
+Finding things funny happens about 18 times a day, most often in spontaneous
 response to situations in the presence of others. (Martin and Kuiper, 1999)
 (pg. 54) <a href="#citation-25"><sup>25</sup></a> 
 
@@ -272,12 +272,12 @@ combined with bodily  posture. (pg. 68) <a href="#citation-34"><sup>34</sup></a>
 
 
 Decker and Rotondo (1999) found that job satisfaction as greater when
-supervisors were rated as having a good sense of humor, espcially female
+supervisors were rated as having a good sense of humor, especially female
 supervisors. (pg. 68) <a href="#citation-35"><sup>35</sup></a> 
 
 
 When humor is used in public speaking, the speaker is liked more, the audience
-are in a better modd, and the speech is found more interesting. (pg. 69)
+are in a better mood, and the speech is found more interesting. (pg. 69)
 
 Teachers are like more if they use humor. (pg. 69)
 
@@ -298,7 +298,7 @@ Weiss (1973) found that to avoid loneliness people needed a single close
 relationship and also a network of relationships. (pg. 75) <a href="#citation-38"><sup>38</sup></a>
 
 Wheeler et al. (1983) fond that a number of students who had plenty of friends
-and spent a lot of time with them  were still lonely becayse they talked about
+and spent a lot of time with them  were still lonely because they talked about
 impersonal topics. (pg. 75) <a href="#citation-39"><sup>39</sup></a> 
 
 Friendships were most often lose by individuals breaking such "third party
@@ -314,16 +314,16 @@ their relationships better (Argyle and Lu, 1990). <a href="#citation-41"><sup>41
 
 Ross and Mirowsky (1989) found that social support led to less depression, but
 that intimate conversations about problems made things worse since this meant
-talking about problems, or complaining, rather tan solving them. (pg. 76) <a href="#citation-42"><sup>42</sup></a> 
+talking about problems, or complaining, rather than solving them. (pg. 76) <a href="#citation-42"><sup>42</sup></a> 
 
 Bereavement is more damaging for men than women. (pg. 79)
 
 Being in love is good for health. Smith and Hoklund (1988) found that Danish
 students who were in love had a higher white blood cell count, and had fewer
-sore thorats, colds, or afters-effects of drinking than those not in love. (pg. 80) <a href="#citation-43"><sup>43</sup></a> 
+sore throats, colds, or afters-effects of drinking than those not in love. (pg. 80) <a href="#citation-43"><sup>43</sup></a> 
 
 
-The overall effect of having children on the happiness of their parets is zero
+The overall effect of having children on the happiness of their parents is zero
 (Veenhoven, 1994). (pg. 82)<a href="#citation-15"><sup>15</sup></a>
 
 There are two bad periods for marital happiness: when there are very young
@@ -337,7 +337,7 @@ Couples with children live longer. (Kobrin and Hendershot, 1977), (pg. 84). <a h
 
 
 Headey (1999) found that only 11% of those who had dogs were on some medication
-compared with 19% of those with no pets; the pets ownders went to the doctor
+compared with 19% of those with no pets; the pets owners went to the doctor
 less too. (pg. 85) <a href="#citation-46"><sup>46</sup></a> 
 
 
@@ -358,7 +358,7 @@ that 42% reported having high job satisfaction. (pg. 89) <a href="#citation-49">
 The overall correlation between pay and job satisfaction is low, typically .15
 to .17, so pay is not an important cause of job satisfaction. (pg. 91)
 
-Those doing voluntary work ares ometimes found to enjoy their work as much or
+Those doing voluntary work ares sometimes found to enjoy their work as much or
 more than paid workers (Furnham and Argyle, 1998). (pg. 91) <a href="#citation-50"><sup>50</sup></a> 
 
 
@@ -383,7 +383,7 @@ job. (pg. 96) <a href="#citation-54"><sup>54</sup></a>
 
 
 American surveys have found that 10-12% of the unemployed described themselves
-as "very ahppy" compared with 30% of the general population. This effect is
+as "very happy" compared with 30% of the general population. This effect is
 causal. (Warr, 1978) (pg. 103) <a href="#citation-55"><sup>55</sup></a> 
 
 
@@ -391,13 +391,13 @@ Clark et al. (1996) conclude that the effect of job loss on general mental
 health is worse than that of divorce. (pg. 104)<a href="#citation-52"><sup>52</sup></a> 
 
 Murphy and Athanasou (1999) carried out a meta-analysis and found that starting
-work led to increased mental health witht an effect size of .54, while losing a
+work led to increased mental health with an effect size of .54, while losing a
 job led to deterioration with an effect size of .36. (pg. 104) <a href="#citation-56"><sup>56</sup></a> 
 
 In Britain it has been found that income explains less than a quarter of the
 reduction of GHQ scores for the unemployed (Clark, 1998b). <a href="#citation-57"><sup>57</sup></a> 
 
-Unemployment creats more distress for those high in neuroticism (Payne, 1988),
+Unemployment creates more distress for those high in neuroticism (Payne, 1988),
 introversion, and for type A personalities. (pg. 105) <a href="#citation-58"><sup>58</sup></a> 
 
 
@@ -422,19 +422,19 @@ happiness. (pg. 112)
 Thayer (1989) found that a 10-minute brisk walk resulted n less tiredness, more
 energy, and less tension 2 hours later. Other studies found that after an hour's
 exercise, such as aerobics, those involved felt less tense, depressed, angry,
-tired or confused, and had more vigour, for the rest of the day and, in some,
+tired or confused, and had more vigor, for the rest of the day and, in some,
 for the next day (Maroulakis and Zervas, 1993). (pg. 113)
 
 Paffenbarger el at. (1991) followed up 17,000 Harvard alumni over a period of 16
 years and found fewer heart attacks for those who did more exercise. Thirty
 minutes a day was enough to give maximum benefits. There were 31% fewer
-deahts. (pg. 115)
+deaths. (pg. 115)
 
-Former athletes have been found to live longer than non-athlets (Shepherd,
+Former athletes have been found to live longer than non-athletes (Shepherd,
 1997). (pg. 115)
 
 Koneci (1982) fond that playing simple melodies at a low volume led to insulted
-subjects being less agressive. (pg. 121)
+subjects being less aggressive. (pg. 121)
 
 People listen to about 1.25 hours of music a day on average. (pg. 121)
 
@@ -443,7 +443,7 @@ satisfaction. (pg. 121)
 
 Watching videos of wilderness has been found to lower blood pressure. (pg. 122)
 
-A number of leisure activities were thought to satisfy socialneeds that are not
+A number of leisure activities were thought to satisfy social needs that are not
 obviously social, such as serious reading and meditation. (Hills et al., 2000),
 (pg. 126)
 
@@ -469,28 +469,28 @@ King and Napa (1998) found that their subjects estimated money as worth
 one-fifth of the effect of happiness and one-sixth of meaning as components of
 the good life. (pg. 131)
 
-Kessler (1982) analysed data from eight American surveys with 16,000
+Kessler (1982) analyzed data from eight American surveys with 16,000
 subjects. He found that for men income, especially earned income, was the
 strongest predictor of depression; occupational status was much weaker. For
 women education was a stronger predictor. (pg. 134)
 
-For men the benefits of income levelled off at $75,000, but for women the
+For men the benefits of income leveled off at $75,000, but for women the
 richest were more depressed than those in the next lowest income band. (West,
 Reed, and Gildengorin, 1998). (pg. 135)
 
 Blaxter (1990) found that the poor were in much worse health than the better
-off, but there was an upturn in badhealth for the very rich, which she concluded
+off, but there was an upturn in bad health for the very rich, which she concluded
 was mainly due to drinking too much. (pg. 135)
 
 Clark (1996) studied data from 9000 British adults and found that job
-satisfaction was greater for those who had the largest pay rrises during the
-past year. However, their data sggested that the gains in satisfaction were in
+satisfaction was greater for those who had the largest pay raises during the
+past year. However, their data suggested that the gains in satisfaction were in
 the short term only, and some kind of habituation sets in. (pg. 138)
 
 It looks as if suddenly acquiring large sums of money does not make people very
 happy. (pg. 138)
 
-In 1987 Americans wanted $50,000 per annum to fulfil their dreams, in 1994 they
+In 1987 Americans wanted $50,000 per annum to fulfill their dreams, in 1994 they
 wanted $102,000 (Schor, 1998) (pg. 140).
 
 With income held constant those with the lowest expectations had the highest job
@@ -500,18 +500,18 @@ Berkowitz and his colleagues (1987), in a survey in Wisconsin, found that
 inequiity was the strongest predictor of (low) pay satisfaction. (pg. 141)
 
 Do people compare their present situation with the past, are they happier if
-their finncial situation has imprved? There are immediate effects, but these do
+their financial situation has improved? There are immediate effects, but these do
 not last very long, and there seem to be no reliable effects of comparisons with
 the past. (pg. 141)
 
-The effect of education on happiness is greater in poorer countires. (pg. 146)
+The effect of education on happiness is greater in poorer countries. (pg. 146)
 
 # Personality, age and gender
 
 Argyle (1994) found that the socially unskilled avoid many situations that
 others enjoy. (pg. 149)
 
-Headey et al. (1985) found that good social realtions over a period of time
+Headey et al. (1985) found that good social relations over a period of time
 produced increased levels of extraversion, and this in turn led to increased
 well-being. (pg 149)
 
@@ -523,19 +523,19 @@ Self-esteem correlates with measures of well-being more strongly than extraversi
 
 Internal control has consistently been found to be a predictor of happiness. (pg. 155)
 
-Positive affect increases with age and negtive affect decreases, at least through early and middle adulthood. Mroczak and Kolanz (1998) found that increasse in positive affect held only for male introverts, while the decline in negative affect in women only held for those who were married. (pg. 160)
+Positive affect increases with age and negative affect decreases, at least through early and middle adulthood. Mroczak and Kolanz (1998) found that increases in positive affect held only for male introverts, while the decline in negative affect in women only held for those who were married. (pg. 160)
 
 A meta-analysis carried out by Wood et al. (1989) found that women were on average a little happier than men. (pg. 161)
 
 # Religion
 
-The benefts of church may due to the social support it provides. (pg. 167)
+The benefits of church may due to the social support it provides. (pg. 167)
 
 Poloma and Pendleton (1991) found that peak experiences and prayer experience were the best predictors of well-being, especially existential well-being. (pg. 167)
 
 Existential well-being is the aspect of SWB most influenced by religion (e.g. Charmberlain and Zika, 1988). (pg. 167)
 
-Kirkpatrick (1992) suggested that teh relation with God via prayer, private devotions, and religious experiences, can be experienced in much the same way as relations with humans, and and can give similar benefits. (pg. 167)
+Kirkpatrick (1992) suggested that the relation with God via prayer, private devotions, and religious experiences, can be experienced in much the same way as relations with humans, and and can give similar benefits. (pg. 167)
 
 The effect of religiosity on subjective well-being is strongest for Black Americans. (pg. 167)
 
@@ -545,13 +545,13 @@ Booth et al (1997) carried out a careful longitudinal study of 1005 married peop
 
 Intense religious experiences usually occur in isolation. (pg. 173)
 
-Pahnke (1966) induced religious experience by means of drugs and the effects on postive outlook were still there 6 months afterwards, described as "joy, blessedness and peace".
+Pahnke (1966) induced religious experience by means of drugs and the effects on positive outlook were still there 6 months afterwards, described as "joy, blessedness and peace".
 
 Prayer produces enhanced happiness and existential well-being. Poloma and Pendleton (1991) found that this was greatest when religious experiences occurred during prayer, and these were brought on by meditative prayer. (pg. 173)
 
 In Jerusalem a number of visitors become emotionally disturbed simply by the strong religious presence of holy places and religious symbolism, and end up in the hospital ward kept for those with "Jerusalem syndrome." (pg. 175)
 
-Intrinsic religiousity may reduce the fear of death. (Osarchuk and Tate, 1973). (pg. 175)
+Intrinsic religiosity may reduce the fear of death. (Osarchuk and Tate, 1973). (pg. 175)
 
 # National differences in happiness
 
@@ -569,7 +569,7 @@ Lists of objective indicators for well-being appear to be very arbitrary. Becker
 
 Exercise is one of the easiest and most effective methods of inducing positive moods. (pg. 202)
 
-Forms of cognitive therapy have been used for normals wth success. Lichter et al. (1980) devised a course of eight 2-hour sessions over 4 weeks, focusing on improving insight and understanding and correcting irrational beliefs. Those trained in this way improved in happiness and satisfaction. (pg. 210)
+Forms of cognitive therapy have been used for normals with success. Lichter et al. (1980) devised a course of eight 2-hour sessions over 4 weeks, focusing on improving insight and understanding and correcting irrational beliefs. Those trained in this way improved in happiness and satisfaction. (pg. 210)
 
 Depressed patients and many other mental patients have been found to display defective social skills such as low rewardingness (Hollin and Trower, 1986). (pg. 212)
 
@@ -579,13 +579,13 @@ When positive moods have been induced in subjects, they feel very sociable. (pg.
 
 Happy people have higher quality social interactions. (pg. 215)
 
-When people are in a positive modd they have a less cautious social style. (pg. 215)
+When people are in a positive mood they have a less cautious social style. (pg. 215)
 
 Couples coming out of a happy movie, or who had seen one in the lab, evaluated their relationships more positively, and reported greater admiration for each other and more self-disclosure than those coming out of a sad movie. (Forgas et al., 1994) (pg. 216)
 
 Those in positive moods are sexually aroused more readily. (pg. 216)
 
-Happy people like others morel they are also more liked by others, who will spend more time with thehm, sit nearer, say they would like to meet tem again, compared with depressed individuals for example (Howes and Hokanson, 1979) (pg. 216).
+Happy people like others morel they are also more liked by others, who will spend more time with them, sit nearer, say they would like to meet them again, compared with depressed individuals for example (Howes and Hokanson, 1979) (pg. 216).
 
 When individuals have had a lot of positive life events they become more extraverted, which in turn makes them happier, as Headry and Wearing (1992( found in their longitudinal study in Australia. (pg. 216)
 
@@ -597,15 +597,15 @@ Weisenverg et al. (1998) found that after seeing a humorous film subjects could 
 
 # Conclusions
 
-Social relations are probably the greatest single cause of happiness and other apects of well-being. (pg. 224)
+Social relations are probably the greatest single cause of happiness and other aspects of well-being. (pg. 224)
 
 Friends are very important but how do we find and keep them? Part of the answer lies in social skills training, part of it lies in joining leisure groups. (pg. 225)
 
-Purpose in life and a sense of meaning can be generated by commitment to goaals. (pg. 225)
+Purpose in life and a sense of meaning can be generated by commitment to goals. (pg. 225)
 
 Intelligence has almost no effect on happiness. (pg. 226)
 
-It is sometimes said that you can't seek happiness, it has to come as a by-product of other activities. But depressed patients certainly seek happiness for themselves, and mental health workers seek it for them, succesfully, and there seems to be no objection to that. (pg. 229)
+It is sometimes said that you can't seek happiness, it has to come as a by-product of other activities. But depressed patients certainly seek happiness for themselves, and mental health workers seek it for them, successfully, and there seems to be no objection to that. (pg. 229)
 
 
 
