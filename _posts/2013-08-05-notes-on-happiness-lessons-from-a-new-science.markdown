@@ -17,9 +17,9 @@ Most people find it easy to say how good they are feeling, and in social surveys
 
 Layard defines happiness as feeling good and states that the book is concerned with increasing people's average happiness over time. (pg. 17)
 
-By using very powerful magnets it is possible to stimulate activity in the left side of the forebreain, and this automatically produces a better mood. Indeed, this method has even been used to alleviate depression. Even more remarkable, it has been found that to improve the immune system, which is heavily influenced by a person's mood. (pg. 19)
+By using very powerful magnets it is possible to stimulate activity in the left side of the forebrain, and this automatically produces a better mood. Indeed, this method has even been used to alleviate depression. Even more remarkable, it has been found that to improve the immune system, which is heavily influenced by a person's mood. (pg. 19)
 
-When different peoeple are exposed to good experiences, those who are naturally happy when nat rest experience the greatest gain in happiness. And when they are exposed to nasty experiences, they experience the least increase is discomfort. (pg. 19)
+When different people are exposed to good experiences, those who are naturally happy when at rest experience the greatest gain in happiness. And when they are exposed to nasty experiences, they experience the least increase is discomfort. (pg. 19)
 
 When people are exposed to a painful experience, their subjective pain reports are highly correlated with the different levels of brain activity in the relevant part of the cortex. (pg. 20)
 
@@ -35,11 +35,11 @@ When people become richer compared with other people, they become happier, but w
 
 When we look at the same people over their lifetimes, we find they got no happier, even though they get much richer. (pg. 32)
 
-A group of Chinese students wre asked to answer a happiness survey in both Chinese and English, with two weeks between the two events. The students reported almost exactly the same average level of happiness in both Chinese and English, and the answers in the different languages were highhly correlated across the students. (pg.34)
+A group of Chinese students were asked to answer a happiness survey in both Chinese and English, with two weeks between the two events. The students reported almost exactly the same average level of happiness in both Chinese and English, and the answers in the different languages were highly correlated across the students. (pg.34)
 
-In Switzerland most people speaj French, German, or Italian, but all these groups give similar replies to the question about happiness. (pg. 34)
+In Switzerland most people speak French, German, or Italian, but all these groups give similar replies to the question about happiness. (pg. 34)
 
-Most evidence suggests thaht clinical depression has increased since the Second World War. (pg. 35)
+Most evidence suggests that clinical depression has increased since the Second World War. (pg. 35)
 
 In any one year about 6% of people in the United Sates experience a major depressive episode. (pg. 35)
 
@@ -51,19 +51,19 @@ Youth suicide has increased in almost every advanced country. (pg. 37)
 
 # If you're so rich, why aren't you happy?
 
-Since 1972 Americans have been asked whether they are satisfied with their financial position. Although real income per head has neaerly doubled, the  proportion of people who say they are pretty well satisfied with their financial situation has actually fallen. (pg. 42)
+Since 1972 Americans have been asked whether they are satisfied with their financial position. Although real income per head has nearly doubled, the  proportion of people who say they are pretty well satisfied with their financial situation has actually fallen. (pg. 42)
 
 The only situation where we might willingly accept a pay cut is when others are doing the same. (pg. 44)
 
 At the extreme we have the Russian peasant whose neighbor has a cow. When God asks how he can help, the peasant replies, "Kill the cow." (pg. 45)
 
-If I work harder and raise my income, I make other people less happy. But when I decide how much to work, I do not take this "pollution" nto account. so I will tend to work more than is socially efficient -- and so will everyone else. (pg. 47)
+If I work harder and raise my income, I make other people less happy. But when I decide how much to work, I do not take this "pollution" into account. so I will tend to work more than is socially efficient -- and so will everyone else. (pg. 47)
 
 A dollar rise in experienced income causes a rise of at least forty cents in "required income." (pg. 49)
 
 People do underestimate this process of habituation: As a result, our life can get distorted towards working and making money, and away from other pursuits. (pg. 49)
 
-Among rich countries, people in the United States work the longest hours. In most countries and at most times in history, as people have become richer they have chosen to work less. Over the last fifty yers Europeans have continued this pattern and hous of work have fallen sharply, but not in the United States. (pg. 50)
+Among rich countries, people in the United States work the longest hours. In most countries and at most times in history, as people have become richer they have chosen to work less. Over the last fifty years Europeans have continued this pattern and hours of work have fallen sharply, but not in the United States. (pg. 50)
 
 # So what does make us happy?
 
@@ -73,13 +73,13 @@ As adoptees progress through life, the effect of their adoptive parents fades an
 
 Among humans, controlled experiments to improve parenting have been shown to have lasting effects on the children. (pg. 60)
 
-For many reasons mothers treat one twin differently from another, and even by the age of seven we can see that the facoured twin behaves much better. (pg. 60)
+For many reasons mothers treat one twin differently from another, and even by the age of seven we can see that the favored twin behaves much better. (pg. 60)
 
 # What's going wrong?
 
 Bhutan is small Buddhist kingdom in the Himalayas. In 1998, the king announced that the nation's objective would be the Gross National Happiness. In 1999, the country's ban on television was lifted. Crime increased, families dissolved, and drug use rose. (pg. 77)
 
-Unmarried parents are on averge twice as likely to split up as married parents. (pg. 79)
+Unmarried parents are on average twice as likely to split up as married parents. (pg. 79)
 
 In 1950, 20% of U.S. mothers went out to work. Now it is over 70%. (pg 82)
 
