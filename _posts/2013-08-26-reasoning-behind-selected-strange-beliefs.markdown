@@ -273,7 +273,7 @@ around and fighting nature makes everyone miserable.
 <a name="citation-2"></a>
 2. Pimentel, David, and Marcia Pimentel. ["Sustainability of meat-based and plant-based diets and the environment."](http://ajcn.nutrition.org/content/78/3/660S.full) The American Journal of Clinical Nutrition 78.3 (2003): 660S-663S.
 <a name="citation-3"></a>
-3. Singer, Peter. Practical ethics. Cambridge University Press, 1993.
+3. Singer, Peter. *Practical ethics.* Cambridge University Press, 1993.
 <a name="citation-4"></a>
 4. Steinfeld, Henning, et al. [Livestock's long shadow.](ftp://ftp.fao.org/docrep/fao/010/a0701e/a0701e.pdf) Rome: FAO, 2006.
 <a name="citation-5"></a>
