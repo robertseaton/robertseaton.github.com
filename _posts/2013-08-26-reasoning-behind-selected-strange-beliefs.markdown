@@ -31,7 +31,7 @@ value not participating in animal torture more than the inconvenience of not
 eating animal products.
 
 A lot of people will retort with, "Who cares? They're animals," which strikes me
-as a rationalization. If I came to your house and starting kicking your dog, you
+as a rationalization. If I came to your house and started kicking your dog, you
 would not like that, even though your dog is "just" an animal.
 
 So, then, one might say: yes, but I love my dog, and I don't love the cow I'm
