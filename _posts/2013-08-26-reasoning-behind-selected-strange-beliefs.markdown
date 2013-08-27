@@ -260,12 +260,15 @@ around and fighting nature makes everyone miserable.
 
 # Further Reading
 * For more on the environmental impact of meat production, check out [this Wikipedia page](http://en.wikipedia.org/wiki/Environmental_impact_of_meat_production). For information about sustainability arguments for veganism, there's [this page](http://en.wikipedia.org/wiki/Environmental_vegetarianism).
+* What foods cause the most suffering? A stab at an answer to that question is [here](http://www.utilitarian-essays.com/suffering-per-kg.html).
 * According to [this informal survey](http://leiterreports.typepad.com/blog/2012/10/philosophers-eating-ethics-a-discussion-of-the-poll-results.html) of philosophers' eating habits, philosophers are ten to twenty times more likely to be vegan than the general population.
 * For a critique of moral vegetarianism, there is [this paper](http://www.reasonpapers.com/pdf/03/rp_3_2.pdf).
-* The (debunked) doctrine that living organism are fundamentally different from non-living things (due to a soul or life force) is called [vitalism](http://en.wikipedia.org/wiki/Vitalism).
 * The importance of existential risk from an ethical standpoint is laid out in Derek Parfit's *Reasons and Persons*. Nick Bostrom describes the reasoning in [this TedX talk](http://www.youtube.com/watch?v=P0Nf3TcMiHo).
 * The book *Global Catastrophic Risks* covers the threats facing humanity's continued existence.
+* The (debunked) doctrine that living organism are fundamentally different from non-living things (due to a soul or life force) is called [vitalism](http://en.wikipedia.org/wiki/Vitalism).
+* For a whimsical discussion of the philosophical issues regarding artificial intelligence (and much more!), check out Hofstader's *Gödel, Escher, Bach*.
 * The original and more thorough treatment of the simulation argument is covered [here](http://www.simulation-argument.com/simulation.html). There are a number of resources -- papers, interviews, an FAQ -- related to the idea [here](http://www.simulation-argument.com/).
+* Here is a far less artificial (given that it's written by polyamorists in the wild, something I'm not), [discussion of polyamory](http://lesswrong.com/lw/79x/polyhacking/).
 
 # Sources
 <a name="citation-1"></a>
