@@ -141,6 +141,11 @@ ul#rss li a {
    border-radius:5px; /* standards version last */
 }
 
+article img {
+    max-width:500px; /* you can use % */
+    height: auto;
+}
+
 ul#rss li a:hover,
 ul#rss li a:focus,
 ul#rss li a:active {
