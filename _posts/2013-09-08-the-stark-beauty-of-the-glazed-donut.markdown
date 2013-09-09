@@ -4,7 +4,7 @@ layout: post
 ---
 
 The glazed donut is the noblest of all donuts. It's not a loud, flashy
-donut. It doesn't seduce coffee house denizens with sprinkles or jelly
+donut. It doesn't seduce coffeehouse denizens with sprinkles or jelly
 filling. It's an honest, functional donut. While all donuts may represent some excess, the glazed
 donut does not smack of the same gluttony as more lavish donuts. 
 

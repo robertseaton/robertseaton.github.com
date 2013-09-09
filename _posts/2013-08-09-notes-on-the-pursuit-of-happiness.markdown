@@ -1,5 +1,5 @@
 ---
-title: Notes of <em>The Pursuit of Happiness</em>
+title: Notes on <em>The Pursuit of Happiness</em>
 layout: post
 ---
 
