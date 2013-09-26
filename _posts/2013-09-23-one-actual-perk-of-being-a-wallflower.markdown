@@ -1,5 +1,6 @@
 ---
 title: One Actual Perk of Being a Wallflower
+layout: post
 ---
 
 > Although extraverts are generally happier than introverts, Kette (1991) found that 
