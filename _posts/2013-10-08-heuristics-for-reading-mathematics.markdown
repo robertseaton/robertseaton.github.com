@@ -6,7 +6,7 @@ layout: post
 > The difference between the poet and the mathematician is that the poet tries to get his head into the heavens while the mathematician tries to get the heavens into his head.
 <span id="quote-attribute">—G.K. Chesterton</span>
 
-**Visualize it**: Build a mental image. Lines, triangles, donuts. Add one thing at a time. A significant amount of your brain brain mass is devoted to imagery. Repurpose it for mathematics. Don't understand what a function does? It takes an input and produces an output, but that's too vague. It makes mathematical sausage. 
+**Visualize it**: Build a mental image. Lines, triangles, donuts. Add one thing at a time. A significant amount of your brain mass is devoted to imagery. Repurpose it for mathematics. Don't understand what a function does? It takes an input and produces an output, but that's too vague. It makes mathematical sausage. 
 
 > Do I contradict myself? Very well, then I contradict myself, I am large, I contain multitudes.
 <span id="quote-attribute">—Walt Whitman</span>
