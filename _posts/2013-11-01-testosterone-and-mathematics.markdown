@@ -1,5 +1,5 @@
 ---
-title: "Bad at Math: Have You Tried Steroids?"
+title: "Bad at Math? Have You Tried Steroids?"
 layout: post
 ---
 
