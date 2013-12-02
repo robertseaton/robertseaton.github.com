@@ -53,7 +53,7 @@ Anyways, the focus here has been on incremental improvement and the
 disappearance of chores. If drones do pan out, though, the interesting effects
 are going to be in how they disrupt markets and enable new types of trade. We
 can imagine trying to predict the consequences of the internet or
-the the telephone when they were first introduced. The changes wrought were no doubt much
+the telephone when they were first introduced. The changes wrought were no doubt much
 larger than anyone expected. I don't think drones are as fundamental as either
 of those, but I do think that -- should the technology come to fruition -- the results
 will be quite different from what we anticipate.
