@@ -36,6 +36,6 @@ Nazi.
   of cooperation with Hitler while he was exterminating the Jews? Would that
   have been a moral triumph?
 * *The New York Times*, the most popular newspaper during the war,
-   [systematically buried stories about German atrocities against Jews](en.wikipedia.org/wiki/Buried_by_the_Times).
+   [systematically buried stories about German atrocities against Jews](http://en.wikipedia.org/wiki/Buried_by_the_Times).
   
 Makes you wonder about [this whole moral progress thing](http://paulgraham.com/say.html).
