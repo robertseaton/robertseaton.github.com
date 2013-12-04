@@ -6,7 +6,7 @@ layout: post
 I've started reading through some of the works of
 [Mencius Moldbug](http://unqualified-reservations.blogspot.com/). I figure that
 politics is a waste of cognition but, hey, it's entertaining and I enjoy being
-exposed to different points of view. Moldbug is a bit long-winded (understatement), but the guys at More Right have put together [PDF
+exposed to different points of view. Moldbug is a bit long-winded (understatement), but the guys at [More Right](http://www.moreright.net/) have put together [PDF
 copies of the "essential Moldbug,"](http://www.moreright.net/books/Mencius%20Moldbug/)
 which makes reading it a whole hell of a lot easier. 
 
