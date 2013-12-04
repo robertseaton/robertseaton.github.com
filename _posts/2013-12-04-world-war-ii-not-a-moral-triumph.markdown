@@ -20,7 +20,7 @@ Anyways, I've been reading through Moldbug, and was struck by [a passage](http:/
 piece of unquestioned and no doubt revisionist history: World War II was a
 struggle of good versus evil and good won. The popular narrative goes something
 like, "Hitler was an evil man, committing gross human rights violations by
-rounding up and slaughtering Jews. The Allied Axis wouldn't stand for this, so
+rounding up and slaughtering Jews. The Allied powers wouldn't stand for this, so
 we put a stop to it."
 
 But this ignores:
