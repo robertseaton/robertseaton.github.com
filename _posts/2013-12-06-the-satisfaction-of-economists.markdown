@@ -11,8 +11,7 @@ life satisfaction of economists. It's a horrible paper. I don't like it at all.
 Here are some reasons:
 
 * The authors use satisfaction and happiness interchangeably. [They are not the same
-  construct](http://link.springer.com/article/10.1023/A:1006806601848#page-1) and it will confuse those not familiar with the extant
-  literature.
+  construct](http://link.springer.com/article/10.1023/A:1006806601848#page-1) and it will confuse those not familiar with the existing literature.
 * The sample is taken from a few mailing lists of European economists.
 * The study measures life satisfaction with a single question.
 * The life satisfaction question is part of a broader survey focused on
