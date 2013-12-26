@@ -7,7 +7,7 @@ layout: post
 <span id="quote-attribute">—Johann Wolfgang von Goethe </span>
 
 Humans are evolutionary hacks. I'm often not of one mind, or even two, but of
-four and sometimes more. Our brains seems to be locked in an eternal struggle, a constant clash of
+four and sometimes more. Our brains seem to be locked in an eternal struggle, a constant clash of
 warring preferences. Consider the would-be comedian who, instead of working on
 his act, spends the day watching *Family Guy* reruns. He is of two minds: one
 wishes to watch *Family Guy* while another wants to brainstorm new routines.
