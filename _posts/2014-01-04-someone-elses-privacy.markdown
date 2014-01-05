@@ -29,7 +29,7 @@ look at the recording." Or, to lead you to the point of this post, surveillance
 of the police is an a-okay subset of surveillance more generally.
 
 But these same arguments apply to recording everything! Want to stop people from
-murdering other people? (Yes.) Record everything, everyone, everwhere. If you
+murdering other people? (Yes.) Record everything, everyone, everywhere. If you
 need to know who murdered whom, or verify an alibi, go look it up in the archive.
 
 At this point, the discussion we ought to be having is *how can
