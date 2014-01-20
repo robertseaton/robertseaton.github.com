@@ -286,10 +286,10 @@ throw out what doesn't work, and [try new things](http://lesswrong.com/lw/2p5/hu
 # Sources
 
 <a name="citation-1"></a>
-1. Stefan, Katja, Matthias Wycislo, and Joseph Classen. ["Modulation of associative human motor cortical plasticity by attention."](http://jn.physiology.org/content/92/1/66.short) *Journal of Neurophysiology* 92.1 (2004): 66-72.
+1. Stefan, Katja, Matthias Wycislo, and Joseph
+Classen. ["Modulation of associative human motor cortical plasticity by attention."](http://jn.physiology.org/content/92/1/66.short) *Journal of Neurophysiology* 92.1 (2004): 66-72.
 <a name="citation-2"></a>
-2. de Groot, Adriaan David Cornets, and Adrianus Dingeman de Groot. *Thought and
-choise in chess.* Vol. 4. Walter de Gruyter, 1978.
+2. de Groot, Adriaan David Cornets, and Adrianus Dingeman de Groot. *Thought and choise in chess.* Vol. 4. Walter de Gruyter, 1978.
 <a name="citation-3"></a>
 2. Frey, Peter W., and Peter Adesman. "Recall memory for visually presented chess positions." *Memory & Cognition* 4.5 (1976): 541-547.
 <a name="citation-4"></a>
@@ -299,8 +299,7 @@ choise in chess.* Vol. 4. Walter de Gruyter, 1978.
 <a name="citation-6"></a>
 6. Charness, Neil. "Expertise in chess: The balance between knowledge and search." *Toward a general theory of expertise: Prospects and limits* (1991): 39-63.
 <a name="citation-7"></a>
-7. Charness, Neil. "Components of skill in bridge." *Canadian Journal of
-Psychology/Revue canadienne de psychologie* 33.1 (1979): 1.
+7. Charness, Neil. "Components of skill in bridge." *Canadian Journal of Psychology/Revue canadienne de psychologie* 33.1 (1979): 1.
 <a name="citation-8"></a>
 8. Engle, Randall W., and Lee Bukstel. "Memory processes among bridge players of
 differing expertise." *The American Journal of Psychology* (1978): 673-689.
@@ -319,8 +318,7 @@ and other domains." *Toward a general theory of expertise: Prospects and limits*
 12. Deakin, Janice M., and Fran Allard. "Skilled memory in expert figure
 skaters." *Memory & Cognition* 19.1 (1991): 79-86.
 <a name="citation-13"></a>
-13. McKeithen, Katherine B., et
-al. ["Knowledge organization and skill differences in computer programmers."](http://141.213.232.243/bitstream/handle/2027.42/24336/0000603.pdf?sequence=1)
+13. McKeithen, Katherine B., et al. ["Knowledge organization and skill differences in computer programmers."](http://141.213.232.243/bitstream/handle/2027.42/24336/0000603.pdf?sequence=1)
 *Cognitive Psychology* 13.3 (1981): 307-325.
 <a name="citation-14"></a>
 14. Egan, Dennis E., and Barry J. Schwartz. "Chunking in recall of symbolic
