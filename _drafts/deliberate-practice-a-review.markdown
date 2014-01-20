@@ -150,12 +150,18 @@ interesting result, though, is that de Groot found that this only held when the
 board had structured board positions of the sort one would see in actual
 play. When he showed subjects randomized board positions, experts did as poorly
 as novices. This has been replicated a number of times in chess,<a
-href="#citation-3"><sup>3,</sup></a><a href="#citation-4"><sup>4</sup></a> 
+href="#citation-3"><sup>3,</sup></a><a href="#citation-4"><sup>4,</sup></a><a
+href="#citation-5"><sup>5,</sup></a><a href="#citation-6"><sup>6</sup></a>
+bridge,<a href="#citation-7"><sup>7,</sup></a><a
+href="#citation-8"><sup>8</sup></a> go,<a href="#citation-9"><sup>9</sup></a>
+music,<a href="#citation-10"><sup>10</sup></a> field hockey, dance, and
+basketball,<a href="#citation-11"><sup>11</sup></a> figure skating,<a
+href="#citation-12"><sup>12</sup></a> computer programming,<a
+href="#citation-13"><sup>13</sup></a> electronics,<a
+href="#citation-14"><sup>14</sup></a> and physics.<a href="#citation-15"><sup>15</sup></a> 
 
-
-
-This is *chunking*. An untrained individual can hold about seven
-(plus or minus two) numbers in short-term memory at one time. Short term memory,
+This is *chunking*. An untrained individual can hold about [seven
+(plus or minus two) numbers in short-term memory at one time](http://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two). Short term memory,
 then, is limited, but one can get around this via chunking. Given the right
 structure, like a meaningful chess board position, larger *chunks* can be held in
 memory. When reading, for instance, one doesn't hold individual letters in
@@ -174,11 +180,11 @@ equivalent of the `glue` function that takes place during deliberate
 practice. Herbert Simon estimates that each chunk takes about 30 seconds of
 focused attention to create, with an expert having created somewhere between
 50,000 and 1.8 million chunks -- about 10 years of four hours of practice per
-day.
+day.<a href="#citation-16"><sup>16</sup></a> 
 
 ## From Whence Intuition Springeth
 
-Experts are often distinguished by their intuition. Consider the blitz style of
+Experts are often distinguished by their intuition. Consider the [blitz style](http://en.wikipedia.org/wiki/Fast_chess) of
 play in chess. Specifics vary, but in general it works that each side has five
 minutes on the clock and a limit of ten seconds per turn. The conditions make it
 so one has to move without thought, relying on intuition.
@@ -194,7 +200,7 @@ has seen before. The chess player looks at the board, similar positions and
 strong moves are automatically retreived from long-term memory, and he makes one
 of those moves.
 
-*Insight is the fast, effortless recall of cached experienced.* This is memoization. Instead of computing
+*Insight is the fast, effortless recall of cached experienced.* This is [memoization](http://en.wikipedia.org/wiki/Memoization). Instead of computing
  something several times, save it in memory and look it up when you need it. I
  propose that the human brain works in a similar manner: when we meet with a
  novel experience or problem, we're forced to use effortful computation to solve
@@ -229,11 +235,41 @@ Jeff Hawking answers this in his book *On Intelligence*:
 > retrieves the answers from memory.
 
 Sound familiar? The brain is a giant cache. Sure, it computes, too, but it's
-slow. Most of our thought is probably retrieval from long-term memory. You can even observe this during
+slow. Most of our thought is retrieval from long-term memory. You can even observe this during
 conversation, which is almost never the creation of novel thoughts, but mostly
 the repeating of things you've thought and heard before. 
-- about changing long term memory
 
+# Putting It All Together
+
+> Rumor is that a pedestrian on Fifty-seventh Street, Manhattan, stopped Jascha
+> Heifetz and inquired, "Could you tell me how to get to Carnegie Hall?" "Yes,"
+> said Heifetz. "Practice!"
+  
+Putting it all together, then, humans are memory machines and expertise is a
+result of the amount of domain specifc knowledge -- chunks -- that one has
+stored in memory. These chunks are created during deliberate practice, an
+effortful activity designed to improve performance, which is distinguished by
+requiring intense focus. This focus turns out to be a required ingredient for
+bringing about neural reconfiguration.
+
+This model is nice, but how can you put it into practice? To accelerate the
+creation of chunks, try using Anki and read through [this great article on
+spaced repetition](http://www.gwern.net/Spaced%20repetition?2). ([Roger Craig
+used Anki to set records on Jeopardy](http://en.wikipedia.org/wiki/Roger_Craig_%28Jeopardy!_contestant%29)! Do it! This is a sign! Look at all these
+exclamations!) Increase the
+amount of deliberate practice that you engage in by taking a skill you'd like to
+improve, break down what expertise in that domain looks like, identify your
+weakness and what you don't know, then make a step by step plan for improving
+your skill. Make sure to break that plan into chunks small enough that they're
+no longer intimidating.
+
+Once you have a plan worked out, set aside a couple Pomodoro's each day to focus
+only on deliberate practice. Shut out distraction, drink some coffee or
+green tea, sit down and focus. (Maybe even try
+[chewing nicotine gum](http://www.gwern.net/Nicotine).)
+
+Once you have all that down, periodically review your training and your plan,
+throw out what doesn't work, and [try new things](http://lesswrong.com/lw/2p5/humans_are_not_automatically_strategic/). Happy practicing!
 
 # Sources
 
@@ -246,3 +282,38 @@ choise in chess.* Vol. 4. Walter de Gruyter, 1978.
 2. Frey, Peter W., and Peter Adesman. "Recall memory for visually presented chess positions." *Memory & Cognition* 4.5 (1976): 541-547.
 <a name="citation-4"></a>
 4. Chase, William G., and Herbert A. Simon. "Perception in chess." *Cognitive psychology* 4.1 (1973): 55-81.
+<a name="citation-5"></a>
+5. Reingold, Eyal M., et al. ["Visual span in expert chess players: Evidence from eye movements."](http://csi.ufs.ac.za/resres/files/ReingoldCharnessPomplunStampe%20%282001%29.pdf) *Psychological Science* 12.1 (2001): 48-55.
+<a name="citation-6"></a>
+6. Charness, Neil. "Expertise in chess: The balance between knowledge and search." *Toward a general theory of expertise: Prospects and limits* (1991): 39-63.
+<a name="citation-7"></a>
+7. Charness, Neil. "Components of skill in bridge." *Canadian Journal of
+Psychology/Revue canadienne de psychologie* 33.1 (1979): 1.
+<a name="citation-8"></a>
+8. Engle, Randall W., and Lee Bukstel. "Memory processes among bridge players of
+differing expertise." *The American Journal of Psychology* (1978): 673-689.
+<a name="citation-9"></a>
+9. Reitman, Judith S. "Skilled perception in Go: Deducing memory structures from
+inter-response times." *Cognitive psychology* 8.3 (1976): 336-356.
+<a name="citation-10"></a>
+10. Sloboda, John A. "Visual perception of musical notation: Registering pitch
+symbols in memory." *The Quarterly Journal of Experimental Psychology* 28.1
+(1976): 1-16.
+<a name="citation-11"></a>
+11. Allard, Fran, and Janet L. Starkes. "Motor-skill experts in sports, dance,
+and other domains." *Toward a general theory of expertise: Prospects and limits*
+(1991): 126-152.
+<a name="citation-12"></a>
+12. Deakin, Janice M., and Fran Allard. "Skilled memory in expert figure
+skaters." *Memory & Cognition* 19.1 (1991): 79-86.
+<a name="citation-13"></a>
+13. McKeithen, Katherine B., et
+al. ["Knowledge organization and skill differences in computer programmers."](http://141.213.232.243/bitstream/handle/2027.42/24336/0000603.pdf?sequence=1)
+*Cognitive Psychology* 13.3 (1981): 307-325.
+<a name="citation-14"></a>
+14. Egan, Dennis E., and Barry J. Schwartz. "Chunking in recall of symbolic
+drawings." *Memory & Cognition* 7.2 (1979): 149-158.
+<a name="citation-15"></a>
+15. Larkin, Jill, et al. "Expert and novice performance in solving physics problems." *Science* 208.4450 (1980): 1335-1342.
+<a name="citation-16"></a>
+16. Simon, Herbert Alexander. *The sciences of the artificial*. MIT press, 1996.
