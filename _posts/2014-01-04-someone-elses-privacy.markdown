@@ -1,6 +1,7 @@
 ---
 title: Someone Else's Privacy
 layout: post
+description: "People are pro-surveillance unless they're the one being monitored."
 ---
 
 There's a [link on Reddit](http://www.reddit.com/r/todayilearned/comments/1uegst/til_the_nypd_once_stripsearched_a_black_man/) to the sort of story that the internet can't get enough

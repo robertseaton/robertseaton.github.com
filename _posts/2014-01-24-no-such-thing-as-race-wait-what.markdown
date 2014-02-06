@@ -1,9 +1,9 @@
 ---
 title: No Such Thing as Race or... Wait, What?
 layout: post
+summary: "I extend the argument that race doesn't exist (\"it's unscientific\") to argue that humans do not exist."
+description: "Race exists and is a valid scientific category. Here's why."
 ---
-
-**Summary**: *I extend the argument that race doesn't exist ("it's unscientific") to argue that humans do not exist.*
 
 > No one in her left brain could reject reductionism.
 <span id="quote-attribute">—Douglas Hofstadter</span>

@@ -1,6 +1,8 @@
 ---
 title: Rules are Rules
 layout: post
+description: "Penalties are part of the game and to be exploited as such."
+summary: "Penalties are part of the game and to be exploited as such."
 ---
 
 I propose a new way of thinking about rules. Not as something that distinguishes

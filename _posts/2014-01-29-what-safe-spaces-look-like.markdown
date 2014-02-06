@@ -1,6 +1,7 @@
 ---
 title: 4chan as Safe Space
 layout: post
+description: "On the importance of spaces where people can speak without fear of reprisal and the benefits of anonymity. Centers around 4chan as an example."
 ---
 
 **Meditation**: *If there are true things that no one is allowed to say, how will

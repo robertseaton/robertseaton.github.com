@@ -1,9 +1,9 @@
 ---
 title: Why Replication Matters
 layout: post
+summary: "An explanation of the importance of scientific replication."
+description: "An explanation of the importance of scientific replication."
 ---
-
-**Summary:** *I explain why scientific replication matters.*
 
 > Every bit of evidence one can acquire, in any area, leads one that much closer to what is true.
 <span id="quote-attribute">—Carl Rogers</span>

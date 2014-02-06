@@ -1,6 +1,8 @@
 ---
 title: A Legacy of One or Two or Seven Billion
 layout: post
+summary: "I argue that one should take a broader view of what counts as a legacy."
+description: "What will you leave behind? Children? Or all of humanity?"
 ---
 
 I have heard tell of a time in a man's life where he begins to worry less about

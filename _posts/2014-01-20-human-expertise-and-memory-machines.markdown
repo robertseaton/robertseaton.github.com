@@ -1,13 +1,13 @@
 ---
 title: "Human Expertise and Memory Machines"
 layout: post
----
-
-**Summary**: I present a model of expertise with an emphasis on expertise as a
+summary: "I present a model of expertise with an emphasis on expertise as a
 function of long-term memory and human cognition as consisting of mostly cache
 lookups. Deliberate practice is described as a chunk creating activity
 distinguished by focus, with a discussion of the importance of attention in
-neural reconfiguration. Ends with how it can be put into practice for fun and profit.
+neural reconfiguration. Ends with how it can be put into practice for fun and profit."
+desciption: "How does human expertise and cognition work? I review some of the evidence."
+---
 
 # The Basics
 

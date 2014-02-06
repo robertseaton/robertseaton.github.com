@@ -25,7 +25,7 @@ mutually exclusive.
 ## An argument from animal suffering
 
 Factory farming is institutionalized cruelty on a scale that is hard to
-comprehend. <a href="#citation-1"><sup>1</sup></a> Vegans who go vegan for reasons of animal suffering usually do so
+comprehend.<a href="#citation-1"><sup>1</sup></a> Vegans who go vegan for reasons of animal suffering usually do so
 based on the belief that buying factory farmed meat is wrong. Specifically, they
 value not participating in animal torture more than the inconvenience of not
 eating animal products.
@@ -287,3 +287,4 @@ around and fighting nature makes everyone miserable.
 7. Bostrom, Nick. ["Existential Risk Prevention as Global Priority."](http://www.existential-risk.org/concept.html) Global Policy 4.1 (2013): 15-31.
 <a name="citation-8"></a>
 8. Sandberg, Anders, and Nick Bostrom. ["Global catastrophic risks survey."](http://www.fhi.ox.ac.uk/gcr-report.pdf) civil wars 98.30 (2008): 4.
+

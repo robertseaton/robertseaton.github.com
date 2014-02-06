@@ -1,12 +1,9 @@
 ---
 title: Boys Clubs and Polya's Urn
 layout: post
+summary: "I explain Polya's urn, offering it as an explanation for the existence of boys club, and as a defense from what I will call attacks-from-institutionalized-sexism."
+description: "Polya's urn model can explain why some clubs, organizations, and websites are male-dominated." 
 ---
-
-**Summary**: *I explain Polya's urn, offering it as an explanation for the
- existence of boys club, and as a defense from what I will call
- attacks-from-institutionalized-sexism.*
- <hr>
 
 > Now listen, you queer, you stop calling me a crypto-Nazi or I’ll sock you in
 > the goddamn face and you’ll stay plastered.

@@ -1,6 +1,7 @@
 ---
 title: In Praise of the Command Line
 layout: post
+description: The command line rocks. You should use it.
 ---
 
 There was a post about a week ago about how new computer science students don't
