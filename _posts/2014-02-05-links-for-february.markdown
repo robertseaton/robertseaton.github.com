@@ -9,7 +9,7 @@ description: Links to interesting odds and ends from around the web.
 
 * If Earth were shaped like a donut, [a day would be 2.84 hours long](http://io9.com/what-would-the-earth-be-like-if-it-was-the-shape-of-a-d-1515700296).
 
-* Terry Tao, whom I like to admire from afar, has posted what is maybe a takedown of [Otelbaev's claimed proof of Navier-Stokes](http://math.stackexchange.com/questions/634890/has-prof-otelbaev-shown-existence-of-strong-solutions-for-navier-stokes-equatio), but the best part? "One could describe the dynamics here as being similar to the famous 'lighting the beacons' scene in the Lord of the Rings movies, except that (a) as each beacon gets ignited, the previous one is extinguished, as per the energy identity; (b) the time between beacon lightings decrease exponentially; and (c) there is no soundtrack."
+* Terry Tao, whom I like to admire from afar, has [posted](http://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/) what is maybe a takedown of [Otelbaev's claimed proof of Navier-Stokes](http://math.stackexchange.com/questions/634890/has-prof-otelbaev-shown-existence-of-strong-solutions-for-navier-stokes-equatio), but the best part? "One could describe the dynamics here as being similar to the famous 'lighting the beacons' scene in the Lord of the Rings movies, except that (a) as each beacon gets ignited, the previous one is extinguished, as per the energy identity; (b) the time between beacon lightings decrease exponentially; and (c) there is no soundtrack."
 
 * Reason #24237834 the human brain is a gigantic hack: [Thinking about yourself in the third person reduces stress.](http://psycnet.apa.org/journals/psp/106/2/304)
 
