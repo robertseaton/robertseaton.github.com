@@ -1,6 +1,7 @@
 ---
 layout: default
 title: rs.io - forcing the heavens into my head.
+description: "Musings on human value and how to achieve those values. Lots of science. Either a whimsical tour or an unfocused mess."
 ---
 
 <section id="post">
@@ -9,6 +10,9 @@ title: rs.io - forcing the heavens into my head.
       <h1 id="title"><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h1>
       <p><time datetime="{{ site.posts.first.date }}" pubdate="pubdate">{{ site.posts.first.date | date:"%B %d, %Y" }}</time></p>
     </header>
+    {% if site.posts.first.summary %}
+    <p><strong>Summary: </strong><em>{{site.posts.first.summary}}</em></p>
+    {% endif %}
     {{ site.posts.first.content }}
   </article>
 
