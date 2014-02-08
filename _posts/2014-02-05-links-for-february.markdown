@@ -19,7 +19,7 @@ description: Links to interesting odds and ends from around the web.
 
 * Scott Alexander wrote an interesting [piece on the search terms that lead people to his blog](http://slatestarcodex.com/2014/02/03/more-search-terms-that-have-led-people-to-this-blog/), including 7th graders looking for answers to their [homework on alien thickness](http://slatestarcodex.com/2014/02/02/based-on-your-findings-which-theory-about-alien-thickness-seems-most-valid-or-most-accurate/). My favorite is “how to atract sisters,” which suggests the visual of throwing a [salt lick](http://en.wikipedia.org/wiki/Mineral_lick#Artificial_salt_licks) out into the woods with the intention of attracting not deer, but more sisters.
 
-* If there are time travelers among us, how would we find them? Well, what about checking whether anyone has tweeted about a historical event before it happened? Physicists Nemiroff and Wilson tried it but, alas, [no evidence of time travellers](http://arxiv.org/abs/1312.7128).
+* If there are time travelers among us, how would we find them? Well, what about checking whether anyone has tweeted about a historical event before it happened? Physicists Nemiroff and Wilson tried it but, alas, [no evidence of time travelers](http://arxiv.org/abs/1312.7128).
 
 * [Malbolge](http://en.wikipedia.org/wiki/Malbolge) is a programming language designed to make it impossible to write programs in. Andrew Cooke thought, "Challenge accepted!" [and implemented a beam search algorithm to find a working hello world.](http://www.acooke.org/malbolge.html)
 
