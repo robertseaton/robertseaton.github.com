@@ -7,8 +7,8 @@ description: "A critical look at the popular narrative of sexism in tech."
 ---
 
 It has become fashionable as of late for media outlets like Gawker and others to
-characterize Silicon Valley, math, computer science, and the hard sciences generally
-as being unfriendly to women. This does not strike me as much different
+attack Silicon Valley, math, computer science, and the hard sciences generally
+for being unfriendly to women. This does not strike me as much different
 than the bullying of  math and computer nerds during high school, except now
 we've exchanged jocks for journalists, and it's covered in a not-very-convincing
 veneer of social justice-y
