@@ -4,6 +4,9 @@ layout: post
 description: "It's hard to pretend that published psychological findings mean much when contrary evidence keeps coming in."
 ---
 
+> Doubt is not a pleasant condition, but certainty is absurd.
+<span id="quote-attribute">—Voltaire</span>
+
 I was on Reddit earlier, and an exchange went like this:
 
 **Bob**: Psychology isn't a science. (downvoted)
@@ -16,4 +19,4 @@ I was on Reddit earlier, and an exchange went like this:
 
 Except, you know, the much venerated model that is Baumeister's work on ego depletion -- nearing 2000 citations -- has [failed to replicate a bunch of times](http://www.edge.org/panel/headcon-13-part-iv-p-hacking-and-the-replication-crisis), makes little sense from a computational model of mind, and is probably false. 
 
-At least most published research isn't false, right? [Well, I have some bad news.](http://marginalrevolution.com/marginalrevolution/2005/09/why_most_publis.html)
+At least most published research isn't false, right? [I have some bad news.](http://marginalrevolution.com/marginalrevolution/2005/09/why_most_publis.html)
