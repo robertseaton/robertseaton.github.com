@@ -1,6 +1,7 @@
 ---
 title: Narrow to Generate Ideas
 layout: post
+description: "A heuristic for generating ideas and deciding what to write about."
 ---
 
 !["Picture of a brain."](/img/brain.png)
