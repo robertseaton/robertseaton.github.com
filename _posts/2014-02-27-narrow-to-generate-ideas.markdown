@@ -35,8 +35,7 @@ That's the beautiful reality of the creative process.
 # The Power of Narrowing
 
 Given that any point in time, a person probably has at least one thing worth
-saying somewhere in their head, the trouble is finding it. That's the trouble
-with just asking Brain, "What should I write about?" Brain can't find anything
+saying somewhere in their head, the trouble is finding it. That's the issue with just asking Brain, "What should I write about?" Brain can't find anything
 without a clue.
 
 There is a passage from the book *Zen and the Art of Motorcycle Maintenance*
