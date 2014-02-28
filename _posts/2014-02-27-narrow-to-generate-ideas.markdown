@@ -20,7 +20,7 @@ just leave it alone for a bit, it will come up with something -- as if Brain is
 running OS X and after I ask him for an idea that infernal loading beach ball
 pops up. 
 
-Except when I come back to Brain five or ten minutes later and, go, "Hey, come
+Except when I come back to Brain five or ten minutes later and go, "Hey, come
 up with any ideas yet?" Brain says, "Ideas? What ideas?" and looks at me sorta
 confused, like he's not sure how he got here or why. 
 
