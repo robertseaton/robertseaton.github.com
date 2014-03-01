@@ -22,7 +22,7 @@ Usenet community. Thus began the September that never ended.
 !["Typical YouTube comment."](/img/youtube-comment.gif)
 
 There's [a website dedicated](http://stupid-youtube-comments.blogspot.com/) to documenting terrible YouTube
-comments. It's tag line is, "The aim of this website is to document and preserve
+comments. Its tag line is, "The aim of this website is to document and preserve
 the most retarded YouTube comments, so that people a hundred years from now can
 look back and take solace in the fact that the authors of these stupid comments
 have all since died." The dude running the website even posts an analysis of why each comment is
@@ -81,7 +81,7 @@ they know.
 **Online communities are just like vampire bats sharing blood.** I'm nice to my
 friends, to people I know, because I expect to see them again. That's sorta what
 being my friend means. I like you, so I'll be nice to you, and maybe that
-feeling of liking is some of evolution's way of nudging me with "Hey, you're
+feeling of liking is evolution's way of nudging me with "Hey, you're
 going to see this person again. Cooperate!" 
 
 I'm not nearly as nice to strangers as I am to people I know. It's the human
@@ -108,7 +108,7 @@ of it happens outside of conscious deliberation. The same cognitive hardware
 that evolved to deal with small tribes in the ancestral environment is
 repurposed for online discussion, and this manifests as emotion and nonconscious
 behavior -- I like people
-that I see a lot and this causes me to be more charitable. Or I feel more
+that I see a lot and this pushes me to be more charitable. Or I feel more
 empathy towards regulars in a community, which affects my actions. And so on.
 
 In summary, then:
