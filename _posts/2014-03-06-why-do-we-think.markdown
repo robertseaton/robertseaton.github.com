@@ -16,7 +16,7 @@ least in words. Why not stick to the stuff of pure thought?"
 
 After realizing this sort of thing, I started to pay more attention to the
 specifics of my thought processes. Just what, I wondered, is going on in my
-head? And I realized: A whole lot of my thought is not in words, but images and
+head? And I realized: Much of my thought is not in words, but images and
 motion. I'm no longer even certain that most of my thought happens in English --
 maybe it's all meaningness that is converted into words when I throw a mental
 spotlight onto it.
@@ -46,7 +46,7 @@ There is no clear scientific consensus on why intelligence evolved. Wikipedia is
 Cambridge Handbook of Intelligence* -- but it only goes so far as to list the
 different theories, not evaluate the plausibility of each.
 
-However, I am a man on a blog, which means I have free reign to speculate. I'm
+However, I am a man on a blog, which means I have free rein to speculate. I'm
 partial to the notion that intelligence evolved, fundamentally, to be weaponized
 in disputes against other humans.
 
@@ -83,7 +83,7 @@ intelligence perfectly correlates with reproductive success, just that the more
 intelligent were more likely to reproduce than those of average intelligence,
 thanks to their throne at the top of monkey pile. 
 
-In that case, presidents fare quite a bit better. George Bush, who everyone likes
+In that case, presidents fare better. George Bush, who everyone likes
 to hate on as *so dumb*, still scored [above the 85th percentile on both the math and
 verbal portions of the SAT](http://www.straightdope.com/columns/read/2310/who-was-the-stupidest-u-s-president), putting him more than a standard deviation above the
 mean. If we're willing to concede that most presidents are at least as
