@@ -83,7 +83,7 @@ Consider two phrases:
 * No one in his right mind would reject reductionism.
 * No one in her left brain would reject reductionism.
 
-The second comes to me by way of Doug Hofstader and is, I think, the more
+The second comes to me by way of Doug Hofstadter and is, I think, the more
 compelling of the two. **A phrase, when overused, loses all of its punch and
 becomes boring.**
 
