@@ -5,7 +5,7 @@ description: "Fox News outperforms MSNBC and should no longer be trotted out as
 an example of a terrible news organization."
 ---
 
-Listing to the internet, you'd think that Fox News is some sort of liberal
+Listening to the internet, you'd think that Fox News is some sort of liberal
 boogeyman -- the lowest of the low that is modern journalism. From the top
 comment on the Reddit thread, ["Republicans of reddit, what's your opinion on Fox
 News?"](http://www.reddit.com/r/AskReddit/comments/1nupxs/republicans_of_reddit_whats_your_opinion_on_fox/)
