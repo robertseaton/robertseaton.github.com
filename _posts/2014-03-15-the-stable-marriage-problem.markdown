@@ -153,7 +153,7 @@ sometime?" or, for college students, the always popular, "We should watch Netfli
 together."
 
 Alice says "yes" if she finds Bob acceptable and "no" otherwise. Then they
-date until someone better comes along, at which point one of them "falls out
+date until someone better comes along, at which point one of them "falls of out
 love," which is [really evolution nudging them to go pursue someone else](http://rs.io/2014/02/23/on-love.html). And the
 relationship ends. Usually,
 [the woman is the rejecter and the man the rejectee](http://rs.io/2014/03/14/female-is-the-heartbreaker.html).
