@@ -287,3 +287,7 @@ ul#rss li a:active {
 #footer p.part-2 {
     float:right;
 }
+
+code.s {
+    font-size: 12px;
+}
