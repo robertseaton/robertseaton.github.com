@@ -2,7 +2,8 @@
 layout: nil
 ---
 <?xml version="1.0"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xml:base="http://rs.io/"
+    xmlns="http://www.w3.org/2005/Atom">
  
   <title>rs.io</title>
   <link href="http://rs.io"/>
@@ -11,7 +12,7 @@ layout: nil
   <id>http://rs.io</id>
   <author>
     <name>Robert Seaton</name>
-    <email>possesed@gmail.com</email>
+    <email>robb@os-blog.com</email>
   </author>
 
   {% for post in site.posts %}
