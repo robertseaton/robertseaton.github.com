@@ -12,10 +12,10 @@ layout: nil
   <id>http://rs.io</id>
   <author>
     <name>Robert Seaton</name>
-    <email>robb@os-blog.com</email>
+    <email>robbpseaton@gmail.com</email>
   </author>
 
-  {% for post in site.posts %}
+  {% for post in site.posts limit:20 %}
   <entry>
     <id>http://rs.io{{ post.id }}</id>
     <link type="text/html" rel="alternate" href="http://rs.io{{ post.url }}"/>
