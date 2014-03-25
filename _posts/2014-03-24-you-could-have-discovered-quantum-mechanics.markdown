@@ -13,6 +13,6 @@ tag: "excerpt, quantum"
 > quantum mechanics until experiment forced it on them. And that’s a perfect
 > illustration of why experiments are relevant in the first place! More often than
 > not, the only reason we need experiments is that we’re not smart enough.
-<span id="quote-attribute">—Quantum Computing Since Democritus</span>
+<span id="quote-attribute">—<em>Quantum Computing Since Democritus</em></span>
 
 The chapter itself goes into more details. The author [blogs](http://www.scottaaronson.com/blog/). 
