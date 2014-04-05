@@ -4,7 +4,7 @@ layout: post
 summary: "How my Anki usage has evolved after 10,000 cards."
 ---
 
-Note: If you don't know what Anki or spaced repetition is, start by reading
+If you don't know what Anki or spaced repetition is, start by reading
 [gwern's excellent introduction](http://www.gwern.net/Spaced%20repetition).
 
 !["Picture of Anki review statistics."](/img/anki.png)
