@@ -7,7 +7,7 @@ layout: post
 
 * [Nearly twice as many black men than black women are looking for a long-term relationship, or so they report.](http://www.npr.org/blogs/codeswitch/2013/06/12/188643185/for-black-singles-a-big-gender-split-on-views-of-long-term-relationships)
 
-* [Moravec's paradox](en.wikipedia.org/wiki/Moravec's_paradox): "It is comparatively easy to make computers exhibit adult level performance on intelligence tests or playing checkers, and difficult or impossible to give them the skills of a one-year-old when it comes to perception and mobility."
+* [Moravec's paradox](http://en.wikipedia.org/wiki/Moravec's_paradox): "It is comparatively easy to make computers exhibit adult level performance on intelligence tests or playing checkers, and difficult or impossible to give them the skills of a one-year-old when it comes to perception and mobility."
 
 * Gay men are [three times more likely to suffer from an eating disorder](http://www.slate.com/blogs/outward/2014/01/23/gay_men_and_plastic_surgery_why_so_much.html) than straight men and are [disproportionately interested in plastic surgery](http://www.gaylesbiantimes.com/?id=16152).
 
