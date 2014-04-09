@@ -6,8 +6,8 @@ layout: post
 Here's a metaphor that comes to me by way of Nobel laureate and Turing award
 recipient [Herbert Simon](http://en.wikipedia.org/wiki/Herbert_A._Simon). 
 
-We can imagine being on the beach and watching an ant. It's path
-looks complicated as it zigs and zags to avoid rocks and twigs. Very reminiscent of
+Imagine watching an ant on the beach. Its path
+looks complicated. It zigs and zags to avoid rocks and twigs. Very reminiscent of
 complex behavior -- what an intelligent ant!
 
 Except an ant is just a simple machine. It wants to return to its nest,
