@@ -55,7 +55,7 @@ layout: post
 
 * ["If you learned formal methods for software, how useful have you found it?"](http://programmers.stackexchange.com/questions/10358/if-you-learned-formal-methods-for-software-how-useful-have-you-found-it) (Answer: worthless.)
 
-* [What source code is worth studying?](https://news.ycombinator.com/item?id=7602237) One insightful commentor points to [this gem from Peter Siebel](http://www.gigamonkeys.com/code-reading/): "Code is not literature and we are not readers. Rather, interesting pieces of code are specimens and we are naturalists." (Algorithms seem like a good candidate for interesting specimen.)
+* [What source code is worth studying?](https://news.ycombinator.com/item?id=7602237) One insightful commenter points to [this gem from Peter Siebel](http://www.gigamonkeys.com/code-reading/): "Code is not literature and we are not readers. Rather, interesting pieces of code are specimens and we are naturalists." (Algorithms seem like a good candidate for interesting specimen.)
 
 * Wikipedia [has a beta "hovercard" feature](https://www.mediawiki.org/wiki/Navigation_Popups_%28Restyling_and_Enhancements%29), where one can hover over a link to view a portion of the article. Here's [why you might want such thing](http://blog.assaflavie.com/wikipedia/).
 
