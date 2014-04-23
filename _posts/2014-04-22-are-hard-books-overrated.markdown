@@ -28,7 +28,7 @@ Seven possible explanations spring to mind:
 * Familiarity with a subject damages one's ability to judge whether or not a
   text is appropriate for someone without the same background.
 * Those recommending hard textbooks have not, generally, tried to self-study
-  them, but rather sat through a class that required the text and complete 10%
+  them, but rather sat through a class that required the text and completed 10%
   of the problems as homework.
 
 All of these could be true, but what we really want to know is: are hard books
