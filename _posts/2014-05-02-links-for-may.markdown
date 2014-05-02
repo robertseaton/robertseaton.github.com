@@ -13,7 +13,7 @@ layout: post
 
 * [Reductio ad Hitlerum](https://en.wikipedia.org/wiki/Reductio_ad_Hitlerum): "an informal fallacy that consists of trying to refute an opponent's view by comparing it to a view that would be held by Adolf Hitler or the Nazi Party."
 
-* "[There is no such thing as cheating in art...](http://muddycolors.blogspot.com/2014/04/cheating.html) I don't care how it's created: I only care about the results. You'd think that's all anyone should care about, but unfortunately that's not the case."
+* "[There is no such thing as cheating in art.](http://muddycolors.blogspot.com/2014/04/cheating.html) I don't care how it's created: I only care about the results. You'd think that's all anyone should care about, but unfortunately that's not the case."
 
 * [Great works in programming languages.](http://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml)
 
