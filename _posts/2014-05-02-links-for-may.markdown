@@ -1,6 +1,7 @@
 ---
 title: Links for May
 layout: post
+tag: links
 ---
 
 * [Expensive wine doesn't taste better](http://www.wine-economics.org/workingpapers/AAWE_WP16.pdf): "In a sample of more than 6,000 blind tastings, we find that the correlation between price and overall rating is small and negative, suggesting that individuals on average enjoy more expensive wines slightly less."
