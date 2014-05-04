@@ -1,7 +1,7 @@
 ---
 title: Links for May
 layout: post
-tag: links
+tags: links
 ---
 
 * [Expensive wine doesn't taste better](http://www.wine-economics.org/workingpapers/AAWE_WP16.pdf): "In a sample of more than 6,000 blind tastings, we find that the correlation between price and overall rating is small and negative, suggesting that individuals on average enjoy more expensive wines slightly less."
@@ -44,7 +44,7 @@ tag: links
 
 * Don Knuth, author of *The Art of Computer Programming*, has [a nontechnical reading list](http://www-cs-faculty.stanford.edu/~uno/retd.html). "I read very slowly."
 
-* [About 1000 Iraqi civilians are killed each month.](dartthrowingchimp.wordpress.com/2014/04/30/alarmed-by-iraq/)
+* [About 1000 Iraqi civilians are killed each month.](http://www.dartthrowingchimp.wordpress.com/2014/04/30/alarmed-by-iraq/)
 
 * ["people using a foreign language make substantially more utilitarian decisions"](http://www.sciencedaily.com/releases/2014/04/140428120659.htm)
 
