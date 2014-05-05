@@ -291,3 +291,13 @@ ul#rss li a:active {
 code {
     font-size: 12px;
 }
+
+#convertbox {
+    background: #B8DBF4;
+    padding: 20px;
+    border-color: #D8ECFA;
+    border-style: solid;
+    border-width: 10px;
+    font-size: 20px;
+}
+
