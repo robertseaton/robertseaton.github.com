@@ -1,9 +1,9 @@
 ---
 title: Mike Tyson and Steroids
 layout: post
-description: "Answers to the questions, \"Was Mike Tyson on steroids?\", \"How
-effective are steroids?\", and \"How prevalent is steroid use among elite
-athletes?\""
+description: "Answers to the questions, 'Was Mike Tyson on steroids?', 'How
+effective are steroids?', and 'How prevalent is steroid use among elite
+athletes?'"
 summary: "Was Mike Tyson on steroids? Some shameless speculation, along with a
 review of some of the evidence on the effectiveness of performance enhancing
 drugs and its prevalence among elite athletes."
