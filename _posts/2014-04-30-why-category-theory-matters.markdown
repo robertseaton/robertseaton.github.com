@@ -34,7 +34,7 @@ functions, though they are not limited to this interpretation.
 !["A picture of objects and arrows in category theory."](/img/category-theory.png)
 
 The subject's major insight is, in order to understand something, focus on the
-structure persevering mappings of that something -- the legal translations.
+structure preserving mappings of that something -- the legal translations.
 
 # What the excitement is about
 
