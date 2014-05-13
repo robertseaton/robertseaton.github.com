@@ -4,7 +4,7 @@ layout: post
 summary: "This post develops the intuition behind simulated annealing via lots of pictures. It's self-contained and ought to be accessible to
 those without a math-centric background. It also serves as a gentle introduction to
 more technical discussions."
-description: "Develops the intuition behind the simulated annealing search
+description: "This article develops the intuition behind the simulated annealing search
 algorithm via lots of pictures."
 keywords: "simulated annealing overview"
 ---
