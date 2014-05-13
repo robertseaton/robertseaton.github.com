@@ -302,5 +302,6 @@ code {
     padding-top: 5px;
     padding-bottom: 5px;
     border-radius: 20px;
+    box-shadow: 10px 10px 5px #888;
 }
 
