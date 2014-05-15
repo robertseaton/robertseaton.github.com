@@ -19,9 +19,9 @@ tags: links
 
 * [Dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number) is a suggested cognitive limit to the number of people with whom one can maintain stable social relationships. Dunbar proposed 150, but given data from online communities, it looks [like the real number might be more like 50](http://lesswrong.com/lw/x9/dunbars_function/).
 
-* [Hector](https://en.wikipedia.org/wiki/Hector_%28cloud%29) is the name given to a cumulonimbus, or thundercloud, that forms regularly nearly every afternoon on the Tiwi Islands
+* [Hector](https://en.wikipedia.org/wiki/Hector_%28cloud%29) is the name given to a cumulonimbus, or thundercloud, that forms regularly nearly every afternoon on the Tiwi Islands.
 
-* Carl Shulman has a post up on [scientific fraud](http://reflectivedisequilibrium.blogspot.com/2014/05/what-do-null-fields-tell-us-about-fraud.html): "1.97% of scientists admitted to have fabricated, falsified or modified data or results at least once"
+* Carl Shulman has a post up on [scientific fraud](http://reflectivedisequilibrium.blogspot.com/2014/05/what-do-null-fields-tell-us-about-fraud.html): "1.97% of scientists admitted to have fabricated, falsified or modified data or results at least once".
 
 * ["each Apollo mission took about the same amount of work as each pyramid."](http://what-if.xkcd.com/95/)
 
