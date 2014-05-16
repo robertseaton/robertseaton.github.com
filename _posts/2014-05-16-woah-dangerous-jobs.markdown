@@ -19,7 +19,7 @@ So that got me thinking: What jobs are more (or less) dangerous than one might n
 
 I present to you this delightful graph, taken from [the Bureau of Labor Statistics](http://www.bls.gov/iif/oshcfoi1.htm):
 
-!["Image of occupations with high fatality rates, from 2011."](/img/dangerous-jobs.png)
+!["Image of occupations with high fatality rates, from 2011."](/img/jobs-by-danger.png)
 
 Notice that the data here for farmers agrees with David's. He has 28 per 100,000 versus the charts 25.3 per 100,000. (And given the [endemic underreporting](http://www.ncbi.nlm.nih.gov/pubmed/9973879), the 28 number might well be more accurate.) Police officer isn't included on the chart but David's data would make it about as dangerous as... taxi driver. That's right, folks. The brave folks keeping the peace of our nation? Just as brave as your local cabby. (Actually, given that [police deaths dropped 20 percent in 2012](http://www.bls.gov/news.release/cfoi.nr0.htm), cab drivers might be *braver*.)
 
