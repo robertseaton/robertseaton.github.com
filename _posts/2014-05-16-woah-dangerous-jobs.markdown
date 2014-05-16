@@ -13,7 +13,7 @@ description: "What jobs are more dangerous than being a cop? Which state is the 
 
 David Henderson has rightly earned the title contrarian with [his latest post](http://econlog.econlib.org/archives/2014/05/half-staff_for.html) which, to kick off [National Police Week](http://www.policeweek.org/), points out that it's more dangerous to be a farmer than a policeman -- "For every 100,000 police, the annual fatality rate is 20. For every 100,000 farmers, it is 40% higher, at 28." ([Source.](http://www.econlib.org/library/Enc/RiskandSafety.html))
 
-Now, on this here blog, we're good empiricists, and nothing warms the heart of an empiricist more than refuting a well-known, common sense "truth" with, you know, observations and data.
+Now, on this blog, we're good empiricists, and nothing warms the heart of an empiricist more than refuting a well-known, common sense "truth" with, you know, observations and data.
 
 So that got me thinking: What jobs are more (or less) dangerous than one might naively suspect?
 
