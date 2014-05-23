@@ -11,9 +11,9 @@ could be corralled and assimilated by Usenet veterans.
 
 September 1993, however, was different. It was the day the gates of hell were
 thrown open and never-ending torrent of demonspawn descended on Usenet -- like
-locus, they devoured the community.
+locusts, they devoured the community.
 
-These locus were AOL users. In September of 1993, the company granted Usenet
+These locusts were AOL users. In September of 1993, the company granted Usenet
 access to their entire user base, which triggered an unending deluge of noobs into the
 Usenet community. Thus began the September that never ended.
 
