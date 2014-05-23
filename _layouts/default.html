@@ -40,7 +40,9 @@
     <div id="nav">
     <h2>Navigation</h2>
     <ul>
+      {% if page.url != "/index.html" %}
       <li><a href="/">home</a></li>
+      {% endif %}
       <li><a href="/articles.html">articles</a></li>
       <li><a href="http://feeds.feedburner.com/rsio">rss</a></li>
     </ul>
