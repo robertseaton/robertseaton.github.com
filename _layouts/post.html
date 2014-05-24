@@ -6,7 +6,7 @@ layout: default
   <article>
     <header>
       <h1 id="title"><a href="{{ page.url }}">{{ page.title }}</a></h1>
-      <p><time datetime="{{ page.date | date_to_xmlschema }}" pubdate="pubdate">{{ page.date | date:"%B %d, %Y" }}</time></p>
+      <p><time datetime="{{ page.date | date_to_xmlschema }}" pubdate="pubdate">{{ page.date | date:"%B %d, %Y" }}</time> by Robert Seaton</p>
     </header>
     {% if page.summary %}
     <p><strong>Summary: </strong><em>{{page.summary}}</em></p>
