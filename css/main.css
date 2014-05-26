@@ -148,6 +148,12 @@ ul#rss li a {
    border-radius:5px; /* standards version last */
 }
 
+/* Styling for alt text. */
+img {
+    font-style: italic;
+    color: #c00;
+}
+
 article img {
     max-width: 500px;
     height: auto;
@@ -293,9 +299,9 @@ code {
 }
 
 #convertbox {
-    background: #B8DBF4;
+    background: none repeat scroll 0% 0% rgba(255, 255, 255, 1);
+    border-color: rgba(205, 207, 209, 1);
     padding: 20px;
-    border-color: #D8ECFA;
     border-style: solid;
     border-width: 10px;
     font-size: 20px;
@@ -305,3 +311,4 @@ code {
     box-shadow: 10px 10px 5px #888;
 }
 
+address.author { display:inline; font-style:inherit }
