@@ -5,7 +5,7 @@ tags: "model"
 description: 
 summary: "This is an explanation of Jürgen Schmidhuber's formal theory of
 creativity, except I've stripped it of all the, you know, formality."
-description: "A gentle, \"plain English\" explanation of Jürgen Schmidhuber's
+description: "A gentle, 'plain English' explanation of Jürgen Schmidhuber's
 formal theory of creativity."
 ---
 
