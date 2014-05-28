@@ -15,7 +15,7 @@
 <script async type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
 <script type="text/javascript">stLight.options({publisher: "7a9ce97e-4353-4a20-9336-509fced243f9", doNotHash: true, doNotCopy: true, hashAddressBar: false, shorten: false});</script>
 <script async type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-  <script type="text/javascript">
+ <script type="text/javascript">
 
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-12517909-4']);
@@ -28,6 +28,18 @@
     })();
 
   </script>
+ <script>
+var randomlinks=new Array()
+
+{% assign counter=0 %}
+{% for post in site.posts %}
+randomlinks[{{counter}}]="{{ post.url }}"
+{% assign counter=counter | plus:1 %}  
+{% endfor %}
+function randomlink(){
+window.location=randomlinks[Math.floor(Math.random()*randomlinks.length)]
+}
+</script>
 </head>
 	
 <body>
@@ -44,6 +56,7 @@
       <li><a href="/">home</a></li>
       {% endif %}
       <li><a href="/articles.html">articles</a></li>
+      <li><a href="javascript:void(0)" onclick="randomlink();">random</a></li>
       <li><a href="http://feeds.feedburner.com/rsio">rss</a></li>
     </ul>
     <h2>Resources</h2>
