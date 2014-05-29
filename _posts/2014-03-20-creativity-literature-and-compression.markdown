@@ -11,12 +11,14 @@ compressible than non-creative ones. I test the hypothesis against literature
 from Project Gutenberg and discuss the results."
 ---
 
-I was at a bar last weekend, chatting with this woman. She was decent
-looking. There was a lull in the conversation, so I say to her, "Hey, I've got
-this talent. I can tell when a woman was born after feeling her breasts." She
-doesn't believe me at first, but after a minute or so, she comes around. "Go on,
-then," she says to me. I feel her up a bit before she gets impatient. "Well,
-when I was born?" she asks. So I tell her -- "Yesterday."
+But first, a joke:
+
+> I was at a bar last weekend, chatting with this woman. She was decent
+> looking. There was a lull in the conversation, so I say to her, "Hey, I've got
+> this talent. I can tell when a woman was born after feeling her breasts." She
+> doesn't believe me at first, but after a minute or so, she comes around. "Go on,
+> then," she says to me. I feel her up a bit before she gets impatient. "Well,
+> when I was born?" she asks. So I tell her -- "Yesterday."
 
 ## Dissecting and killing the joke
 
