@@ -252,6 +252,8 @@ Here's my attempt at making it all just a bit more manageable.
 
 * Here's all the earthquakes between 1000 and 1903. Feeding them to a neural net and seeing what kind of predictions you get out might be neat. (And, hey, if you develop something better than the status quo, you can sell it *and* save lives!)
 
+* I've often wondered if the people who take personality tests online are more neurotic than the population at large. There's a lot of data from a series of online personality tests available [here](http://personality-testing.info/_rawdata/), so you could compare their answers to those from the population at large, find out, and then send me an email. 
+
 * And, finally, something I would have loved as a kid: [the list to end all lists of naughty words.](http://www.infochimps.com/datasets/list-of-dirty-obscene-banned-and-otherwise-unacceptable-words)
 
 
