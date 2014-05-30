@@ -132,7 +132,7 @@ All together, then:
 
 * Another introduction to these ideas can be found
   [here](http://www.idsia.ch/~juergen/creativity.html).
-* I've written a little about [simplicity, mathematics, and art before](http://127.0.0.1:4000/2013/08/28/picasso-as-a-mathematician.html). 
+* I've written a little about [simplicity, mathematics, and art before](http://rs.io/2013/08/28/picasso-as-a-mathematician.html). 
 * Here's an
   [introduction to low-complexity art](http://jeremykun.com/2011/07/06/low-complexity-art/).
 * Here are a [few](http://www.idsia.ch/~juergen/driven2009.pdf)
