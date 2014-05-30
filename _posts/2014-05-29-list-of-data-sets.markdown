@@ -265,12 +265,13 @@ Here's my attempt at making it all just a bit more manageable.
 
 
 # Footnotes
-
+<ol>
 <a name="citation-1"></a>
-1. With apologies to JFK: "Let us seek not the Democrat link or the Republican link, but the right link."
+<li>With apologies to JFK: "Let us seek not the Democrat link or the Republican link, but the right link."</li>
 <a name="citation-2"></a>
-2. Wikipedia [says](http://en.wikipedia.org/wiki/KOI-3284.01): "KOI-3284.01 is believed to be the most Earth like exoplanet to be found so far by the Kepler space probe. It is predicted to have a radius 1.5 times that of Earth's. It is predicted to be located at the proper distance from the sun to sustain liquid water."
+<li>Wikipedia <a href="http://en.wikipedia.org/wiki/KOI-3284.01">says</a>: "KOI-3284.01 is believed to be the most Earth like exoplanet to be found so far by the Kepler space probe. It is predicted to have a radius 1.5 times that of Earth's. It is predicted to be located at the proper distance from the sun to sustain liquid water."</li>
 <a name="citation-3"></a>
-3. "The Texas Transportation Institute's latest Urban Mobility Report puts the annual cost of congestion to the nation, including both travel delays and expenditures on fuel, at more than $100 billion."
+<li>"The Texas Transportation Institute's latest Urban Mobility Report puts the annual cost of congestion to the nation, including both travel delays and expenditures on fuel, at more than $100 billion."</li>
 <a name="citation-4"></a>
-4. If that's not enough, there seems to be a fair amount of research around "murder topology" which is not, as you might naively expect, a super badass branch of mathematics, but rather concerned with the movement patterns of serial murderers. 
+<li>If that's not enough, there seems to be a fair amount of research around "murder topology" which is not, as you might naively expect, a super badass branch of mathematics, but rather concerned with the movement patterns of serial murderers.</li>
+</ol>
