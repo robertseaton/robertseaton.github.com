@@ -79,7 +79,8 @@ article.link header h2 a:visited {
     text-decoration: underline; 
 }
 
-blockquote { 
+blockquote {
+    color: rgba(32, 27, 28, 1);
     margin: 0 18px -10px 18px;
     color:#565051;
     padding-left:10px;
