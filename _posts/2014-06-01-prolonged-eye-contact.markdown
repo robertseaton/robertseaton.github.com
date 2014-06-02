@@ -1,5 +1,5 @@
 ---
-title: "Prolonged Eye Contact and Attraction:<br> What The Science Tells Us"
+title: "Prolonged Eye Contact and Attraction: What The Science Tells Us"
 layout: post
 summary: "Should you be making more eye contact? How do people respond to too much prolonged eye contact? I found out."
 description: "Should you be making more eye contact? How do people respond to too much prolonged eye contact? What does lots of eye contact mean? How does it relate to attraction? I found out."
