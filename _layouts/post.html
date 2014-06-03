@@ -6,7 +6,32 @@ layout: default
 var abTestingId = 'Mailing list signup: bonus drawings.';
 var abTestingSlot = 1;
 var abTestingValue = Math.random() < 0.5;
+
+function hide_extra_header() {
+    // Test if we're doing a/b testing on bonus message.
+    d = document.getElementById('mc-embedded-subscribe-form');
+    if (abTestingValue) {
+        d.removeChild(document.getElementById('nobonus'));
+    } else {
+        d.removeChild(document.getElementById('bonus'));
+    }
+}
+
+window.onload=function(){hide_extra_header();};
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'YOUR-TRACKING-ID']);
+// If we're doing A/B testing, make sure we include the proper variables
+if (abTestingId) {
+    if (abTestingValue) {
+        _gaq.push(['_setCustomVar', abTestingSlot, abTestingId, 'A', 3]);
+    } else {
+        _gaq.push(['_setCustomVar', abTestingSlot, abTestingId, 'B', 3]);
+    }
+}
+_gaq.push(['_trackPageview']);
 </script>
+
 
 <section id="post">
   <article>
@@ -53,7 +78,7 @@ var abTestingValue = Math.random() < 0.5;
 		<div class="response" id="mce-success-response" style="display:none"></div>
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;"><input type="text" name="b_e5616317a284d75431640f30c_b2b92d2757" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" onclick="_gaq.push([‘_trackEvent’, ‘button’, ’clicked’, ’mailing list signup’,, ’true’])"></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" onclick="_gaq.push([‘_trackEvent’, ‘mailing list’, ’clicked’, 'ab_testing: '.concat(abTestingValue.toString()),, ’true’])"></div>
 </form>
 </div>
 <script type="text/javascript">
