@@ -54,8 +54,14 @@ window.location=randomlinks[Math.floor(Math.random()*randomlinks.length)]
     <ul>
       {% if page.url != "/index.html" %}
       <li><a href="/">home</a></li>
+      {% else %}
+      <li>home</li>
       {% endif %}
+      {% if page.url != "/articles.html" %}
       <li><a href="/articles.html">articles</a></li>
+      {% else %}
+      <li>articles</li>
+      {% endif %}
       <li><a href="javascript:void(0)" onclick="randomlink();">random</a></li>
       <li><a href="http://feeds.feedburner.com/rsio">rss</a></li>
     </ul>
