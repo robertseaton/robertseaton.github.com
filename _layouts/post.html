@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+<!-- AB testing different mailchimp forms. -->
+<script type="text/javascript">
+var abTestingId = 'Mailing list signup: bonus drawings.';
+var abTestingSlot = 1;
+var abTestingValue = Math.random() < 0.5;
+</script>
 
 <section id="post">
   <article>
@@ -34,7 +40,7 @@ layout: default
 </style>
 <div id="mc_embed_signup">
 <form action="http://us8.list-manage.com/subscribe/post?u=e5616317a284d75431640f30c&amp;id=b2b92d2757" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-	<h2>If you enjoyed this, subscribe to the mailing list for updates (it's free!). </h2>
+  <h2 id="nobonus">If you enjoyed this, subscribe to the mailing list for updates (it's free!). </h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
@@ -46,7 +52,7 @@ layout: default
 		<div class="response" id="mce-success-response" style="display:none"></div>
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;"><input type="text" name="b_e5616317a284d75431640f30c_b2b92d2757" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" onclick="_gaq.push([‘_trackEvent’, ‘button’, ’clicked’, ’mailing list signup’",, ’true’])></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" onclick="_gaq.push([‘_trackEvent’, ‘button’, ’clicked’, ’mailing list signup’,, ’true’])>"</div>
 </form>
 </div>
 <script type="text/javascript">
