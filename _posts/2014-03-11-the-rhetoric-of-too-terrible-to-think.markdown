@@ -1,5 +1,5 @@
 ---
-title: Swallowing the Red Pill Isn't
+title: "Red Pill Rhetoric: Swallowing the Red Pill Isn't"
 layout: post
 summary: "\"We know the truth and no one else does because the truth is
 painful\" is rhetoric. Groups that claim to offer a red pill offer nothing but
