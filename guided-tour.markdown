@@ -65,3 +65,4 @@ layout: info
 * [Could universes evolve and reproduce via black holes?](http://rs.io/2013/11/24/the-blind-universemaker.html) 
 * When trying something new, [start with the dumbest thing that could work and then iterate](http://rs.io/2013/10/18/the-dumbest-thing-that-could-work.html).
 
+That's all! If you'd like to be notified when new content is posted, you can [subscribe here](http://eepurl.com/Ufpgr). 
