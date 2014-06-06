@@ -122,7 +122,7 @@ section#post {
 ul#rss {
    list-style:none;
    padding:0;
-   margin:0;
+   margin: 20px 0px 40px 0px;
    overflow:hidden;
    font:0.875em/1 Arial, sans-serif;
 }
