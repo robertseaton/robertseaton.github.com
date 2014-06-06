@@ -119,3 +119,10 @@ In summary, then:
 * When communities grow to a certain size, people no longer expect to interact
   in the future, and thus are more likely to defect -- to be petty, mean,
   aggressive, and to put little effort into their contributions.
+
+# Further Reading
+
+* A May 2014 study finds that
+  [a downvote mechanism negatively impacts online communities](http://arxiv.org/abs/1405.1429). The
+  paper even explicitly mentions tit-for-tat -- users that receive upvotes give
+  out more upvotes, while downvotes beget downvotes.
