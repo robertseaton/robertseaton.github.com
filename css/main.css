@@ -233,13 +233,18 @@ ul#rss li a:active {
    float: right;
 }
 
-#sidebar h2 {
-   float: right;
+#sidebar h4 {
+    float: right;
   text-transform: uppercase;
   font-size: 13px;
   color: #333;
   letter-spacing: 1px;
   line-height: 20px;
+  font-weight: normal;
+  font-size: 1.2em;
+  margin-bottom: 0;
+  line-height: 1.25;
+  font-size: 16px;
 }
 
 #sidebar ul {
