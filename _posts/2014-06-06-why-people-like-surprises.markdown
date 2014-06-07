@@ -253,7 +253,7 @@ monkey brain is too worried about status to admit to it."
 Surprise, on the other hand, is easy. Want to know some surprising information?
 Hell yeah, I want to know some surprising information. And, hopefully, you do, too, now that I've told you why I love surprises.
 
-# Further Reading
+## Further Reading
 * If you enjoyed this, I'm working on a book about surprise. Subscribe [here](http://eepurl.com/Ufpgr) for updates. (And, if you don't want updates, you can still subscribe for bonus drawings.)
 * For surprises, check out [the surprising facts for June](http://rs.io/2014/06/02/surprising-june.html) post and, if you still want more after that, the rest are listed in [the guided tour](http://rs.io/guided-tour.html).
 * I've also written before about [the relationship between humor and surprise](http://rs.io/2014/03/20/creativity-literature-and-compression.html).
