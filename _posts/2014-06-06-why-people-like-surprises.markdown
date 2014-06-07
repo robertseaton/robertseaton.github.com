@@ -1,5 +1,5 @@
 ---
-title: "Why I Like Surprises and You Should, Too"
+title: "Why I Like Surprises and You Should Too"
 layout: post
 description: "Why do people like surprises? I don't know, but here's why I like them and why you ought to like them, too."
 tags: [surprise]
