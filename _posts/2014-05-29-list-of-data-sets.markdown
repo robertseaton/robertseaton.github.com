@@ -25,7 +25,7 @@ And that got me wondering: just what other interesting data sets are out there? 
 
 Here's my attempt at making it all just a bit more manageable.
 
-### Interesting Data Sets
+## Interesting Data Sets
 
 !["Picture of interesting data sets for statistics."](/img/interesting-data-sets-for-statistics.png)
 
@@ -59,7 +59,7 @@ Here's my attempt at making it all just a bit more manageable.
 
 * There's the Million Song data set, which contains information about a million different songs, including a metric "danceability." Might be nice to pair that with a media player specialized for parties -- start with "conversation" music, and slowly shift to more danceable stuff as the night drags on. The data could also be used for a clustering algorithm (automatic genre detection, maybe), but I'm not sure how useful that'd be. A number of people have tried to build recommendation algorithms based on the data, including [Kagglers](http://www.kaggle.com/c/msdchallenge) and [a team from Cornell](http://www-personal.umich.edu/~yjli/content/projectreport.pdf). One possible use: analyzing music by year -- How danceable, fast, etc. were the 70s? 80s? 90s? (Or how about looking for a follow-the-leader effect. If one song goes viral with a unique style, do a bunch of copycats follow?)
 
-* Speaking of music data sets, last.fm has music data available. Collected from ~360,000 users, it's in the form of "user, artists, ### of plays". This would be good for clustering algorithms that automatically determine label genre or recommender systems. (Even a "this artist is most similar to" thing would be sorta cool.)
+* Speaking of music data sets, last.fm has music data available. Collected from ~360,000 users, it's in the form of "user, artists, ## of plays". This would be good for clustering algorithms that automatically determine label genre or recommender systems. (Even a "this artist is most similar to" thing would be sorta cool.)
 
 * When I think geeks, I think math and computer geeks, but there are many more. Terry Pratchett geeks (dated one!), Whovians, anime geeks, theater geeks and, with some relevance to this next data set, comic book geeks. Cesc Rosselló, Ricardo Alberich, and Joe Miro have put together [a "social graph" of the Marvel Universe](http://exposedata.com/marvel/), and the data is freely available. Ideas for use: Maybe it could be overlaid on Facebook's social graph to produce a new take on the "What superhero are you?" quiz.
 
@@ -257,14 +257,14 @@ Here's my attempt at making it all just a bit more manageable.
 * And, finally, something I would have loved as a kid: [the list to end all lists of naughty words.](http://www.infochimps.com/datasets/list-of-dirty-obscene-banned-and-otherwise-unacceptable-words)
 
 
-### Further Reading
+## Further Reading
 
 * If you're interested in building predictive models, Max Kuhn's [*Applied Predictive Modeling*](http://www.amazon.com/gp/product/1461468485/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1461468485&linkCode=as2&tag=rsio-20&linkId=MS3S6KTQECYIPVHM) is awesome and I highly recommend it. If you're interested in visualizations, I've heard good things about Tufte's [*The Visual Display of Quantitative Information*](http://www.amazon.com/gp/product/0961392142/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0961392142&linkCode=as2&tag=rsio-20&linkId=QVRQVSPWKUFU4FJD), but I haven't read it myself. 
 * I've written [two](http://rs.io/2014/03/20/creativity-literature-and-compression.html) [posts](http://rs.io/2014/04/04/creativity-fan-fiction-and-literature.html) that use Project Gutenberg data to examine the [link between creativity and compression](http://rs.io/2014/02/22/ju%CC%88rgen-schmidhuber-creativity.html).
 * For building visualizations, Excel 2013 has a [new "Power Map" feature](http://blogs.office.com/2013/09/25/power-map-for-excel-earns-new-name-with-significant-updates-to-3d-visualizations-and-storytelling/), which looks dead simple.
 
 
-### Footnotes
+## Footnotes
 <ol>
 <a name="citation-1"></a>
 <li>With apologies to JFK: "Let us seek not the Democrat link or the Republican link, but the right link."</li>

@@ -47,7 +47,7 @@ At this point, you might wonder *why* men find large pupils attractive. And, of 
 
 Or, in plain English, fertile women tend to have larger pupils.
 
-### Motivation
+## Motivation
 
 In Elana Clift's Honors thesis, ["Picking Up and Acting Out: Politics of Masculinity in the Seduction Community,"](http://www.actionseduction.com/freeseductionebooks/ElanaCliftThesis.pdf) she argues that the "pick up artist" movement is the result of the lack of available dating scripts for young men. Back in, say, Victorian England, everyone knew how this whole relationship thing worked. Today, we're all horribly confused.
 
@@ -63,7 +63,7 @@ Frankly, this all smacks of the purest bullshit. Evolution has spent billions of
 
 I decided to find out.
 
-### The Evidence on Prolonged Eye Contact
+## The Evidence on Prolonged Eye Contact
 
 ![An interlude during which the author does a lot of research. Drawing of guy sleeping at desk.](/img/research-montage.png)
 
@@ -123,7 +123,7 @@ And real ones, too:
 
 > Russo (1975) reported greater amounts of eye contact between elementary school children who were friends rather than nonfriends.
 
-### What does eye contact mean, though?
+## What does eye contact mean, though?
 
 While doing keyword research for this, I noticed that a lot of men and women are confused about what prolonged eye contact means. Does it indicate sexual interest? Well, it definitely can!:
 
@@ -137,7 +137,7 @@ But not always. People will look at you more even if you're just plain nice to t
 
 > People gazed more after receiving positive evaluations (Coutts, Schneider, & Montgomery, 1980; Exline & Winters, 1965; Walsh et al., 1977) or warm nonverbal responses (Ho & Mitchell, 1982).
 
-### Is eye contact ever bad?
+## Is eye contact ever bad?
 
 Even if you're hitchhiking, more eye contact is better:
 
@@ -159,7 +159,7 @@ Or add a smile:
 
 > People were also less likely to avoid a staring experimenter when the experimenter smiled (Elman, Schulte. & Bukoff. 1977).
 
-### Sex Differences
+## Sex Differences
 
 It turns out, though, that there are sex differences. Women (on average) respond positively to lots of eye contact, while men prefer less. For instance, if you want a female friend to reveal all her secrets, eye contact is good:
 
@@ -183,7 +183,7 @@ But not men:
 
 I wonder if this is just male insecurity? If I was told some chick had been staring at me, I might wonder, "Is there something wrong with my hair? Has one of my legs grown two legs of its own and walked off of its own volition?"
 
-### Does eye contact cause love?
+## Does eye contact cause love?
 
 > To see is to devour.
 <span id="quote-attribute">—Victor Hugo, <em>Les Misérables</em></span>
@@ -194,7 +194,7 @@ Actually, it turns out, just tricking your crush into thinking they look at you 
 
 > In one of these, Kleinke, Bustos, Meeker, and Staneski (1973) did not actually induce their subjects to gaze at their partners. Instead the subjects were told that they had done so. This produced modest increases in attraction for the partner.
 
-### Further Reading
+## Further Reading
 
 * If you want to settle down with a book on relationships, the best scientific overview I've read is the [*Handbook of Relationship Initiation*](http://www.amazon.com/gp/product/0805861602/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0805861602&linkCode=as2&tag=rsio-20&linkId=J7MP7IRDNPAXNKHL). For lighter fare, [*The Moral Animal*](http://www.amazon.com/gp/product/B00486U8N6/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00486U8N6&linkCode=as2&tag=rsio-20&linkId=BYSS6N4GKK3VYNYC) is pretty entertaining.
 * If you liked this, you'll love the Social Issues Research Centre's ["Guide to Flirting."](http://www.sirc.org/publik/flirt.html)
