@@ -35,7 +35,7 @@ result holds not only for faces, but for
 [averages of cars, fish, and birds.](http://link.springer.com/article/10.3758/BF03196479#page-1)
 A wide face is a dangerous face and an average fish is an attractive fish, it seems. 
 
-# The Beautiful is the Compressible
+## The Beautiful is the Compressible
 
 !["Low-complexity art."](/img/femme-fractal.png)
 
@@ -60,7 +60,7 @@ a short computer program -- a measure of complexity known as Kolmogorov
 complexity. The picture at the beginning of this section is an example of this
 style of art. 
 
-# The Interesting is the Unexpected
+## The Interesting is the Unexpected
 
 Consider two facts:
 
@@ -128,7 +128,7 @@ All together, then:
   designed to improve the compressor.
 * Creativity is the consistent violation of the expectations of the compressor. 
 
-# Further Reading
+## Further Reading
 
 * Another introduction to these ideas can be found
   [here](http://www.idsia.ch/~juergen/creativity.html).
