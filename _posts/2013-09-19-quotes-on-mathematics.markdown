@@ -17,7 +17,7 @@ layout: post
 > One must make a start in any line of research, and this beginning almost always has to be a very imperfect attempt, often unsuccessful. There are truths that are unknown in the way that there are countries the best road to which can only be learned after having tried them all. Some persons have to take the risk of getting off the track in order to show the right road to others.... We are almost always condemned to experience errors in order to arrive at truth.<a href="#citation-1"><sup>1</sup></a> 
 <span id="quote-attribute">—Denis Diderot</span>
 
-# What is mathematics?
+## What is mathematics?
 
 > We often hear that mathematics consists mainly of "proving theorems." Is a
 > writer's job mainly that of "writing sentences?"
@@ -41,13 +41,13 @@ layout: post
 > do not realize how complicated life is.
 <span id="quote-attribute">—John von Neumann</span>
  
-# Analysis
+## Analysis
 >I recoil with fear and loathing from that deplorable evil, continuous functions with no derivative.<a href="#citation-1"><sup>1</sup></a> 
 <span id="quote-attribute">—Charles Hermite, on the <a
 href="http://en.wikipedia.org/wiki/Weierstrass_function">Weierstrass function</a></span>
 
 
-# Combinatorics
+## Combinatorics
 > Combinatorics is an honest subject. No adèles, no sigma-algebras. You count
 > balls in a box, and you either have the right number or you haven’t. You get the
 > feeling that the result you have discovered is forever, because it’s
@@ -58,12 +58,12 @@ href="http://en.wikipedia.org/wiki/Weierstrass_function">Weierstrass function</a
 > a highbrow undertaking, with sophisticated techniques.
 <span id="quote-attribute"><a href="http://www.fas.org/sgp/othergov/doe/lanl/pubs/00326965.pdf">—Gian-Carlo Rota</a></span>
 
-# Analytic Geometry
+## Analytic Geometry
 
 > The introduction of numbers as coordinates is an act of violence. 
 <span id="quote-attribute">—Hermann Weyl, <em>Philosophy of Mathematics and Natural Science</em></span>
 
-# Non-Euclidean Geometry
+## Non-Euclidean Geometry
 
 > Out of nothing I have created a strange new universe.
 <span id="quote-attribute">—János Bolyai</span>
@@ -80,7 +80,7 @@ href="http://en.wikipedia.org/wiki/Weierstrass_function">Weierstrass function</a
 > The assumption that the angle sum of a triangle is less than 180° leads to a curious geometry, quite different from ours but thoroughly consistent, which I have developed to my entire satisfaction. The theorems of this geometry appear to be paradoxical, and, to the uninitiated, absurd, but calm, steady reflection reveals that they contain nothing at all impossible.<a href="#citation-1"><sup>1</sup></a> 
 <span id="quote-attribute">—Carl Friedrich Gauss</span>
 
-# Foundations and Certainty
+## Foundations and Certainty
 
 > I shall persevere until I find something that is certain or, at least, until I find for certain that nothing is certain.<a href="#citation-1"><sup>1</sup></a> 
 <span id="quote-attribute">—René Descartes</span>
@@ -144,7 +144,7 @@ href="http://en.wikipedia.org/wiki/Weierstrass_function">Weierstrass function</a
 > We have put a fence around the herd to protect it from the wolves but we do
 > not know whether some wolves were already enclosed within the fence.
 <span id="quote-attribute"> Henri Poincaré</span>
-# Applications
+## Applications
 
 > This science \[mathematics\] does not have for its unique objective to eternally contemplate its own navel; it touches nature and some day it will make contact with it. On this day it will be necessary to discard the purely verbal definitions and not any more be the dupe of empty words.
 <span id="quote-attribute">—Henri Poincaré, <a
@@ -170,7 +170,7 @@ Foundations of Science</em></a></span>
 > pick and shovel, and he who will not soil his hands will never see them.<a href="#citation-1"><sup>1</sup></a> 
 <span id="quote-attribute">—John L. Synge</span>
 
-# Platonism
+## Platonism
 
 > God eternally geometrizes.<a href="#citation-1"><sup>1</sup></a> 
 <span id="quote-attribute">—Plato</span>
@@ -180,7 +180,7 @@ Foundations of Science</em></a></span>
 > which He revealed to us in the language of mathematics.<a href="#citation-1"><sup>1</sup></a>
 <span id="quote-attribute">—Johannes Kepler</span>
 
-# Formalism
+## Formalism
 
 > A serious threat to the very life of science is implied in the assertion that
 >  mathematics is nothing but a system of conclusions drawn from the definitions
@@ -190,7 +190,7 @@ Foundations of Science</em></a></span>
 <span id="quote-attribute">—Richard Courant</span>
 
 
-# Further Reading
+## Further Reading
 
 * There are more math quotes
   [here](http://mathoverflow.net/questions/7155/famous-mathematical-quotes?page=1&tab=votes#tab-top) and
@@ -202,7 +202,7 @@ StackOverflow deleted a great collection of quotes, but you can find an archive
 [here](http://web.archive.org/web/20100818203850/http://stackoverflow.com/questions/58640/great-programming-quotes).
 * For more general quotes, [this page](http://people.mokk.bme.hu/~daniel/rationality_quotes_2012/rq.html) is my favorite.
 
-# Sources
+## Sources
 
 <a name="citation-1"></a>
 1. Quoted in *Mathematics: The Loss of Certainty*.

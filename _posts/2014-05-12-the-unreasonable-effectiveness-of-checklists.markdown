@@ -70,7 +70,7 @@ this success in 8 other hospitals: **"its use improved compliance with standards
 
 Checklists are awesome.
 
-# How awesome are they? A brief review
+### How awesome are they? A brief review
 
 The bulk of the evidence for the effectiveness of
 checklists comes from medicine and is relatively recent. While other
@@ -132,7 +132,7 @@ productivity](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3069616/):
 
 So, if the question is "How awesome are checklists?" I'd say: pretty awesome.
 
-# Further Reading
+### Further Reading
 * I have written before about the
   [checklist I use for writing](http://rs.io/2014/03/07/tools-for-writing.html).
 * For more on Dr. Peter Pronovost, check out [the original NYTimes article](http://www.nytimes.com/2009/12/24/books/24book.html?pagewanted=all&_r=0) or the

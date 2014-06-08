@@ -6,7 +6,7 @@ published: false
 
 After quitting college and beginning the hunt for an entry-level programming position, I've become addicted to email. This is my story.
 
-### In the before times…
+#### In the before times…
 
 There once was a time, not so very long ago, where I received two types of email. Type A: emails to confirm that I did, in fact, sign-up for some account with a valid email address, and type B: spam. My email account was useless.
 
@@ -22,7 +22,7 @@ On one occasion, a particularly overzealous teacher was collecting "real email a
 
 Ironically, I suspect the faculty's emails were accessed through Microsoft Live, such that they were not forced to share the punishment of using the school email interface with the student body. 
 
-### We approach the present.
+#### We approach the present.
 
 This Fall, I made the decision to stop attending college, and instead focus on learning on my own and, also, seeking a job. I have no idea how most people get jobs. I suspect they leverage their social network, a friend makes an introduction, etc. 
 

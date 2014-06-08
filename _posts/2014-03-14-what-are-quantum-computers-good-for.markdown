@@ -32,7 +32,7 @@ with a bit more on quantum computers for simulation:
 > chemistry, nanotechnology and other fields, important enough that Nobel Prizes
 > have been awarded even for partial progress.
 
-# Problems fit for a quantum computer
+## Problems fit for a quantum computer
 
 <center><img src="/img/complexity-classes.png"></center>
 
@@ -56,7 +56,7 @@ So, classical machines are here to stay. Quantum computers are not a silver bull
 > enlightenment or what practical consequences might come from future
 > application of this kind of fundamental principle.
   
-# Further Reading
+## Further Reading
 
 * Scott has a [blog](http://www.scottaaronson.com/blog/) with way more quantum
   computer stuff.

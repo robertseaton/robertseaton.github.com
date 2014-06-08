@@ -41,7 +41,7 @@ otherwise. After all, life is in some sense a series of problems, of obstacles
 to be overcome. If we can upgrade from a hammer to dynamite to blast through
 those, well, what are we waiting for? Let's go nuclear.
 
-# A Computational Model of Problem Solving
+## A Computational Model of Problem Solving
 
 **Problem solving can be understood as a search problem.** You start in some state,
 there's a set of neighbor states you can move to, and a final state that you
@@ -84,7 +84,7 @@ imagine what a real world problem *might* look like.
 
 !["Giant graph."](/img/giant-graph.png)
 
-# Insight
+## Insight
 
 > A change in perspective is worth 80 IQ points. 
 <span id="quote-attribute">—Alan Kay</span>
@@ -181,7 +181,7 @@ partial differential equations -- something natural for a physicist, but
 strange for a computer science who thinks in discrete rather than continuous
 terms. 
 
-# Incubation
+## Incubation
 
 We can think of problem solving like a walnut, a metaphor that comes to me by
 way of Grothendieck. There are two approaches to cracking a walnut. We can, with
@@ -199,7 +199,7 @@ between incubation and problem solving performance, with creative problems
 receiving more of a boost.** Going further, they also found that the more time
 that was spent struggling with the problem, the more effective incubation was.
 
-## Sleep
+### Sleep
 
 > Keep your subconscious starved so it has to work on your problem, so you can
 > sleep peacefully and get the answer in the morning, free. 
@@ -218,7 +218,7 @@ The authors write, "We conclude that sleep, by restructuring new memory
 representations, facilitates extraction of explicit knowledge and insightful
 behaviour."
 
-## The Benefits of Mind Wandering
+### The Benefits of Mind Wandering
 
 [Individuals with ADHD tend to score higher than neurotypical controls on
 laboratory measures of creativity.](http://www.sciencedirect.com/science/article/pii/S0191886905003764) This jives with my experience. I have a
@@ -239,7 +239,7 @@ know walking without goal is often a productive intellectual strategy for me. Ri
 Hickley, known as inventor of the Clojure programming language, has sorta taken the best of both worlds -- sleep and mind wandering --
 and combined them into what he calls [hammock driven development](http://www.youtube.com/watch?v=f84n5oFoZBc). 
 
-## But how does it work?
+### But how does it work?
 
 As is often the case in the social sciences, there is little consensus on why incubation works. **One
 possible explanation, as illustrated by the Hamming quote, is that the
@@ -270,7 +270,7 @@ starts over, but uses this information to inform future search
 attempts. In this manner, it avoids getting stuck in the same way that it was stuck in
 the past.
 
-# Problem Solving Strategies
+## Problem Solving Strategies
 
 > It is really a lot of fun to solve problems, isn't it? Isn't that what's interesting in life?
 <span id="quote-attribute">—Frank Offher</span>
@@ -279,7 +279,7 @@ There may be no royal road to solving every problem with ease, but that doesn't
 mean that we are powerless in the face of life's challenges. There are things
 you can do to improve your problem solving ability.
 
-# Practice
+## Practice
 
 [The most powerful, though somewhat prosaic, method is practice](http://rs.io/2014/01/20/human-expertise-and-memory-machines.html). It's figuring
 out the methods that other people use to solve problems and mastering them,
@@ -307,7 +307,7 @@ something that someone else already knows than to figure it out
 on your own.** Our brains are just not powerful enough. This is, I think, one of
 the most powerful arguments for the benefits of broad reading and learning.
 
-# Mood
+## Mood
 
 **Moods can be thought of as mental lenses, colored sunglasses, that encourage different sorts of
 processing.** A "down" mood encourages focus on detail, while an "up" mood
@@ -326,7 +326,7 @@ over coffee with a friend. Think about it while fighting, while angry at the
 world. **The more varied states that you are in while considering your problem, the higher the odds you will stumble on a new
 insight.**
 
-# Rubber Ducking
+## Rubber Ducking
 
 !["Praise duck."](/img/praise-duck.png)
 
@@ -358,7 +358,7 @@ Even with the mixed research, I'm confident that the technique works, based on
 my own experience. **If you're stuck, try describing the problem to someone
 else in terms they can understand.** Blogging works well for this.
 
-# Putting it All Together
+## Putting it All Together
 
 In short, then:
 

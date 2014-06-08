@@ -8,7 +8,7 @@ I get along well with most pieces of technology (not counting [my smartphone](ht
 
 Maybe you’ve guessed it: the printer. 
 
-### If the Three Gorges Dam is a marvel of modern engineering, the printer has to be one of its blackest marks. 
+#### If the Three Gorges Dam is a marvel of modern engineering, the printer has to be one of its blackest marks. 
 
 I’m getting ready to junk another printer, part of a long line of now defunct devices. I’ve heard a number of stories from fellow nerds about faithful desktops, aged more than ten or fifteen years, that they’ve had to either junk or relegate to the basement since their machine’s hardware, still in working order, is just too dated. My own desktop has lasted more than 5 years and I still use it every day.
 
@@ -16,7 +16,7 @@ I have heard no such stories about printers, though, and I’ve never personally
 
 When you first buy a printer, you’ve got the pain of the initial setup to deal with. A task that can prove to be no small feat if you’re dealing with anything other than mainstream hardware. What, you want hook up your fancy wifi-enabled printer so that it’s shared over a network served up by a custom-built BSD router and you want the ability to print from Windows, OSX, and Linux machines? You’re in for a world of hurt. 
 
-### I couldn’t figure that out even though I’ve made it through a number of Gentoo installs.
+#### I couldn’t figure that out even though I’ve made it through a number of Gentoo installs.
 
 Eventually, I gave up. I bought a standard router (well, kind of, it’s a Netgear WNR3500 running dd-wrt) and I was limited to printing from the Windows machines. By that point, though, the fight had been beaten out of me and I was happy to be able to print at all.
 

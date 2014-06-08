@@ -15,7 +15,7 @@ mistakes.
 
 Here's how my Anki usage has evolved.
 
-## Why questions
+### Why questions
 
 Cards that answer the question "Why?" are more valuable than factual
 cards. (See also [this post](http://rs.io/2014/02/25/why-questions-reveal-structure.html).) It's
@@ -29,7 +29,7 @@ My emerging perspective here is that it's important to understand all the
 context of an idea to *really* know it. How it emerged, how to invent it, what
 it's for, and so on. 
 
-## Images
+### Images
 
 My original Anki decks were *all* words. Now, I lean on images as
   heavily as possible. I find, at least for my sort of
@@ -44,7 +44,7 @@ main idea, it'll do:
 As an unintended consequence, my thought itself has shifted towards more imagery. The repetition makes an image
 representation of a concept more available mentally than its equivalent in words.
 
-## Connections
+### Connections
 
 The biggest problem with Anki is the tendency for cards to become
 disconnected, so that a lot of knowledge is only available with the right cue
@@ -62,7 +62,7 @@ memories.
 Mnemonics, at least the [method of loci](http://en.wikipedia.org/wiki/Method_of_loci), are a bit better in this regard, as I
 can think myself to a place if I need to retrieve something.
 
-## Single deck
+### Single deck
 
 Currently, I have decks organized by topic and subtopic. However, I now think this
 is backwards. Given [Hebbian learning](http://en.wikipedia.org/wiki/Hebbian_theory) -- neurons that fire together wire
@@ -77,7 +77,7 @@ serendipity. Topic organization says "ideas about computer science don't belong 
 except applying ideas across disciplines is precisely where the insights are
 likely to be most fertile.
 
-## Two-way connections
+### Two-way connections
 
 Here's a mistake I've made a couple of times. You'll be reading a text and it'll
 define something, like the Martin-Löf-Chaitin thesis, and you'll create a card
@@ -100,7 +100,7 @@ knowledge so that you can recall it when needed.
 A great deal of an effective knowledge base is engineering it so that it'll be
 useful in the sort of situations where you expect to apply it.
 
-## Adding whatever
+### Adding whatever
 
 My philosophy when I started using Anki was to add whatever, to just adopt a
 trifling barrier to entry. I didn't worry about whether a fact is useful or not
@@ -126,7 +126,7 @@ which is sort of fun. If someone mentions their favorite type of cheese, or a pe
 name, make it into an Anki card. It's like free social points. Memorizing
 birthdays works.
 
-# Thoughts on the value of Anki
+## Thoughts on the value of Anki
 
 I remain, more than a year later, enthusiastic about Anki. The honeymoon period
 is over and I still think it's awesome.
@@ -141,7 +141,7 @@ Which is not to say that Anki is a panacea. Just as it's a good idea to
 diversify your stock portfolio, it's a good idea to diversify learning
 methods.
 
-# Further Reading
+## Further Reading
 
 * I've written before about
   [the importance of "Why?" questions](http://rs.io/2014/02/25/why-questions-reveal-structure.html),

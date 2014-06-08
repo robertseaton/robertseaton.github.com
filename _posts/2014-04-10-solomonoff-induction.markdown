@@ -22,7 +22,7 @@ guilty. At the end of the trial, the jury spits out its verdict.
 
 Science works in the same manner.
 
-# What's a hypothesis?
+## What's a hypothesis?
 
 Okay, I haven't been entirely honest. A jury doesn't have just two hypotheses
 floating around in its collective head. There are a bunch of different
@@ -52,7 +52,7 @@ the process of algorithm discovery.
 Here the colored circles are algorithms (hypotheses) and their size is their
 likelihood.
 
-# Further Reading
+## Further Reading
 
 * The meat of the idea here, captured by the graphics, is [Solomonoff induction](http://lesswrong.com/lw/dhg/an_intuitive_explanation_of_solomonoff_induction/). 
 * The optimal way to update beliefs based on evidence is captured by [Bayes' Theorem](http://lesswrong.com/lw/2b0/bayes_theorem_illustrated_my_way/).

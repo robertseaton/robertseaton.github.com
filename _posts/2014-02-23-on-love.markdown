@@ -16,7 +16,7 @@ it's surreal. Things like, "Love is always a choice." What, I wonder, are these 
 would describe as passionate love is not this tame, controlled thing. If love were a mode of transportation, it'd be more like
 surfing in a hurricane than a leisurely bike ride.
 
-# Some Thinking Machinery
+## Some Thinking Machinery
 
 Love-as-drug is a cliche. If I told you, with a serious face, that love is
 like being on drugs and you responded by vomiting all over me, well, I would
@@ -61,7 +61,7 @@ love much sooner than the other. This would not matter if you could just
 take another pill, so we can imagine side-effects. Maybe the pill zonks out for a
 while after use. 
 
-# Intuition Pumps
+## Intuition Pumps
 
 What we've just done is built what Daniel Dennet calls an [intuition pump](http://en.wikipedia.org/wiki/Intuition_pump) -- or
 at least gathered the parts for one. These are thought experiments that aid the

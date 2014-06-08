@@ -78,7 +78,7 @@ of being good? It's action. It's to go out there in the
 world and improve it. It's not about labels. It's not about who's good and who's
 bad. It's about helping.
 
-# Further Reading
+## Further Reading
 * The notion that there is an asymmetry between good and bad events is the main
   theme of the paper ["Bad Is Stronger Than Good."](http://www.carlsonschool.umn.edu/assets/71516.pdf) I've found it a useful concept
   when thinking about many different things, from blog comments to dog

@@ -22,7 +22,7 @@ slug*.
 The nudibranch literally digests and absorbs the abilities of the creatures it
 eats. You, gentle reader, are like that nudibranch.
 
-# Identity considered harmful
+## Identity considered harmful
 
 Identity is *weird.* Take politics. I once met this dude and we had a lot in
 common. He was a software guy, working for the Obama campaign. We hit it off,
@@ -45,7 +45,7 @@ Why are people so weird about religion and politics? Because they
 identify as one tribe or another. If you disagree with the politics of their favorite tribe, well, that feels like a
 personal attack.
 
-# But you're a sponge
+## But you're a sponge
 
 !["Picture of a sponge."](/img/sponge.png)
 
@@ -64,6 +64,6 @@ and reproduce anything anyone else can do.
 
 > What one fool can do, another can.
 
-# Further Reading
+## Further Reading
 
 * I've written before about [the weirdness of identity](http://rs.io/2013/12/14/the-examined-life.html).

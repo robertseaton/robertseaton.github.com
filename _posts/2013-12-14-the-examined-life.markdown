@@ -12,7 +12,7 @@ warring preferences. Consider the would-be comedian who, instead of working on
 his act, spends the day watching *Family Guy* reruns. He is of two minds: one
 wishes to watch *Family Guy* while another wants to brainstorm new routines.
 
-# Many-Self Model
+## Many-Self Model
 
 > You are not the king of your brain. You are the creepy guy standing next to
 > the king going "a most judicious choice, sire".
@@ -53,7 +53,7 @@ experience is
 this constant struggle, every part of our brains pulling and pushing us in two
 or three or a thousand different directions. 
 
-# Many-Selves and Many-Goals
+## Many-Selves and Many-Goals
 
 Imagine that you throw a party for New Year's Eve and, as part of a
 game, everyone must write down their resolutions for the incoming
@@ -68,7 +68,7 @@ like a body shared by an entire party of selves (or agents or modules if you
 prefer) than one consistent identity. A mind is not one individual, but a society. Our goals are as contradictory as a list
 of the goals of a dozen or so people. 
 
-# Explicit and Implicit Goal-Keeping
+## Explicit and Implicit Goal-Keeping
 
 And our list of woes grows longer, because the type of goals that one is
 willing to write on a list are not the same as the desires of each
@@ -106,7 +106,7 @@ assumption that prayers work, there's no reason to post on the internet telling
 everyone about you praying and, second of all, prayers might be nice but a five
 dollar donation is a lot nicer.
 
-# Knowing Thyself
+## Knowing Thyself
 
 The point I'm developing, then, is:
 
@@ -124,7 +124,7 @@ that will give us some measure of clarity if it's to be had. We would like to --
 where possible -- eliminate reliance on subjective experience and inject a
 measure of rigor into knowing ourselves. We'd like some certainty.
 
-## Understanding Why
+### Understanding Why
 
 It's instructive to step back and survey our surroundings. Why does it
 matter whether or not we pursue the right goal? There are a whole lot of people
@@ -152,7 +152,7 @@ goals. If I want to help people, I could apply for a consultation at [80,000 hou
 while if I want to convince people that I'm a good person, I could work on
 becoming more charismatic.
 
-## Values as Bedrock
+### Values as Bedrock
 
 People, by and large, act as if goals are nebulous things that appear out of
 nowhere, as if whispered to them by the gods. Their striving is chaotic,
@@ -182,7 +182,7 @@ obvious what it is that we want. We need some way to figure it out and, given
 that this is the foundation on which any goal is built, it's hard to overstate
 the importance of some clarity as to our values.
 
-## Identifying Values
+### Identifying Values
 
 The most direct route to understanding your own values seems to be by figuring
 out those of others -- at least in part -- and then assuming that you also
@@ -256,7 +256,7 @@ discussing. It's more about domination, more battle than discovery. Winning
 battles against opposing tribes is satisfying (politics!) and, while I have never crushed an
 enemy -- at least not physically -- I suspect it feels pretty good.
 
-# Stockpiling Self-Knowledge
+## Stockpiling Self-Knowledge
 
 > To know oneself, one should assert oneself.
 <span id="quote-attribute">—Albert Camus</span>

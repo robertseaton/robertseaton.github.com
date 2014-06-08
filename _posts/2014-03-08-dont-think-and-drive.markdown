@@ -28,7 +28,7 @@ opposite.
 I can invent explanations for anything, but I don't mistake my brain's
 fairy tales for reality. 
 
-# Further Reading
+## Further Reading
 
 * Still not convinced? Try reading
   [this](http://lesswrong.com/lw/im/hindsight_devalues_science/).

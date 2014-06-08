@@ -21,7 +21,7 @@ Before you start foaming at the mouth, gentle reader, my smartphone is running A
 
 Now, I'm not saying that my smartphone isn't useful. It is. My computer, though, isn't just useful. It changes the way I interact with *everything*. If I felt the same way about my computer as I do about my Android device, I would be thinking "well, at least I don't have to use the phonebook to look this up."
 
-### I love computers, but hate my smartphone.
+#### I love computers, but hate my smartphone.
 
 It's not that I don't know how to use my smartphone. It's true that I don't know the full potential of the device: all the touch gestures, useful applications, power user stuff, but, really, what is there to it? You can call people, browse the web, take photos, send text messages, and play Angry Birds. 
 

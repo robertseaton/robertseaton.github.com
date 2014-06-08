@@ -42,7 +42,7 @@ living soul and then choose one at random.
 
 The angels, you see, are nihilists -- and you are the chosen one.
 
-# First act as God
+## First act as God
 
 Now you're God and, boy, if you thought you had responsibilities before, you've
 *really* got 'em now, and all the angels are waiting. Or, at least, you feel
@@ -67,7 +67,7 @@ ought to be able to do something about that. Solve that *romance thing*."
 Your first act of God, you announce to the angels, will be to solve the Stable
 Marriage Problem.
 
-# The Stable Marriage Problem
+## The Stable Marriage Problem
 
 Mathematics is a game of the imagination. There is but one rule: you may not
 contradict yourself -- and I'm not even sure about that rule. Maybe there's a neat
@@ -108,7 +108,7 @@ least when not blinded by infatuation), like Brad Pitt or Angelina Jolie. But
 none of those people want you more than their spouse, so you're stuck
 together. And that's true love. 
 
-## Is there a stable pairing?
+### Is there a stable pairing?
 
 But it's not obvious that there is always a stable pairing. Maybe there is some
 way to set things up so that there's an infinite cycle -- one where people keep
@@ -124,7 +124,7 @@ don't want to just know something. I want to know how I could reinvent it.
 But alas. I'm not that clever, so you will have to put up with the traditional
 style of presentation.
 
-# A first algorithm
+## A first algorithm
 
 Since you're God, you can just use the nicest algorithm that you can invent,
 which would go like this:
@@ -146,7 +146,7 @@ So, if we want to have stable marriages *and* more than 50 happy souls in our
 platonic mathematical reality, we're going to have to come up with something
 better.
 
-# Gale-Shapely algorithm
+## Gale-Shapely algorithm
 
 For inspiration, consider how dating actually works. Bob approaches Alice and says something like, "Let's hang out sometime." or "Want to get dinner
 sometime?" or, for college students, the always popular, "We should watch Netflix
@@ -181,7 +181,7 @@ rest. This may entail breaking off her current engagement and "trading up."
 
 Looks sorta like dating in real life, huh?
 
-## Proving stability
+### Proving stability
 
 How do we know that this algorithm produces a stable match?
 
@@ -195,7 +195,7 @@ later kicked him out because she traded up for Fred, or she didn't accept him
 because she was already engaged to someone better -- Fred or someone worse than
 Fred. In either case, it's impossible that Wilma prefers Barney over Fred.
 
-# Smashing the Patriarchy
+## Smashing the Patriarchy
 
 But wait! We've discovered a sexist algorithm. All the men are matched with the
 best possible woman *from their point of view*, while the women get their worst
@@ -205,7 +205,7 @@ any woman.
 If we reverse the algorithm so that the women ask the men out, then we get a
 female optimal algorithm -- "proving" that there's more than one stable match. 
 
-## How many possible stable matches are there?
+### How many possible stable matches are there?
 
 Lots. It turns out that the upper bound is something like
 \\(O\(n!^{\frac{2}{3}}\\)) and a lower bound of \\(\Omega(2.28^n)\\). Or, you
@@ -217,7 +217,7 @@ complicated, relying on more knowledge of graph theory than I currently possess.
 
 But as long as you're omniscient, surely [you can figure it out](http://www.corelab.ntua.gr/courses/netalg/pres2013/xatzidimitriou.pdf).
 
-# Further Reading
+## Further Reading
 
 * If you're interested in this sort of thing, I've also written up [the Secretary
   Problem](http://rs.io/2014/03/03/the-secretary-problem.html) and

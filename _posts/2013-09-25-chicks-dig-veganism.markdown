@@ -22,7 +22,7 @@ interested in veganism and are more open to talking about it.
 And since we live in the future, I don't have to speculate. Are women more likely to be vegans? Yes. There seem to be somewhere between two to
 three woman-vegans for every man-vegan.<a href="#citation-1"><sup>1</sup></a>
 
-# Wherefore art thou vegan?
+## Wherefore art thou vegan?
 
 > Tiger got to hunt, bird got to fly; Man got to sit and wonder, "Why, why,
 > why?"
@@ -36,7 +36,7 @@ By the way, we could reframe this question as, "Why are men not
 vegans?" instead of asking why women are vegans. I
 suspect that each frame suggests different answers.
 
-## You wouldn't download a steak
+### You wouldn't download a steak
 
 > The notion that human life is sacred just because it is human life is
 > medieval.
@@ -58,7 +58,7 @@ If it were the case that women are more ethically minded, I would expect them
 to be more likely to be PETA members, veterinarians, more likely to donate to
 charity, and more likely to volunteer than men. Is this the case?
 
-## The lady doth protest too much
+### The lady doth protest too much
 
 > I was not designed to be forced. I will breathe after my own fashion. Let us
 > see who is the strongest.
@@ -96,7 +96,7 @@ way that minimizes animal suffering, 95.1% versus 84.8%.
 Men, however, have the dubious distinction of being more likely to actually have sex with
 animals.<a href="citation-7"><sup>7</sup></a>
 
-## Is right or left the feminine side?
+### Is right or left the feminine side?
 
 > To succeed in a domain that violates your intuitions, you need to be able to
 > turn them off the way a pilot does when flying through clouds. You need to do
@@ -161,7 +161,7 @@ might outperform women on contrived ethical dilemmas not because they trust
 their feelings less, but rather because they experience a weaker, easier-to-override empathic
 response.
 
-## Static, dynamic, and sensitive typing
+### Static, dynamic, and sensitive typing
 
 Are women really more sensitive than men?
 
@@ -192,7 +192,7 @@ men would score higher on measures of empathy, even if each sex's physiology was
 exactly the same as it is in this universe. Women are more sensitive than men
 because they try harder at being more sensitive than men.
 
-# Final thoughts
+## Final thoughts
 
 > Nature, Mr. Allnut, is what we are put in this world to rise above.
 <span id="quote-attribute">—Rose, <em>The African Queen (1951)</em></span>
@@ -208,7 +208,7 @@ motivated to adopt lifestyle changes in an attempt to reduce animal suffering.
 
 
 
-# Sources
+## Sources
 <a name="citation-1"></a>
 1. ["In US, 5% Consider Themselves Vegetarians."](http://www.gallup.com/poll/156215/consider-themselves-vegetarians.aspx)
 Also, see [this page](http://www.imaner.net/panel/profile.htm).

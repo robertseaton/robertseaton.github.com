@@ -4,11 +4,11 @@ layout: post
 date: 2013-08-05
 ---
 
-## Notes on notes
+### Notes on notes
 
 I didn't bother taking notes on parts of the book that contained information covered more thoroughly elsewhere or where the author's claims struck me as dubious. I also spent a while hunting down citations and then quit about half way through, figuring blogging ought to be fun. 
 
-## Introduction
+### Introduction
 
 Happiness and meaning in life were rated as much more important in producing the
 good life than moral goodness and going to heaven.<a href="#1-citation"><sup>1</sup></a>
@@ -47,7 +47,7 @@ populations.
 Smaller organizations with flatter hierarchies and more employee input on
 decisions have greater well-being.
 
-## How to measure and study happiness
+### How to measure and study happiness
 
 Brandstatter (1991) using experience sampling found that people are in a
 positive emotional state 68% of the time. (pg. 8)<a href="#citation-3"><sup>3</sup></a> 
@@ -103,7 +103,7 @@ High levels of well-being increase extraversion. (Headey, Holmstrom, and Wearing
 1984). (pg. 21) <a href="#citation-12"><sup>12</sup></a> 
 
 
-## Joy and other positive emotions
+### Joy and other positive emotions
 
 People have a number of negative moods, but really only one positive mood,
 joy. (pg.23)
@@ -167,7 +167,7 @@ Larson et al. (1984) found that alcohol produced positive emotions along all the
 scales they used. (pg. 36) <a href="#citation-17"><sup>17</sup></a> 
 
 
-## Satisfaction
+### Satisfaction
 
 Cummins (1998) concluded that most studies report an average of 70% of the
 maximum of the satisfaction scale. <a href="#citation-18"><sup>18</sup></a> 
@@ -213,7 +213,7 @@ in the present or recent past, but for past events there was more effect on
 well-being from thinking about negative events. Past events are used to
 contrast, while present events are used as evidence of well-being. (pg. 50) <a href="#citation-24"><sup>24</sup></a> 
 
-## Humour and laughter
+### Humour and laughter
 
 Finding things funny happens about 18 times a day, most often in spontaneous
 response to situations in the presence of others. (Martin and Kuiper, 1999)
@@ -285,7 +285,7 @@ The key to most humor is entertaining two versions of events, or stories, where
 the second and unexpected one is less worthy, e.g. ruder, than the
 first. (pg. 69)
 
-# Social relationships
+## Social relationships
 
 Infant monkeys rared in total isolation start to discriminate friendly and
 threatening faces at 2 months, so this ability must be largely innate. (Sackett,
@@ -349,7 +349,7 @@ Argyle and Furnham (1983) found that the spouse was the greatest source of
 conflict as well as of satisfaction. (pg. 86) <a href="#citation-48"><sup>48</sup></a> 
 
 
-# Work and employment
+## Work and employment
 
 In a survey of 7000 workers from nine European countries, Clark (1998a) found
 that 42% reported having high job satisfaction. (pg. 89) <a href="#citation-49"><sup>49</sup></a> 
@@ -414,7 +414,7 @@ American studies find no difference in mental health before and after retirement
 (Kasl, 1980). <a href="#citation-62"><sup>62</sup></a> 
 
 
-# Leisure
+## Leisure
 
 Several studies have found a negative relation between TV watching and
 happiness. (pg. 112)
@@ -459,7 +459,7 @@ personality, they are high on extraversion and psychoticism. They do
 particularly well at, and presumably enjoy, rough sports because they don't mind
 injuring other people. (pg. 129)
 
-# Money, class and education
+## Money, class and education
 
 Campbell et al. (1976) in their *Quality of American Life* study found that
 "financial situation" was rated 11th out of 12 possible sources of life
@@ -506,7 +506,7 @@ the past. (pg. 141)
 
 The effect of education on happiness is greater in poorer countries. (pg. 146)
 
-# Personality, age and gender
+## Personality, age and gender
 
 Argyle (1994) found that the socially unskilled avoid many situations that
 others enjoy. (pg. 149)
@@ -527,7 +527,7 @@ Positive affect increases with age and negative affect decreases, at least throu
 
 A meta-analysis carried out by Wood et al. (1989) found that women were on average a little happier than men. (pg. 161)
 
-# Religion
+## Religion
 
 The benefits of church may due to the social support it provides. (pg. 167)
 
@@ -553,7 +553,7 @@ In Jerusalem a number of visitors become emotionally disturbed simply by the str
 
 Intrinsic religiosity may reduce the fear of death. (Osarchuk and Tate, 1973). (pg. 175)
 
-# National differences in happiness
+## National differences in happiness
 
 Collectivism is beneficial for poor nations, while individualism is beneficial for rich nations. (Veenhoven, 2000). (pg. 185)
 
@@ -565,7 +565,7 @@ The Ifaluk tribe live on a small Pacific island. In this culture, looking happy 
 
 Lists of objective indicators for well-being appear to be very arbitrary. Becker at al. (1987) found that for 329 American cities, 134 of them could  come first depending on different weighting of the indicators. (pg. 192)
 
-# Happiness enhancement
+## Happiness enhancement
 
 Exercise is one of the easiest and most effective methods of inducing positive moods. (pg. 202)
 
@@ -573,7 +573,7 @@ Forms of cognitive therapy have been used for normals with success. Lichter et a
 
 Depressed patients and many other mental patients have been found to display defective social skills such as low rewardingness (Hollin and Trower, 1986). (pg. 212)
 
-# The effects of positive moods and happiness
+## The effects of positive moods and happiness
 
 When positive moods have been induced in subjects, they feel very sociable. (pg. 215)
 
@@ -595,7 +595,7 @@ Isen and Levin (1972) found that children who had been allowed to win at bowling
 
 Weisenverg et al. (1998) found that after seeing a humorous film subjects could stand more pain, 51 minutes with a had in cold water, compared with only 31 minutes after a sad film. (pg. 220)
 
-# Conclusions
+## Conclusions
 
 Social relations are probably the greatest single cause of happiness and other aspects of well-being. (pg. 224)
 
@@ -609,7 +609,7 @@ It is sometimes said that you can't seek happiness, it has to come as a by-produ
 
 
 
-# Sources
+## Sources
 <a name="1-citation"></a>
 1. King, Laura A., and Christie K. Napa. ["What makes a life good?."](http://www.mysmu.edu/faculty/cscollon/King_Napa_1998.pdf) Journal of personality and social psychology 75.1 (1998): 156.
 <a name="citation-2"></a>

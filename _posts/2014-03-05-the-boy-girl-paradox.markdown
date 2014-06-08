@@ -11,7 +11,7 @@ Probability theory is notorious for violating human intuition. Consider the **Bo
 Answer: <font style="background-color: #222;">Of course, the brain thinks, it
 must be one half. Except it isn't. It's one in three.</font>
 
-# Trust, but Verify
+## Trust, but Verify
 
 If the whole
 [Monty Hall debacle](http://en.wikipedia.org/wiki/Monty_Hall_problem#Vos_Savant_and_the_media_furor)
@@ -42,7 +42,7 @@ Examining this problem suggests a more general heuristic:
 **Heuristic:** *When considering a probability problem, consider all possible
   permutations. Draw a picture.*
 
-# The Other Problem
+## The Other Problem
 
 Usually, the problem is presented as a pair of problems, the second of which is:
 
@@ -61,7 +61,7 @@ Then eliminate all pairs where the eldest child is not a girl:
 
 \\(\frac{1}{2}\\) of the pairs are \\(\(Girl,Girl\)\\).
 
-# Debugging the Intuition
+## Debugging the Intuition
 
 [When MBA students were presented with the first problem](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.99.1889&rep=rep1&type=pdf), 83% of them gave an
 answer of \\(\frac{1}{2}\\). Why is this so tempting? Why does intuition
@@ -99,7 +99,7 @@ fast, [system one](http://en.wikipedia.org/wiki/Dual_process_theory) processor. 
 and only throwing out those that don't apply -- \\(\(Girl, Girl\)\\) -- we avoid
 that failure mode and arrive at the right answer. 
 
-# Further Reading
+## Further Reading
 
 * If you enjoyed this, you may enjoy my articles on
   [the secretary problem](http://rs.io/2014/03/03/the-secretary-problem.html),

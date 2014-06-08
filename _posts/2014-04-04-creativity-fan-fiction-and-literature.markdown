@@ -37,7 +37,7 @@ But that was not too compelling as it compared technical,
 repetitive works to novels. This time, I decided to compare very creative
 writing to normal creative writing. 
 
-# Methods
+## Methods
 
 **The idea then is to compare the compressibility of amateur creative writing with
 that of experts.** To accomplish this, I took 95 of the [top 100 most downloaded](http://www.gutenberg.org/browse/scores/top) works
@@ -51,7 +51,7 @@ by [Matt Mahoney's compression benchmark](http://mattmahoney.net/dc/text.html)
 the strongest level of compression, and then compared the ratio of compressed to
 uncompressed space for each work. 
 
-# Analysis and Results
+## Analysis and Results
 
 I plotted the data and examined
 the outliers, which turned out to be compressed files that my script incorrectly
@@ -92,7 +92,7 @@ doesn't:
 data necessary to reproduce this are available
 [on GitHub](https://github.com/robertseaton/fanfic-analysis).
 
-# Discussion
+## Discussion
 
 I must admit a certain amount of disappointment that we weren't able to
 distinguish between literature and fanfiction by compressiblity. That would have been pretty neat.
@@ -139,7 +139,7 @@ hardware here.
 
 But don't just listen to me. Make up your own mind.
 
-# Further Reading
+## Further Reading
 
 * The idea that kicked off this whole line of inquiry is Jürgen Schmidhuber's
   theory of creativity, which

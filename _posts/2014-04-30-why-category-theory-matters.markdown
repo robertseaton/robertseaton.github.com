@@ -23,7 +23,7 @@ quarter of the way through *Conceptual Mathematics: A First Introduction to
 Categories* and still not sure why I'm bothering with fleshing out all this theory. Is
 this just set theory for hipsters?
 
-# What category theory is about
+## What category theory is about
 
 Category theory is, essentially, the study of mathematical structure. It's the
 study of things and the mappings between those things, the translations of these
@@ -36,7 +36,7 @@ functions, though they are not limited to this interpretation.
 The subject's major insight is, in order to understand something, focus on the
 structure preserving mappings of that something -- the legal translations.
 
-# What the excitement is about
+## What the excitement is about
 
 > The vast applicability and expressiveness of category theory leads to the
 > observation that most structures in mathematics are best understood from a
@@ -70,7 +70,7 @@ a tool for elucidating connections between mathematical structures than for
 solving problems -- in contrast with something like linear algebra, or really
 any field of applied math.
 
-## Benefits of category theory over set theory
+### Benefits of category theory over set theory
 
 > God made the integers, all the rest is the work of man.
 <span id="quote-attribute">—Leopold Kronecker</span>
@@ -122,7 +122,7 @@ the most satisfying formulas of all time:
 
 \\(  P \xrightarrow{\quad f \quad} \mathbb{R}^{2} \\)
 
-# Applications of category theory
+## Applications of category theory
 
 The above is nice and all, but it's still just sort of
 hey-take-my-word-for-it, which is not so satisfying. Here are some actual examples:
@@ -172,7 +172,7 @@ I will leave you with the following:
 > makes their solution possible.
 <span id="quote-attribute">—<a href="http://www.cwru.edu/artsci/phil/BJPSMacLane.pdf">"The Last Mathematician from Hilbert’s Gottingen"</a></span>
 
-# Further Reading
+## Further Reading
 
 * If you enjoyed this, you might enjoy some of [my other posts](http://rs.io/articles.html) on math, including
   one on

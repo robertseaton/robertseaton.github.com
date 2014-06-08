@@ -3,13 +3,13 @@ title: "Notes on <em>Happiness: Lessons from a New Science</em>"
 layout: post
 ---
 
-# What is the problem?
+## What is the problem?
 
 Jeremy Bentham was a shy and kindly man, who never married and gave his money to good causes. He was also one of the first intellectuals to go jogging - or trotting as he called it. (pg. 4)
 
 From his experiences in Auschwitz, Viktor Frankl concluded that in the last resort "everything can be taken from a man but one thing, that last of human freedoms--to choose one's attitude in any given set of circumstances." (pg. 8)
 
-# What is happiness?
+## What is happiness?
 
 People can say at any moment how they feel. (pg. 12)
 
@@ -29,7 +29,7 @@ People who achieve a sense of meaning in their lives *are* happier than those wh
 
 Oscar nominees who won went on to life four years longer, on average, than the losers. (pg. 24)
 
-# Are we getting happier?
+## Are we getting happier?
 
 When people become richer compared with other people, they become happier, but when whole societies have become richer, they have not become happier. (pg. 31)
 
@@ -49,7 +49,7 @@ In Europe, the number of people dying of cirrhosis of the liver is up since 1950
 
 Youth suicide has increased in almost every advanced country. (pg. 37)
 
-# If you're so rich, why aren't you happy?
+## If you're so rich, why aren't you happy?
 
 Since 1972 Americans have been asked whether they are satisfied with their financial position. Although real income per head has nearly doubled, the  proportion of people who say they are pretty well satisfied with their financial situation has actually fallen. (pg. 42)
 
@@ -65,7 +65,7 @@ People do underestimate this process of habituation: As a result, our life can g
 
 Among rich countries, people in the United States work the longest hours. In most countries and at most times in history, as people have become richer they have chosen to work less. Over the last fifty years Europeans have continued this pattern and hours of work have fallen sharply, but not in the United States. (pg. 50)
 
-# So what does make us happy?
+## So what does make us happy?
 
 Despite these problems you will still hear that some trait is x% "heritable," meaning that x% of the variation is due to the genes. In most cases the figure given is an overestimate, because it includes as a genetic effect any effect of experience when this is positively correlate with the effect of the genes. (pg. 58)
 
@@ -75,7 +75,7 @@ Among humans, controlled experiments to improve parenting have been shown to hav
 
 For many reasons mothers treat one twin differently from another, and even by the age of seven we can see that the favored twin behaves much better. (pg. 60)
 
-# What's going wrong?
+## What's going wrong?
 
 Bhutan is small Buddhist kingdom in the Himalayas. In 1998, the king announced that the nation's objective would be the Gross National Happiness. In 1999, the country's ban on television was lifted. Crime increased, families dissolved, and drug use rose. (pg. 77)
 
@@ -97,7 +97,7 @@ Since television has a negative impact on your perceived position, it is bad for
 
 On one estimate an extra hour a week watching television causes you to spend an extra $4 a week on keeping up with the Joneses. (pg. 89)
 
-# Can we pursue a common good?
+## Can we pursue a common good?
 
 On average, people with a strong moral sense do better than others, even economically. (pg. 102)
 
@@ -107,6 +107,6 @@ The evidence also shows that when one spouse does something and the other spouse
 
 At this point in the text, Layard writes at length about utilitarianism. His analysis is aimed at a popular audience and will not be of much use to anyone who has taken an ethics course or read a few articles on Wikipedia. However, Layard does mention two books that argue against utilitarianism, *Utilitarianism and Beyond* and *Utilitarianism: For and Against*. This sort of information is very useful to utilitarians, as reading these will help correct for confirmation bias.
 
-# Can we tame the rat race?
+## Can we tame the rat race?
 
 For example, in 1996 the Eurobarometer survey asked employed people in each country whether in the last five years there had been a significant increase in the stress involved with your job. Nearly 50% said it increased, while 10% said it diminished. (pg. 158)

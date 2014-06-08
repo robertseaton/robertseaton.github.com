@@ -43,7 +43,7 @@ all fall out of your mind. You have to grow a book or a blog post. Write a rough
 draft and filter it into something better. Hill-climb until the quality is twice
 what it was before.
 
-# No magic
+## No magic
 
 There is nothing magical behind the creative process. Sure, authors and
 poets will sometimes wax romantic about writing and play up the mystery,

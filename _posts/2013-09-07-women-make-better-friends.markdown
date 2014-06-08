@@ -28,7 +28,7 @@ Perhaps Sartre should have written, ["Hell is other men."](http://en.wikipedia.o
 
 For more, check out [this essay](http://www.psy.fsu.edu/~baumeistertice/goodaboutmen.htm).
 
-# Sources
+## Sources
 
 <a name="citation-1"></a>
 1. Sarnikar, Supriya, Todd Sorensen, and Ronald Oaxaca. ["Do you receive a lighter prison sentence because you are a woman? An economic analysis of federal criminal sentencing guidelines."](http://ftp.iza.org/dp2870.pdf) *An Economic Analysis of Federal Criminal Sentencing Guidelines (June 2007). IZA Discussion Paper* 2870 (2007).

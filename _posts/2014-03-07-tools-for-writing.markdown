@@ -27,9 +27,9 @@ Adherents of snob theory ought to try programming. If I'm making ten mistakes an
 proud that I do. The world is a complex place. **We need tools to help us tame
 that complexity.**
 
-# Engineering in the art of writing
+## Engineering in the art of writing
 
-## Spell Check
+### Spell Check
 
 I've dominated more than one spelling bee in my day and used to
 believe that I didn't need to spell check my work. What a poor, deluded fool I
@@ -39,7 +39,7 @@ Now I spell check everything I write. I'd estimate that I have an error rate of
 about one or two for every 250 words. It takes 30 seconds to run a post through
 spell check after I write it, which is enough to eradicate the errors.
 
-## Weasel Words
+### Weasel Words
 
 Matt Might, an assistant professor at the University of Utah, wrote [a set of shell
 scripts](http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/)
@@ -73,7 +73,7 @@ you that
 you can either trust of ignore me, while if I reveal my evidence, you get to
 "[use your own free will](http://lesswrong.com/lw/h3x/rationality_quotes_april_2013/8qt9)."
 
-## Clichés
+### Clichés
 
 > Never use a metaphor, simile, or other figure of speech which you are used to seeing in print. 
 <span id="quote-attribute">—George Orwell, <a href="https://www.mtholyoke.edu/acad/intrel/orwell46.htm">"Politics and the English Language"</a></span>
@@ -96,7 +96,7 @@ Examples:
 **[My fork of writegood-mode](https://github.com/robertseaton/writegood-mode) supports highlighting cliched phrases. For
 those who are not members of the emacs cabal, there is also an [online cliche finder](http://cliche.theinfo.org/).**
 
-## Grammar Checking
+### Grammar Checking
 
 **There are more possible errors than spelling mistakes, which is where automated
 grammar checkers come in.** They're not as good as human feedback, but they're
@@ -114,7 +114,7 @@ writing from the convenience of your text editor. Non-emacs users have the
 option of installing and checking from the command line, or [using the online
 version](https://www.languagetool.org/).**
 
-## Readability
+### Readability
 
 **[The average American reads at between a 7th and 8th grade level.](http://en.wikipedia.org/wiki/Literacy_in_the_United_States#National_Assessment_of_Adult_Literacy_.28NAAL.29)**
 If your prose is too complex, you're alienating a fair chunk of potential
@@ -137,7 +137,7 @@ For emacs users, there's [artbollocks-mode](http://sachachua.com/blog/2011/12/em
 and duplicates some of the features of writegood-mode. For non emacs users,
 there's [GNU style](http://www.gnu.org/software/diction/) and [this online tool](https://readability-score.com/).
 
-## A Writing Checklist
+### A Writing Checklist
 
 [In 2001](http://www.nytimes.com/2009/12/24/books/24book.html?pagewanted=all), Dr. Peter Provonost -- who specializes in critical care at Johns
 Hopkins -- put together a checklist of the obvious things that doctors need to
@@ -182,7 +182,7 @@ I have my own checklist for writing:
 * Grammar check.
 * Make sure it renders properly.
 
-# Further Reading
+## Further Reading
 
 * If you're interested in improving your writing ability, check out [my post on
   expertise](http://rs.io/2014/01/20/human-expertise-and-memory-machines.html). 

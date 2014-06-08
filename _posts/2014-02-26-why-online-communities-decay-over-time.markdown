@@ -17,7 +17,7 @@ These locusts were AOL users. In September of 1993, the company granted Usenet
 access to their entire user base, which triggered an unending deluge of noobs into the
 Usenet community. Thus began the September that never ended.
 
-# Community Decay Over Time
+## Community Decay Over Time
 
 !["Typical YouTube comment."](/img/youtube-comment.gif)
 
@@ -50,7 +50,7 @@ suggests that **the larger an online community, the worse it is.**
 The natural extension: **beyond a certain threshold, adding more users reduces
 site quality.**
 
-# The Trouble With Large Communities
+## The Trouble With Large Communities
 
 Why do online communities get worse as they grow? What's going on? 
 
@@ -120,7 +120,7 @@ In summary, then:
   in the future, and thus are more likely to defect -- to be petty, mean,
   aggressive, and to put little effort into their contributions.
 
-# Further Reading
+## Further Reading
 
 * A May 2014 study finds that
   [a downvote mechanism negatively impacts online communities](http://arxiv.org/abs/1405.1429). The

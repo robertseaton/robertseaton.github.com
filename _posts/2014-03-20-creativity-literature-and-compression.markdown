@@ -20,7 +20,7 @@ But first, a joke:
 > then," she says to me. I feel her up a bit before she gets impatient. "Well,
 > when I was born?" she asks. So I tell her -- "Yesterday."
 
-## Dissecting and killing the joke
+### Dissecting and killing the joke
 
 What's funny about that joke? The surprise. First, there's the set up. It's
 titillating, and listeners start anticipating: *this is going
@@ -40,7 +40,7 @@ talking about him. It's boring, cliched. It's not *creative*.
 
 **Creativity is about violating expectations.**
 
-## Anticipation is compression
+### Anticipation is compression
 
 **Anticipation and prediction are the same thing.** When I drop a ball, I anticipate
 and predict that it will fall to the ground.
@@ -71,7 +71,7 @@ things. Do creative books compress less than non-creative ones?
 
 That's what I want to find out. 
 
-# Methods
+## Methods
 
 The idea, then, is to take works that are creative and non-creative, compress
 both, and observe whether the non-creative books are more compressible. Given the
@@ -106,7 +106,7 @@ general purpose compressor in wide circulation, as far as I know -- and then
 compared the "compressibility" (ratio of uncompressed to compressed data) of the
 two classes of files. The comparison was done with R. 
 
-# Analysis and Results
+## Analysis and Results
 
 Before anything else, I plotted the compressibility of the data using a
 dotplot, and colored each by work as creative or not. The results are visually
@@ -140,7 +140,7 @@ more than one of them.)
 {% endhighlight %}
 
 
-## Limitations
+### Limitations
 
 Let's dig in a little deeper to the creative works:
 
@@ -174,7 +174,7 @@ So it seems that compressibility can classify novels from technical works, but
 it's not -- at least using `xz` -- possible to separate very creative works from
 just creative works.
 
-# Discussion
+## Discussion
 
 So, the theory predicted that non-creative works would be more compressible than
 creative ones, and that panned out. This is far from confirmation of the model,
@@ -211,7 +211,7 @@ content, too.
 
 In that final sense, humans are the ultimate compressors -- at least for now.
 
-# Further Reading
+## Further Reading
 
 * The ideas for this project have been rattling around in my mind since I wrote
   about

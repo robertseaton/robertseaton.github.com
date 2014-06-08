@@ -13,7 +13,7 @@ Deliberately reducing testosterone levels in men, however, harms cognition, as e
 
 But wait! Another study found that boosting test levels among healthy men reduced spatial ability while improving verbal skills.<a href="#citation-5"><sup>5</sup></a> One study speculates that the effects of testosterone on cognition are fixed after puberty, in which case, alas, there is [still no royal road to geometry](http://en.wikipedia.org/wiki/Royal_Road#A_metaphorical_.E2.80.9CRoyal_Road.E2.80.9D_in_famous_quotations).<a href="#citation-6"><sup>6</sup></a>
 
-# Sources
+## Sources
 <a name="citation-1"></a>
 1. Gouchie, Catherine, and Doreen Kimura. "The relationship between testosterone levels and cognitive ability patterns." *Psychoneuroendocrinology* 16.4 (1991): 323-334.
 <a name="citation-2"></a>

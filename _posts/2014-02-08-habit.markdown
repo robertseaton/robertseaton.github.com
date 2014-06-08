@@ -50,7 +50,7 @@ the distribution are characterized by pathology, e.g. OCD and Parkinson's.
 
 !["Distribution of the tendency for habit formation as a bell curve."](/img/habit-curve.png)
 
-# Why Should I Care?
+## Why Should I Care?
 
 !["Photo of forest fire, taken by Ervins Strauhmanis.](/img/forest-fire.jpg)
 
@@ -86,7 +86,7 @@ day to push through your boundaries, this habit will propel you to
 excellence. This is what the development of expertise looks like. It looks like
 a habit of waking up at 5 in the morning to do laps in the pool. 
 
-# What is a Habit?
+## What is a Habit?
 
 > My friends were wise men of the first rank, and we found the problem soon
 > enough: coffee wanted its victim.
@@ -130,7 +130,7 @@ over. Radiolab has
 [great coverage of one case](http://www.radiolab.org/story/161754-repeat/) in
 their "Loops" episode.
 
-# Habit Formation
+## Habit Formation
 
 When a habit is first being formed, it consists of deliberate, effortful,
 goal-based activity. This is supported by brain scans, which show activity in
@@ -161,7 +161,7 @@ in the prefrontal cortex, while the saved path is executed by the basal
 ganglia. 
 
 
-## The Progress of Habit
+### The Progress of Habit
 
 !["The interplay between automaticity and repeated behavior gives us a visual of habit formation over time."](/img/habit-over-time.png)
 
@@ -170,7 +170,7 @@ a habit. It starts hard and effortful. With each execution of the behavior, it
 becomes more automatic and natural, until it reaches an asymptote. At this
 point, it levels off and has become a bona fide habit. 
 
-# Cultivating Good Habits
+## Cultivating Good Habits
 
 Thus far, the discussion has been theoretical. We are interested in
 habits, though, in what they can do for us. We would like to cultivate the right
@@ -190,7 +190,7 @@ The science suggests a few guidelines.
 * There are a number of productivity tools that make habit formation
   easier, like [HabitRPG](https://habitrpg.com/#/tasks), [chains.cc](https://chains.cc/), [Pomodoro timers](http://en.wikipedia.org/wiki/Pomodoro_Technique), and [BeeMinder](https://www.beeminder.com/). 
 
-# Breaking a Bad Habit
+## Breaking a Bad Habit
 
 The way that people often go about stopping a bad habit is by attempting to
 just "use their free will" to quit doing it. This does not often work, as
@@ -223,7 +223,7 @@ energized over time and more likely to be achieved. Reason #45820 the human
 brain is hack: just reframing your goals as approach instead of avoidance can
 improve your odds of completing those goals.
 
-# Putting it All Together
+## Putting it All Together
 
 To recap:
 
@@ -242,7 +242,7 @@ conscious control. Developing the right habits allows us to modify who we are.
   with a new, better habit or by removing those cues.
   
 
-# Further Reading
+## Further Reading
 
 * I have written a similar post [on human expertise](http://rs.io/2014/01/20/human-expertise-and-memory-machines.html).  
 * For information on different brain structures involved in habit formation, see

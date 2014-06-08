@@ -12,7 +12,7 @@ like you and me. I don't necessarily endorse the beliefs here, but they are
 things that used to baffle me, but I now feel like, "I get where you're coming
 from."
 
-# Veganism
+## Veganism
 
 Vegans consume only non-animal products. Some
 vegans will still eat *some* products, such as honey, while others might
@@ -22,7 +22,7 @@ abstain from animal products entirely, going so far as boycotting leather and ev
 People go vegan for different reasons. These are not
 mutually exclusive.
 
-## An argument from animal suffering
+### An argument from animal suffering
 
 Factory farming is institutionalized cruelty on a scale that is hard to
 comprehend.<a href="#citation-1"><sup>1</sup></a> Vegans who go vegan for reasons of animal suffering usually do so
@@ -45,7 +45,7 @@ tortured, but as long as I'm not aware of it, who cares? You could reason this
 way, but it strikes me as not all that plausible. Why should torturing a cow
 only be wrong when you witness it? 
 
-## An argument from human suffering
+### An argument from human suffering
 
 Let us say that you do not value animal suffering, or that you do not value it
 enough such that you're willing to change your eating habits. There are other
@@ -62,7 +62,7 @@ responsible for dumping more carbon dioxide into the environment than transporta
 value all the global warming doomsday scenarios not occurring, veganism
 should be appealing.
 
-## An argument from personal health
+### An argument from personal health
 
 Finally, one might become a vegan because they value their own personal health
 more than they value eating animal products.
@@ -80,13 +80,13 @@ should be willing to consider veganism. It is, of course, possible
 that the costs of switching to a vegan diet outweigh how much you value the
 health benefits, which would imply that you should not switch.
 
-## The status quo
+### The status quo
 
 Another interesting question that can be posed regarding veganism is, "If you
 were born into a vegan society and grew up eating a vegan diet, do you really
 think your would choose to eat animal products?" Or even, "How much would you have to pay vegans to convince them to go back to eating meat?"
 
-# Cryonics
+## Cryonics
 
 People who sign up for cryonics do not believe in an afterlife. If you are going
 to live eternally in heaven, there is no reason to freeze yourself in the
@@ -109,7 +109,7 @@ Thus, signing up for cryonics seems reasonable given that:
 through the process.
 
 
-# Existential risk
+## Existential risk
 > People who would never dream of hurting a child hear of an existential risk, and say, "Well, maybe the human species doesn't really deserve to survive."
   <span id="quote-attribute">Eliezer Yudkowsky</span>
   
@@ -131,7 +131,7 @@ probability at 19%.<a href="#citation-8"><sup>8</sup></a>
 So, given that you value your own life and those that you love, you should value
 reducing the threat of human extinction.
 
-## Future generations
+### Future generations
 
 Wiping out the human race not only kills all of those who are living now, but it
 would also mean that future humans will never be born. In essence, human
@@ -151,7 +151,7 @@ Work on existential risk seems reasonable, then, given that:
 * Whatever action does the most good is best (e.g. saving the most lives). 
 * Future human lives have some worth.
 
-# We're living in a computer simulation
+## We're living in a computer simulation
 
 The simulation argument argues that at least one of the following is true:
 
@@ -193,7 +193,7 @@ computer simulation is something like this:
 * These civilizations choose to run many simulations.
 * We are almost certainly living in a simulation.
 
-# Singularitarianism
+## Singularitarianism
 
 Singularitarianism is the idea that the future is going to look drastically
 different than the present, and that it's going to happen very quickly. At the
@@ -223,7 +223,7 @@ The reasoning, then, is something like:
 * This trend will continue into the foreseeable future, compounding on itself,
   leading to rapid, unimaginable change.
 
-# Polyamory
+## Polyamory
 
 Most educated people are, these days, pro gay marriage, but if you suggest that
 people ought to be allowed to marry more than one person, this is crossing a
@@ -258,7 +258,7 @@ around and fighting nature makes everyone miserable.
   relationship style. It is a stable individual trait with a sizable genetic
   component, not a choice.
 
-# Further Reading
+## Further Reading
 * For more on the environmental impact of meat production, check out [this Wikipedia page](http://en.wikipedia.org/wiki/Environmental_impact_of_meat_production). For information about sustainability arguments for veganism, there's [this page](http://en.wikipedia.org/wiki/Environmental_vegetarianism).
 * What foods cause the most suffering? A stab at an answer to that question is [here](http://www.utilitarian-essays.com/suffering-per-kg.html).
 * According to [this informal survey](http://leiterreports.typepad.com/blog/2012/10/philosophers-eating-ethics-a-discussion-of-the-poll-results.html) of philosophers' eating habits, philosophers are ten to twenty times more likely to be vegan than the general population.
@@ -270,7 +270,7 @@ around and fighting nature makes everyone miserable.
 * The original and more thorough treatment of the simulation argument is covered [here](http://www.simulation-argument.com/simulation.html). There are a number of resources -- papers, interviews, an FAQ -- related to the idea [here](http://www.simulation-argument.com/).
 * Here is a far less artificial (given that it's written by polyamorists in the wild, something I'm not), [discussion of polyamory](http://lesswrong.com/lw/79x/polyhacking/).
 
-# Sources
+## Sources
 <a name="citation-1"></a>
 1. Given the conditions of factory farms (Wikipedia has [the most neutral article I could find](http://en.wikipedia.org/wiki/Factory_farming)), it is hard to imagine how this could be otherwise. 
 <a name="citation-2"></a>

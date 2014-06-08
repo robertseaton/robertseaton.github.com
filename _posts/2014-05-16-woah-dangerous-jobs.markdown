@@ -27,7 +27,7 @@ I'm going to propose we replace Police Week with Fisherman Week, because it's ab
 
 Or maybe we should keep Police Week, but dedicate 6 weeks to celebrating fishermen. It's only fair. And, of course, three weeks to pilots and people involved with flying, along with a solid two weeks for garbage men.
 
-# Some other fun facts
+## Some other fun facts
 
 Digging a bit further into the data, we find this somewhat troubling statistic: 92% of workplace fatalities are men. (Do we blame the patriarchy for this one?)
 
@@ -37,7 +37,7 @@ And if you were wondering what state is the most dangerous: North Dakota. It's a
 
 So probably we should have a week celebrating North Dakatons, too. 
 
-# Further Reading
+## Further Reading
 
 * If you're interested in surprising data, check out my articles on [thinking and driving](http://rs.io/2014/03/08/dont-think-and-drive.html), [MSNBC and Fox News](http://rs.io/2014/03/10/time-to-retire-the-fox-news-punching-bag.html), any of [the](http://rs.io/2014/05/15/more-links-for-may.html) [interesting](http://rs.io/2014/05/02/links-for-may.html) [finds](http://rs.io/2014/04/19/more-links-for-april.html) [posts](http://rs.io/2014/04/07/links-for-april.html), and my comparison of [the death toll of HIV/AIDS, tobacco, and smallpox](http://rs.io/2013/11/07/the-terrible-future-isnt-smallpox-edition.html).
 * If you thought being a fisherman was dangerous, the [death rate from smoking a pack of cigarettes a day is 300 per 100,000 (or 2.5x as dangerous.)](http://www.econlib.org/library/Enc/RiskandSafety.html)

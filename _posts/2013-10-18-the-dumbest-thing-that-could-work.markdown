@@ -15,8 +15,8 @@ The point of the post is this:
 
 That's it. Now I'm just going to go through examples to hammer the point home.
 
-# The world for a concrete example
-## Humans are approximate elephants
+## The world for a concrete example
+### Humans are approximate elephants
 
 How do you train a dolphin to perform a backflip? You reward it for the right behaviors, which reinforces
 those, until you can chain it all together and get a backflip.
@@ -43,7 +43,7 @@ Try the dumbest thing that could work. Buy a bag of M&Ms and
 eat one whenever you solve a problem. If that doesn't work, iterate and try
 something different. 
 
-## When dawn breaks, I do too
+### When dawn breaks, I do too
 
 Getting out of bed in the morning is the bane of humans
 everywhere. What's a guy to do? Informed by this post, you know the
@@ -54,20 +54,20 @@ that. If that doesn't work, iterate. Reduce
 caffeine in the evening or increase it in the morning (via caffeine pills). Install bright
 lights. Fast after dinner. Try melatonin.
 
-## Kasparov ex machina
+### Kasparov ex machina
 
 Want to write a program that plays chess? It's only overwhelming when you're thinking: how can I write a program that wins at chess? Wrong goal! First write a program that
 loses at chess every time. It could pick a move at random, or always move a
 pawn. Then, iterate from there.
 
-## Tegmark would be proud
+### Tegmark would be proud
 
 Maybe you want to learn more math, but you don't know where to start. Doesn't
 matter. Go find a book about math and start reading, or start working through
 [Khan Academy](https://www.khanacademy.org/), or watch some video lectures. Don't like it? Find another book or something else. Keep
 experimenting.
 
-## Sir-Anki-a-lot
+### Sir-Anki-a-lot
 
 Or it seems like a lot of people have trouble [getting started with Anki](http://www.gwern.net/Spaced%20repetition). They
 wonder: what should I memorize? What should I use this for? It's a hard
@@ -75,7 +75,7 @@ question so they get stuck. Waste of time. Just add anything that you want to
 remember or learn. Keep adding, keep experimenting. You'll figure out what
 works as you go along. 
 
-## Strength, friend
+### Strength, friend
 
 In general, a little bit of data is going to be more enlightening
 than just thinking about it. Maybe you want to start exercising more, but you're

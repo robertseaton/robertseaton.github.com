@@ -25,7 +25,7 @@ Indeed, [research by Linda Silverman](http://en.wikipedia.org/wiki/Visual_thinki
 25%), another portion strongly prefers imagery (30%) and, like me, most prefer a mix of the two (45%). There may even be sex differences. In [one study](http://psycnet.apa.org/psycinfo/1994-12324-001), female participants
 reported more vivid mental imagery than their male counterparts.
 
-# Why do we bother?
+## Why do we bother?
 
 What's the point of thought? What's my mind doing all day long?
 
@@ -39,7 +39,7 @@ consciousness? Why do we have a "mental space" and self-awareness? Why couldn't
 it all happen, you know, elsewhere -- like a reflex? What's the point of these
 words and images in my head? 
 
-## The Evolution of Intelligence
+### The Evolution of Intelligence
 
 There is no clear scientific consensus on why intelligence evolved. Wikipedia is
 [maybe the most useful resource](http://en.wikipedia.org/wiki/Evolution_of_human_intelligence#Models) -- better than the review article in *The
@@ -97,7 +97,7 @@ modernity -- after all, if it held *throughout the ages*, how could intelligence
 possibly have evolved in the first place? We exist, so this seems more like a
 glimpse of the face of that Cthulhu which is modernity.
 
-## The utility of intelligence
+### The utility of intelligence
 
 Here is a famous thought experiment that comes to me by way of Roger Crisp:
 
@@ -139,7 +139,7 @@ successfully quit smoking.](http://jech.bmj.com/content/57/6/464.full)
 
 Yay, intelligence.
 
-# But Why Thoughts?
+## But Why Thoughts?
 
 What's the point of conscious reasoning? The sort of thought that is available
 to introspection -- that which I'm aware of taking place, at least
@@ -170,7 +170,7 @@ action film.
 That, I think, is the point of human thought, of reason. If I do this, what will
 happen? If this is true, what are the implications?
 
-# Further Reading
+## Further Reading
 
 * I've written a bit before about conscious processes and their role in
   [compressing knowledge](http://127.0.0.1:4000/2014/02/24/compressing-knowledge.html).

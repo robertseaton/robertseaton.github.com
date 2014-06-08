@@ -33,7 +33,7 @@ deletion.
 
 That's the beautiful reality of the creative process.
 
-# The Power of Narrowing
+## The Power of Narrowing
 
 Given that any point in time, a person probably has at least one thing worth
 saying somewhere in their head, the trouble is finding it. That's the issue with just asking Brain, "What should I write about?" Brain can't find anything

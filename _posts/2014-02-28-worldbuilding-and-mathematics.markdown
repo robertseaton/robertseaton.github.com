@@ -8,7 +8,7 @@ maps, elaborating histories. (The platonist in me prefers to think of
 worldbuilding as the *discovery* of fictional universes, rather than an act of
 invention.)
 
-# Tolkien
+## Tolkien
 
 There is a (perhaps apocryphal) tale that J. R. R. Tolkien got into a fight with his
 publisher over using  the words "elves" and "dwarves" instead of "elfs"
@@ -31,7 +31,7 @@ Of his languages and *Lord of the Rings*, Tolkien wrote "The invention of
 languages is the foundation. The 'stories' were made rather to provide a world
 for the languages than the reverse."
 
-# Foundations
+## Foundations
 > It’s very far away, <br>
 > It takes about half a day <br>
 > to get there <br>
@@ -78,7 +78,7 @@ physics, social dynamics, and so on. The converse is true, too: **to understand
 this world, consider the sort of things you'd need to know to build your own.**
 Or, as Feynman put it, "What I cannot create, I do not understand."
 
-# The Fractal Nature of Worldbuilding
+## The Fractal Nature of Worldbuilding
 
 Worldbuilders often go out of their way to produce natural looking maps -- like by spilling coffee on paper. Here's an
 example:
@@ -100,7 +100,7 @@ Indeed, ever after reading Benoit Mandelbrot's *The Fractal Geometry of Nature*,
 I sometimes catch myself seeing fractals superimposed on clouds when I unfocus my
 eyes.
 
-# Mathematics and Worldbuilding
+## Mathematics and Worldbuilding
 
 Okay, confession: I wasn't 100% honest with you. While this is my first brush
 with groups of other worldbuilders, I've toyed with the idea in the past --

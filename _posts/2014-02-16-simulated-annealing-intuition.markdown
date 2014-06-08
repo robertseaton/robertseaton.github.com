@@ -89,7 +89,7 @@ sentence was written with the realization that humans will have to read
 it.  In English, **simulated annealing is a method for finding an approximation of the
 highest (or lowest) point in a space,** like the one above. 
 
-# Shaking Intuition
+## Shaking Intuition
 
 Simulated annealing can be understood in terms of body language. It can be [felt
 as motion]((http://rs.io/2013/10/08/heuristics-for-reading-mathematics.html). You
@@ -109,7 +109,7 @@ invented it and, now, if you ever do come across Eris, you'll be
 prepared. (On second thought, if you ever come across Eris and are teleported to a
 mathematical space, see a psychiatrist.)
 
-# Further Reading
+## Further Reading
 
 * The early strategies mentioned are real search algorithms. The "just climb
   upwards" algorithm is aptly named [hill-climbing](http://en.wikipedia.org/wiki/Hill_climbing). The random exploration method is

@@ -3,7 +3,7 @@ title: The Unexpected
 published: false
 ---
 
-## Unimportant Problems and The Unexpected
+### Unimportant Problems and The Unexpected
 
 > The least movement is of importance to all nature. The entire ocean is affected by a pebble.
   <span id="quote-attribute">Blaise Pascal</span>
@@ -57,7 +57,7 @@ Look at all of the results that came out of the space program: scratch resistant
 lenses and enriched baby food,
 [among other things](http://en.wikipedia.org/wiki/NASA_spin-off_technologies). Who would have predicted the space race producing those specific technologies? Nobody.
 
-### Computational Linguistics, Cognitive Science
+#### Computational Linguistics, Cognitive Science
 
 > I think there is a world market for about five computers.
   <span id="quote-attribute">Tom Watson, then IBM chairman</span>
@@ -92,7 +92,7 @@ by Laplace](http://en.wikipedia.org/wiki/Bayes_theorem#History) and the "Bayesia
 ongoing, process. Gregor Mendel's groundbreaking work on the laws of genetic
 inheritance [wasn't recognized until being rediscovered after his death](http://en.wikipedia.org/wiki/Gregor_Mendel#Life_after_the_pea_experiments).
   
-### Understanding Increased Intelligence
+#### Understanding Increased Intelligence
 
 It's possible that we will soon be able to increase our own
 intelligence through some kind of technological intervention. Before deciding
@@ -120,7 +120,7 @@ This isn't science fiction. If we don't blow ourselves up and enter a new dark
 age, or worse, there's a good probability of such an intervention being invented
 this century. It might be _just around the corner_.
 
-## Is the Unexpected a Real Objection?
+### Is the Unexpected a Real Objection?
 
 Even though scientific discoveries sometimes come out of unexpected domains, this is a red
 herring. While we can appreciate that it might be theoretically possible for,
@@ -140,12 +140,12 @@ However, it's not all that significant of an objection. Things that we deem more
 important are still going to be, on average, more important than the things that
 seem trivial. The trivial sometimes isn't trivial, but it usually is. 
 
-## Research as a Decision Under Uncertainty
+### Research as a Decision Under Uncertainty
 
 The problem of "what research matters" can be thought of as a a decision under
 uncertainty and, as such, one could decide what to invest their resources in by 
 
-### Forecasting as a Means of Risk Mitigation
+#### Forecasting as a Means of Risk Mitigation
 
 I mentioned the importance of effective forecasting earlier in regard to
 improving the scientific process through more efficient resource

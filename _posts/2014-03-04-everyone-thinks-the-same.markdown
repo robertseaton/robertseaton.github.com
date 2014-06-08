@@ -19,7 +19,7 @@ intended to force Deep Blue out of "The Book" as quickly as possible, in the hop
 that human ingenuity would have an advantage over the rigid processing of the
 machine.
 
-# Chess and the Book
+## Chess and the Book
 
 The [earliest recorded chess match](http://en.wikipedia.org/wiki/History_of_chess) dates back to the 10th century, played between
 a historian and a student. Since then, it's become a tradition for moves to be
@@ -47,7 +47,7 @@ yourself with someone two hundred years ago.
 
 Human thought is a lot like chess.
 
-# Been There, Thought That
+## Been There, Thought That
 
 This is a somewhat embarrassing and juvenile admission, but there was an
 AskReddit 20 days ago, ["What is something you want to touch more than anything
@@ -74,7 +74,7 @@ These conversations are eerie. I sit and watch people run through thought
 processes that I've already had, offering suggestions that I've already
 considered, thinking thoughts I've already thought. 
 
-# A "Book" of Thoughts
+## A "Book" of Thoughts
 
 All of these are cases where someone has either thought something before me, or
 I've thought of something before them. These thoughts have been thought
@@ -94,7 +94,7 @@ about the extent of positive things that one can say about it. It's useless.
 
 Thinking something novel and useful is harder.
 
-# An Algorithm for Thought
+## An Algorithm for Thought
 
 The insinuation, then, is that human thought (or reason) is a structured
 process. It occurs broadly in the same way across individuals. 
@@ -110,7 +110,7 @@ thinking." This is a clue that we're all doing the same sort of thing in
 our heads. Our thoughts are like water, each drop
 tending to end up coursing through the same canyons.
 
-# Further Reading
+## Further Reading
 
 * I've written before about
   [some moral implications of the view that humans are damn similar.](http://rs.io/2014/01/12/a-legacy-of-one-or-two-or-7-billion.html)

@@ -42,7 +42,7 @@ some evidence for such a view:
 > ability and verbal comprehension skills were on par with a child of 5, and he
 > could barely understand the meaning in proverbs or metaphors. 
 
-# Limits of Memory
+## Limits of Memory
 
 In the Sherlock Holmes novels, there is a memorable passage where Watson is
 shocked that Sherlock doesn't know that the Earth revolves around
@@ -64,7 +64,7 @@ time of your death -- or about *a fourth* of what Kim Peek had packed in
 long-term memory. The dude remembered every word -- I'm lucky if I recall a
 vague sense of what the plot of a book was a year later.
 
-# Savants as Technical Masters
+## Savants as Technical Masters
 
 One characteristic that savants -- even the prodigiously gifted -- share is
 technical, rote mastery rather than creative performance. Musical savants might
@@ -95,7 +95,7 @@ improvisation:
 > a woman asked him if he was happy, to which he responded: “I’m happy just to
 > look at you.”
 
-# Further Reading
+## Further Reading
 
 * The [original article](http://blogs.scientificamerican.com/beautiful-minds/2014/02/25/where-do-savant-skills-come-from/). 
 * [Guy working at futon store gets kicked in the head and becomes a number theorist.](http://www.huffingtonpost.com/2012/04/30/college-dropout-jason-pad_n_1464835.html)

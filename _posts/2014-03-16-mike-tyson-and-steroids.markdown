@@ -87,7 +87,7 @@ Here he is in [another interview](http://otrboxingradio.com/?p=1650):
 > knowledge.  
 
   
-# Steroid usage in the large
+## Steroid usage in the large
 
 Now, I want to step back for a moment. My goal here is not to pick on Mike
 Tyson, who possesses a certain *je ne sais quoi*, but:
@@ -110,7 +110,7 @@ baseball. [Forbes' list of the top paid athletes](http://en.wikipedia.org/wiki/F
 has about 25 players
 in golf, tennis, football, even cricket, earning more. 
 
-## How powerful are performance enhancing drugs?
+### How powerful are performance enhancing drugs?
 
 Of course, it's not at all obvious that steroids can transform someone from a
 pretty good baseball player into one of the best. Perhaps, you might think,
@@ -192,7 +192,7 @@ reduce recovery time and thus training time. Ignoring the performance benefits,
 an Olympian would *still* take steroids, as it would allow them to train maybe twice
 as often as an opponent not on them.
 
-## The prevalence of performance enhancing drugs among elite athletes
+### The prevalence of performance enhancing drugs among elite athletes
 
 So, we've established that:
 
@@ -236,7 +236,7 @@ caught*. The actual abuse rates must be higher.
 
 > Since 1998, more than a third of the top finishers of the Tour de France have admitted to using performance-enhancing drugs in their careers or have been officially linked to doping.
 
-## What's a man to believe?
+### What's a man to believe?
 
 **So, what are the actual abuse rates among elite athletes? My subjective feeling
 is more than 10 percent and probably less than 70.** I suspect that most athletes

@@ -19,7 +19,7 @@ death tolls, with one [WHO report projecting as many as a
 billion tobacco-related deaths](http://www.who.int/tobacco/mpower/mpower_report_full_2008.pdf)
 by the end of the century.
 
-# Further Reading
+## Further Reading
 * If you find this kind of reasoning compelling, you'll probably enjoy Peter
 Singer's talk
 [here](http://www.ted.com/talks/peter_singer_the_why_and_how_of_effective_altruism.html).

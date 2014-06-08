@@ -42,7 +42,7 @@ woman. You need the Queen. You need mathematics --"
 
 "Let me tell you about the secretary problem."
 
-# The Secretary Problem
+## The Secretary Problem
 
 Consider the plight of John. John's 25. He lives in Utah and likes country music, hunting, and
 four wheelers. You probably see where I'm going with this. That's right, ladies
@@ -74,7 +74,7 @@ situation, except instead of a man searching for a husband, it's a man
 interviewing potential secretaries. When is the candidate good enough? What's the
 stopping criteria?
 
-# Formalizing the Secretary Problem
+## Formalizing the Secretary Problem
 
 We can abstract away the specifics of John's plight and formalize the
 problem. Let's consider each man that John dates as an integer -- the integer
@@ -98,7 +98,7 @@ machine's objective is to stop on the highest integer.
 
 !["Secretary problem as an integer tape."](/img/tape.png)
 
-# Real World Examples of the Secretary Problem
+## Real World Examples of the Secretary Problem
 
 At the heart of the secretary problem is conflict. Do I reject the current
 possibility in hopes of landing something better if I keep looking, or do I
@@ -128,7 +128,7 @@ one comes along?
     enough or should I hope for a sale next week? The same goes for clothing
     and, well, anything.
 
-# Solving the Secretary Problem
+## Solving the Secretary Problem
 
 *The following contains the formal details for solving the secretary
   problem analytically. It can safely be skimmed.*
@@ -200,7 +200,7 @@ Now, we can find the optimal \\(r\\) by solving for \\(P'(r) = 0\\). By plugging
 $$ P'(r) = -\ln x - 1 = 0 \Rightarrow x = \frac{1}{e} $$
 $$ P(\frac{1}{e}) = \frac{1}{e} \approx .37 $$
 
-# What The Math Says
+## What The Math Says
 
 How can this math help John? Well, the optimal solution is for him to estimate how many people he believes he might
 reasonably date in the future, say \\(20\\). We plug this into the equation
@@ -215,7 +215,7 @@ with the best possible man, he should date 7 men and, then, marry the next man  
  the dating market are not thinking this way -- they want to maximize the
  probability that they end up with a pretty good spouse. It's not all or nothing.
 
-# Maximizing the Probability of a Good Outcome
+## Maximizing the Probability of a Good Outcome
 
 Fear not, there's a modification of the secretary problem that maximizes the
 probability of finding a high-value husband or wife. I'm not going to cover the derivation for this flavor of the secretary problem
@@ -233,7 +233,7 @@ is, at the very least, not absurd.
 The square root of 14 is about 4. Thus, **according to the math, one should have four kinda serious relationships and then marry the
 next person that comes along who is better than all of those four.**
 
-# How Human Behavior Compares to the Mathematics
+## How Human Behavior Compares to the Mathematics
 
 The median number of premarital sexual partners is unclear, with [different
 sources reporting markedly different numbers](http://answers.google.com/answers/threadview/id/557010.html). I'm
@@ -266,7 +266,7 @@ secretary problem. Back then, one might have had to choose from a half dozen
 possible mates -- mates one had already known for many years. This looks more like a
 game of pick the maximal element from a set than a bona fide secretary problem.
 
-# What Sort of Optimal?
+## What Sort of Optimal?
 
 If I use the results of the secretary problem to find a wife, I will almost
 certainly end up worse off than a strictly rational agent who pursues the same
@@ -293,7 +293,7 @@ sex, taking voice acting or improv classes, and so on. An
 optimal theory of dating would, I have no doubt, emphasize some subset of these
 skills. 
 
-# All Together Now
+## All Together Now
 
 !["Picture of marriage proposal."](/img/marriage-proposal.png)
 
@@ -311,7 +311,7 @@ skills.
 * At the end of the day, the secretary problem is a mathematical abstraction and
   there is more to finding the "right" person than dating a certain number of people.
 
-# Further Reading
+## Further Reading
 
 * Wikipedia has a page on [the secretary problem](http://en.wikipedia.org/wiki/Secretary_problem). 
 * For some history of the secretary problem, see the paper, ["Who solved the

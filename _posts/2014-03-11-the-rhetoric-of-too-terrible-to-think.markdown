@@ -34,7 +34,7 @@ to shy away from the painful things in life. He's a stoic, don't-you-know.
 
 Except 9/11 wasn't an inside job. Ted's belief system has been poisoned. 
 
-# Swallowing the Red Pill
+## Swallowing the Red Pill
 
 I've heard this phenomenon described by adherents of outside-normal beliefs as "swallowing
 the red pill" -- like when Neo accepts Morpheus's offer and realizes he's been

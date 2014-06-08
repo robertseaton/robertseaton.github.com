@@ -48,7 +48,7 @@ understand the not yet seen.
 of knowledge, and connecting it to the rest of your beliefs in such a way that
 you can answer novel questions in the future.**
 
-# Further Reading
+## Further Reading
 
 * I wrote recently about this whole structure thing in ["Compressing Knowledge."](http://rs.io/2014/02/24/compressing-knowledge.html)
 * Asking "Why?" while learning is sometimes called elaborative

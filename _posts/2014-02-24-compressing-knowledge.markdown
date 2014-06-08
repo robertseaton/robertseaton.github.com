@@ -20,7 +20,7 @@ intended) which I know nearly nothing about and could not follow. The gist seems
 to be, though, that a whole lot of knowledge is a special case of other, more
 general knowledge (at least in mathematics), and by climbing Mount Abstraction we can compress old knowledge.
 
-# Tools for Compressing Knowledge
+## Tools for Compressing Knowledge
 
 I have a head full of junk -- disconnected facts, half-baked social theories,
 psychological studies, programming trivia. It would be very nice indeed if this

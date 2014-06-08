@@ -3,7 +3,7 @@ title: Notes on <em>The Pursuit of Happiness</em>
 layout: post
 ---
 
-# General Thoughts on the Book in General, Generally
+## General Thoughts on the Book in General, Generally
 
 The book is pretty good. I gave it a four out of five stars on Goodreads. If
 you're looking for an answer to the question, "Who is happy?" and are not
@@ -23,7 +23,7 @@ Myer's has a tendency to use anecdotes, which work well stylistically, but are
 probably too easy to believe, which is to say: readers may come away convinced
 of the truth of more than they would based on a careful review of the evidence.
 
-# What is well-being?
+## What is well-being?
 
 Fewer than one in ten rate themselves as more dissatisfied than satisfied.
 
@@ -39,7 +39,7 @@ To discover who is happiest, and why, we need only assume that those who say
 they are "very happy" or "completely satisfied" do experience greater well-being
 than those who say they are unhappy or dissatisfied.
 
-# Wealth and well-being
+## Wealth and well-being
 
 The correlation between income and happiness is modest, and in both the United
 States and Canada has now dropped to near zero.
@@ -47,7 +47,7 @@ States and Canada has now dropped to near zero.
 When subjects of countless experiments speak or write on behalf of some point of
 view, they come to believe it more strongly.
 
-# A satisfied mind
+## A satisfied mind
 
 Indeed, a recent Gallup poll offered the astonishing result that people with
 incomes of under ten thousand dollars give 5.5 percent to charity, and those
@@ -65,7 +65,7 @@ $500,000 a year, rich may be $1 million income.
 > person even more successful than you are.
 <span id="quote-attribute">Bertrand Russel</span>
 
-# The demography of happiness
+## The demography of happiness
 
 Most men in their early forties do not experience a dip in well-being, that is,
 a mid-life crisis.
@@ -91,14 +91,14 @@ and four in five women say their best friend is another woman.
 Statistical digests of many dozens of studies credit race and education with
 less than 2 percent of person-to-person variance in well-being.
 
-# Reprogramming the mind
+## Reprogramming the mind
 
 > Argue for your limitations and sure enough, they're yours.
 <span id="quote-attribute">Richard Bach</span>
 
 Astrology doesn't work. Subliminal persuasion doesn't work.
 
-# The traits of happy people
+## The traits of happy people
 
 Every time we act, we amplify the underlying idea or tendency.
 
@@ -113,7 +113,7 @@ Going through the motions can trigger the emotion.
 > motions of those contrary dispositions we prefer to cultivate. 
 <span id="quote-attribute">William James</span>
 
-# "Flow" in work and play
+## "Flow" in work and play
 
 In fact, the less expensive (and generally more involving) a leisure activity,
 the happier people are while doing it.
@@ -131,7 +131,7 @@ longevity. Seventy-three residents from nursing homes were assigned either to a
 meditation or no-meditation condition. After three years, one fourth of the
 non-meditators had died, while all of the meditators were still alive.
 
-# The friendship factor
+## The friendship factor
 
 When Pennebaker surveyed more than 700 college women, he found one in twelve
 reported a traumatic sexual experience in childhood. I think it's easy to
@@ -167,7 +167,7 @@ people want to believe that social relationships are paramount to happiness?
 People report greater well-being if their friends and families support their
 goals by frequently expressing interest and offering help and encouragement.
 
-# Love and marriage
+## Love and marriage
 
 In the United States, almost two thirds say their marriage is "very happy."
 
@@ -210,7 +210,7 @@ Virtually every couple that had sex more often than they argued were happily
 married; no couples that argued more than they had sex rated their marriage as
 happy.
 
-## Thoughts on this chapter
+### Thoughts on this chapter
 
 I'm convinced that most authors are too optimistic about the benefits of
 marriage. Myers ought to be commended for the sheer amount of disturbing
@@ -236,7 +236,7 @@ question, "Should people get married?" is yes, and start thinking.
 Why are most authors so optimistic about marriage? Probably because they
 themselves are married. 
 
-# Faith, hope, and joy
+## Faith, hope, and joy
 
 Economists were more than twice as likely as those in other disciplines to
 contribute no money to private charities. In laboratory monetary games, students

@@ -11,7 +11,7 @@ Looking for something less invasive? Try Botox.
 > Ten depressed patients were treated with botulinum toxin A, and 9 of 10 patients were no longer depressed 2 months after treatment. The tenth patient had an improvement in mood.<a href="#citation-4"><sup>4</sup></a> 
 
  
-# Sources
+## Sources
  <a name="citation-1"></a>
  1. Ohlsen, Lennart, Bengt Ponten, and Gunnar Hambert. "Augmentation mammaplasty: A surgical and psychiatric evaluation of the results." *Annals of plastic surgery* 2.1 (1979): 42-52.
  <a name="citation-2"></a>

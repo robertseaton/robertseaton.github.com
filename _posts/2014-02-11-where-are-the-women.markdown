@@ -72,7 +72,7 @@ attempt to, well, fight obscurity with a little less obscurity.
 > research suggesting stereotype threat doesn’t really happen in the real world to
 > any significant degree.
 
-# Further Reading
+## Further Reading
 
 * Scott's blog is [here](http://slatestarcodex.com/), check it out. It's filled
 with excellent writing like the above.

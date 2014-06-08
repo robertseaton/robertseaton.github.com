@@ -9,7 +9,7 @@ neural reconfiguration. Ends with how it can be put into practice for fun and pr
 desciption: "How does human expertise and cognition work? I review some of the evidence."
 ---
 
-# The Basics
+## The Basics
 
 > That which we persist in doing becomes easier, not that the task itself has
 > become easier, but that our ability to perform it has improved.
@@ -28,7 +28,7 @@ one only thinks in images or not at all.) My performance wasn't always this way,
 horrible, frustrating affair, and I know this because I'll experience that
 frustration again if I switch to an alternate keyboard layout like Dvorak.
 
-## What makes practice deliberate?
+### What makes practice deliberate?
 
 There are a few characteristics of deliberate practice:
 
@@ -46,7 +46,7 @@ Daniel Coyle, who wrote *The Talent Code*, put it this way:
 3. Evaluate the gap between the target and the reach
 4. Return to step one
 
-## Automatic Plateaus
+### Automatic Plateaus
 
 One might wonder: why do we need a form of practice different than normal
 practice?  The answer is that performance plateaus. A man might drive his entire life, but never become as skilled as a race car driver. His
@@ -58,7 +58,7 @@ Generally, learning a skill seems to at first require our full attention and to
 be effortful and, after time, gives way to automaticity. At this point, performance plateaus and further
 improvement must be targeted. 
 
-## Breaking Down Skills
+### Breaking Down Skills
 
 > To do the impossible, break it down into small bits of possible.
 
@@ -89,7 +89,7 @@ broken down further. You need to consider the answer to questions like: what
 does expertise in this field look like? How can I quantify it? What are some
 goals that would let me know that I'm improving? Make a checklist.
 
-# Paying Attention and Neural Reconfiguration
+## Paying Attention and Neural Reconfiguration
 
 > A man is what he thinks about all day long.
 <span id="quote-attribute">—Ralph Waldo Emerson (again!)</span>
@@ -114,7 +114,7 @@ interested in something -- like mathematics -- he yells to his people,
 "Optimize my kingdom for mathematics!" and the people build math
 libraries and put chalk boards everywhere. 
  
-## How can one improve one's attention?
+### How can one improve one's attention?
 
 There are a few ways I can think of to improve attention. There are stimulants,
 like caffeine, nicotine, modafanil, and adderall. Beyond that, you can go meta
@@ -126,7 +126,7 @@ both of which are free. There's always blocking out distractions (turn off the t
 setting aside time blocks when you'll worry about only one thing, perhaps via
 Pomodoros. 
 
-# Expert Memory, Insight and Recognition
+## Expert Memory, Insight and Recognition
 
 ![Garry Kasparov playing chess against children.](/img/kasparov-simultaneous.jpg)
 
@@ -194,7 +194,7 @@ From the inside, chunking feels like getting a handle on something, on having a
 word that compresses some larger idea, or the crystallization of some idea. At
 least sometimes. I suspect most instances of chunking are non-conscious.
 
-## From Whence Intuition Springeth
+### From Whence Intuition Springeth
 
 Experts are often distinguished by their intuition. Consider the [blitz style](http://en.wikipedia.org/wiki/Fast_chess) of
 play in chess. Specifics vary, but in general it works that each side has five
@@ -219,7 +219,7 @@ of those moves.
  it, which is then chunked and saved in long-term memory. In the future, similar
  problems are solved via look ups.
 
-## The Mental Molasses Hypothesis
+### The Mental Molasses Hypothesis
 
 > You have to be fast only to catch fleas.
 <span id="quote-attribute">—Israel Gelfand, Soviet mathematician</span>
@@ -251,7 +251,7 @@ slow. Most of our thought is retrieval from long-term memory. You can even obser
 conversation, which is almost never the creation of novel thoughts, but mostly
 the repeating of things you've thought and heard before. 
 
-# Putting It All Together
+## Putting It All Together
 
 > Rumor is that a pedestrian on Fifty-seventh Street, Manhattan, stopped Jascha
 > Heifetz and inquired, "Could you tell me how to get to Carnegie Hall?" "Yes,"
@@ -283,7 +283,7 @@ green tea, sit down and focus. (Maybe even try
 Once you have all that down, periodically review your training and your plan,
 throw out what doesn't work, and [try new things](http://lesswrong.com/lw/2p5/humans_are_not_automatically_strategic/). Happy practicing!
 
-# Sources
+## Sources
 
 <a name="citation-1"></a>
 1. Stefan, Katja, Matthias Wycislo, and Joseph

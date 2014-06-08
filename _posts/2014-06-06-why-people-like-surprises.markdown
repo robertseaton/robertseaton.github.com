@@ -27,7 +27,7 @@ impossible. If someone is psychic, it's free money for them. And if someone won'
 So he gets on the phone with the New York Times and he tells them about his
 brand new "One Million Dollar Paranormal Challenge".
 
-## In the lab
+### In the lab
 
 Let's fast forward a couple of months, to the point where money-seeking cranks have
 started slithering out of the Earth like worms in a storm. Imagine that this definitely fictional James Randi is in the lab with one
@@ -63,7 +63,7 @@ stop, enough! I get it."
 Theresa stops for a moment, a pause, silence, and then she chirps, "...but
 we haven't even gotten to the mind reading bit yet."
 
-## Contrasting consequences
+### Contrasting consequences
 
 Okay, now, consider how the lives of each James will unfold over the next couple
 of months. The James in the first branch will continue going about his life as
@@ -104,7 +104,7 @@ a mad rush to claim that *we called it*, *we knew it all along*, that *this woma
 was a product of our god*. (Like terrorists taking responsibility for
 an attack, if you will.)
 
-## Information content
+### Information content
 
 The value of information is usually defined as the amount someone would pay to know something prior to making a decision, but I like to this of it as the **amount your behavior would change if you had the answer**. That is, if you were clairvoyant -- you know, like you
 could somehow plug your brain into the heavens and have always-on-access to a
@@ -148,7 +148,7 @@ cool billion when the typhoon hits.
 
 Or, you know, he could totally use that information to save a bunch of lives.
 
-## Surprise as an indicator of incorrect models
+### Surprise as an indicator of incorrect models
 
 As you're probably noticing and, if not, the header should have given it away,
 **surprise indicates that your model of the world is incorrect** -- that there's
@@ -184,7 +184,7 @@ about something.
  be lactose intolerant? In this respect, humans are a bit of an anomaly (and
  it's a relatively recent anomaly, too, at [about 7500 years old](http://www.sciencedaily.com/releases/2009/08/090827202513.htm).)
  
-## Recovering from surprise
+### Recovering from surprise
 
 Which brings me to my next point, which is that, given surprise
 indicates something wrong with your model of the world, **whenever you're
@@ -216,7 +216,7 @@ evolutionary timescales, a "feature" has existed. Duplicating human sight? Proba
 difficult. Mathematics? Easy, especially stuff like multiplication, division,
 whatever. (Trickier when you get to, say, proving the Riemann hypothesis.)
 
-## The sheer superiority of surprise over other forms of noticing wrongness
+### The sheer superiority of surprise over other forms of noticing wrongness
 
 Okay, so we've covered:
 
@@ -253,7 +253,7 @@ monkey brain is too worried about status to admit to it."
 Surprise, on the other hand, is easy. Want to know some surprising information?
 Hell yeah, I want to know some surprising information. And, hopefully, you do, too, now that I've told you why I love surprises.
 
-## Further Reading
+### Further Reading
 * If you enjoyed this, I'm working on a book about surprise. Subscribe [here](http://eepurl.com/Ufpgr) for updates. (And, if you don't want updates, you can still subscribe for bonus drawings.)
 * For surprises, check out [the surprising facts for June](http://rs.io/2014/06/02/surprising-june.html) post and, if you still want more after that, the rest are listed in [the guided tour](http://rs.io/guided-tour.html).
 * I've also written before about [the relationship between humor and surprise](http://rs.io/2014/03/20/creativity-literature-and-compression.html).

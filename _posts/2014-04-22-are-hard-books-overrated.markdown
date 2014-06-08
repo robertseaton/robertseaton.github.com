@@ -34,7 +34,7 @@ Seven possible explanations spring to mind:
 All of these could be true, but what we really want to know is: are hard books
 systematically overvalued? 
 
-# Comparing the utility of books
+## Comparing the utility of books
 
 Now, I have no doubt that reading one hard book is more valuable than reading
 one easy book, but that's not a fair fight. I could get through *The Design of
@@ -43,7 +43,7 @@ Mathematics* would take me the better part of a year. If you accept that a book
 like *Concrete Mathematics* can take 200 hours while an easy book might take 4,
 the question becomes: Is one hard book worth fifty easy ones?
 
-## Microeconomics
+### Microeconomics
 
 We can consider taking this completely literally. Consider perhaps the most
 straightforward application of microeconomic theory ever: If two men are selling
@@ -65,7 +65,7 @@ more than the nth Adobe Photoshop manual.
 
 So easy books win here, but it's not clear if this win is worth anything.
 
-## Amount learned
+### Amount learned
 
 Instead, we can take the tack of estimating the amount learned from a book. When
 going through *The Design of Everyday Things*, I learned maybe 10 things. Today,
@@ -89,14 +89,14 @@ important than others.
 Possible heuristic: popular science is great for building a broad understanding, while difficult works are great for pushing one to the next
 level via deliberate practice.
 
-## Revealed preference
+### Revealed preference
 
 I can count the number of people I know who routinely fight their way through
 hard books on one hand. It's not a normal thing that people do, even
 curious people. Indeed, curious people are notable for being more willing
 than most to read a wide variety of texts, not for the difficulty of those texts.
 
-## University courses
+### University courses
 
 University professors typically assign more
 difficult textbooks (although often not truly difficult, a sorta middle ground.) Still, consider the popularity of a book like CLRS versus *The
@@ -111,7 +111,7 @@ Plus, these medium difficulty textbooks are often little more than props for a
 class, something to accompany lectures and provide exercises. Still, on the
 whole, it seems more honest to call this a win for difficult books.
 
-## Comprehension, amount retained
+### Comprehension, amount retained
 
 On difficult texts, one Less Wrong commenter [wrote this](http://lesswrong.com/lw/ihy/how_valuable_is_it_to_learn_math_deeply/):
 
@@ -126,7 +126,7 @@ On difficult texts, one Less Wrong commenter [wrote this](http://lesswrong.com/l
 >  understanding is less fluent, and it gets forgotten faster and to a greater
 >  extent.
   
-## Success
+### Success
 
 If we live in a world where hard books were clearly superior to easier ones, I
 would expect that the reading habits of successful people would center around
@@ -136,7 +136,7 @@ This isn't the impression that I get, in general. CEOs fill their reading lists 
 habits of Bill Gates](http://www.gatesnotes.com/Books), you'll see that it's
 filled with popular non-fiction rather than hefty technical works.
 
-# Closing remarks
+## Closing remarks
 
 All of this suggests a heuristic: **to decide what to read, ask yourself, "What's the
 easiest book I could read that will teach me a lot?"** Or, alternatively,
@@ -151,7 +151,7 @@ Ideally, the process of reading through easy texts on a subject before tackling
 harder ones transforms once difficult books into easy ones. This pattern of reading looks more like a slow progression than
 a violent struggle -- small steps instead of leaps. 
 
-# Further Reading
+## Further Reading
 
 * I have touched on this topic
   [several](http://rs.io/2013/12/25/bill-thurston-reading-hard-things.html)
