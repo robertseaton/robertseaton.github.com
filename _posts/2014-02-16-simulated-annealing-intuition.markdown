@@ -1,5 +1,5 @@
 ---
-title: Intuition for Simulated Annealing 
+title: A Picture Guide to Simulated Annealing
 layout: post
 summary: "This post develops the intuition behind simulated annealing via lots of pictures. It's self-contained and ought to be accessible to
 those without a math-centric background. It also serves as a gentle introduction to
