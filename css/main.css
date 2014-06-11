@@ -230,7 +230,29 @@ ul#rss li a:active {
 }
 
 #nav {
-   float: right;
+    float: right;
+    margin-top: -30px;
+}
+
+#fusionads {
+    margin-left: 75px;
+    margin-right: -7px;
+}
+
+.fusion-poweredby {
+    display: block;
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+.fusion-text {
+    display: block;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#ads {
+    float: right;
 }
 
 #sidebar h4 {
