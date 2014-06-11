@@ -9,7 +9,7 @@ layout: info
 ![Comic for the guided tour. Caption: "I've written a lot of stuff. So much that I've started to lose track of it all. Even with my 8 arms." ](/img/written-too-much-comic.png)
 
 ## Practical and self-development posts
-* Did you know that women in the 1700s would put poison in their eyes to maximize their allure? I was fed up with pick up artists pushing the power eye contact without any evidence, so I dug into the literature and wrote [**an evidenced-based article on eye contact**](http://rs.io/2014/06/01/prolonged-eye-contact.html). 
+* Did you know that women in the 1700s would put poison in their eyes to maximize their allure? I was fed up with pick up artists pushing the power eye contact without any evidence, so I dug into the literature and wrote [**an evidenced-based article on eye prolonged contact**](http://rs.io/2014/06/01/prolonged-eye-contact.html). 
 * People overvalue shiny, new technologies, and undervalue old, super-effective technologies, like the checklist. If you're not already a checklist zealot, you'll benefit from this [**review of the effectiveness of checklists**](http://rs.io/2014/05/12/the-unreasonable-effectiveness-of-checklists.html). 
 * Life can be thought of as a series of problems, so I wrote a post about [**the science of problem solving**](http://rs.io/2014/02/21/problem-solving.html).
 * Humans are [**habit executors**](http://rs.io/2014/02/08/habit.html): machines that just replay the same behaviors  over and over, plus how you can hack your own habit formation in pursuit of your goals.
