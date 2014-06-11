@@ -31,7 +31,7 @@ revenue](http://www.metrowestdailynews.com/article/20120411/News/304119938), som
 should generate an additional 31.2 million in revenue, or about a tenth of the
 cost of the bombings's damage (at least according to [one NBC estimate](http://usnews.nbcnews.com/_news/2013/04/29/17975443-adding-up-the-financial-costs-of-the-boston-bombings?lite)).
 
-# On Bad Publicity
+## On Bad Publicity
 
 But we should go back and ask, "What was wrong with my intuition a year ago such
 that I expected marathon attendance to decrease?" I suspect I underestimated
@@ -98,5 +98,5 @@ much attention to questionable adages:
 > office receipts (Basuroy et al. 2003).
 
 
-# Further Reading
+## Further Reading
 * If you want to use the data for anything, it's available [here](https://gist.github.com/robertseaton/951e770c9df1654dd5ee).
