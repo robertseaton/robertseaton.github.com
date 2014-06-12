@@ -1,7 +1,6 @@
 ---
 title: I Hate My Smartphone
 layout: post
-published: false
 ---
 
 I read [an interesting interview with Matias Duarte](http://thisismynext.com/2011/10/18/exclusive-matias-duarte-ice-cream-sandwich-galaxy-nexus/), Android's head of user experience, this morning. The article was pretty good, but that's not what I want to talk about. This is what I want to talk about:

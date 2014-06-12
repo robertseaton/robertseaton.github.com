@@ -1,7 +1,6 @@
 ---
 title: Why You Should Start Blogging (Again)
 layout: post
-published: false
 ---
 
 I have this theory: inside of every person there is a blogger trying to get out. Everybody has the potential to maintain a blog with, at the very least, weekly updates. I do not care how busy you are. There's no excuse not to do it.
