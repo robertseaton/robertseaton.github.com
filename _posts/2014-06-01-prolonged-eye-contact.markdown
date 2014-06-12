@@ -55,7 +55,7 @@ I was sorta convinced by that for a while, and I think that explains some of it,
 
 Of course, my concerns here are hardly limited to men, although I'm more familiar with the struggles of young men everywhere. Cosmopolitan magazine is the female-equivalent of pick-up, telling young women that they need to fit into some sort of mold in order to attract a guy -- that they shouldn't answer the phone on the first ring or whatever -- and I'm sure lots more nonsense which isn't even on my radar, but probably ought to be.
 
-Which brings me to the topic at hand: eye contact. These unsavory actors sell prolonged eye contact as some sort of panacea. An actual example I found with 10 seconds of googling: "Master These Eye Contact Techniques To Create Powerful Attraction," complete with tips that the author promised "will blow my mind." (Hint: they didn't.) Another blog targeted at "Helping men reclaim their masculinity and their relationships," (gag) includes this gem: "...strong eye contact is difficult to maintain if you do not have the confidence to back it up (thus making it an honest signal)."
+Which brings me to the topic at hand: eye contact. These unsavory actors sell **prolonged eye contact** as some sort of panacea. An actual example I found with 10 seconds of googling: "Master These Eye Contact Techniques To Create Powerful Attraction," complete with tips that the author promised "will blow my mind." (Hint: they didn't.) Another blog targeted at "Helping men reclaim their masculinity and their relationships," (gag) includes this gem: "...strong eye contact is difficult to maintain if you do not have the confidence to back it up (thus making it an honest signal)."
 
 Yeah, right. Because if you don't maintain strong eye contact, it's because you lack confidence, and definitely not because you haven't yet mastered the serial killer's thousand yard stare.
 
@@ -125,7 +125,7 @@ And real ones, too:
 
 ## What does eye contact mean, though?
 
-While doing keyword research for this, I noticed that a lot of men and women are confused about what prolonged eye contact means. Does it indicate sexual interest? Well, it definitely can!:
+While doing keyword research for this, I noticed that a lot of men and women are confused about *what prolonged eye contact means*. Does it indicate sexual interest? Well, it definitely can!:
 
 > Participants in a study by Griffitt, May, and Veitch (1974) gazed more at opposite-sex peers when they had previously been exposed to sexually arousing slides.
 
