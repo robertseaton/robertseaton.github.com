@@ -1,5 +1,5 @@
 ---
-title: Boston Marathon Statistics and Examples of Bad Publicity
+title: How the 2013 Boston Marathon Bombings Affected This Year's Attendance
 layout: post
 description: "Boston marathon attendance by year, along with how the bombings
 affected attendance and some examples of when bad publicity is good publicity."
