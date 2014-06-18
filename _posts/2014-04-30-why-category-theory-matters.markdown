@@ -101,7 +101,7 @@ algebraic topology.
 
 But, beyond that, is their anything else exciting about category theory? The main draw
 is its ability to connect otherwise disparate fields, a sort of [skeleton to hang
-other knowledge on](http://rs.io/2014/02/24/compressing-knowledge.html). Mike Stay and John Baez write about
+other knowledge on](http://rs.io/2014/02/24/compressing-knowledge.html). [Mike Stay](http://reperiendi.wordpress.com/) and John Baez write about
 this in their ["Physics, topology, logic and computation: a Rosetta Stone"](http://arxiv.org/pdf/0903.0340.pdf), where they use category theoretic constructs to speak about the similarities between --
 you guessed it -- physics, topology, logic, and computation.
 
