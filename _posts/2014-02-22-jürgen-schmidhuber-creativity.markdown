@@ -1,5 +1,5 @@
 ---
-title: Jürgen Schmidhuber's Theory of Creativity
+title: A Mathematical Theory of Interestingness 
 layout: post
 tags: "model"
 description: 
