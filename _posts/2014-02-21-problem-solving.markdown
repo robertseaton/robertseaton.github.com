@@ -236,7 +236,7 @@ This, too, is congruent with my experience. How much insight has been produced
 while taking a shower or mowing the lawn? Paul Dirac, the Nobel Prize winning physicist, would take
 [long hikes in the wood](http://www.damtp.cam.ac.uk/events/strings02/dirac/dirac/). I'd bet money that this was prime mind-wandering time. I
 know walking without goal is often a productive intellectual strategy for me. Rich
-Hickley, known as inventor of the Clojure programming language, has sorta taken the best of both worlds -- sleep and mind wandering --
+Hickey, known as inventor of the Clojure programming language, has sorta taken the best of both worlds -- sleep and mind wandering --
 and combined them into what he calls [hammock driven development](http://www.youtube.com/watch?v=f84n5oFoZBc). 
 
 ### But how does it work?
