@@ -340,3 +340,14 @@ code {
 }
 
 address.author { display:inline; font-style:inherit }
+
+#emailbox {
+  width: 600px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:90px;
+}
+
+#emailform {
+    float:right;
+}
