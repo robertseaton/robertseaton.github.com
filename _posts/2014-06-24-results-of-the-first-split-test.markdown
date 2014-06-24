@@ -96,8 +96,9 @@ So I'm convinced. On to the next set of tests!
 
 ## Further Reading
 * You, (yeah, *you*) should [subscribe via email right now](http://eepurl.com/Ufpgr).
-* I once wrote [a post on the decay of online communities](http://rs.io/2014/02/26/why-online-communities-decay-over-time.html), which hints at why its
-  important for a set to have a stable set of regulars that engage with each
+* I once wrote
+  [a post on the decay of online communities](http://rs.io/2014/02/26/why-online-communities-decay-over-time.html),
+  which hints at why its important for a set to have a stable set of regulars that engage with each
   other. 
 * To the extent that I'm not stumbling around in the dark here, it's from what
   I've learned via [Patrick McKenzie's writings on AB testing](http://www.kalzumeus.com/category/ab-testing/).
