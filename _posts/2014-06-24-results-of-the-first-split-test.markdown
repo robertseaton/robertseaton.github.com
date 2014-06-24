@@ -74,7 +74,7 @@ And, finally, ladies and gentleman of the jury (but, judging by the site
 analytics, mostly gentleman), I got to the point where users would see either
 exhibit A or exhibit B.
 
-![Picture two options from the first AB test.](/img/ab-test-1.png)
+![Picture two options from the first AB test.](/img/ab-test-number-1.png)
 
 ## Results
 
