@@ -62,7 +62,7 @@ clearly Satanic reverse Pareto principle.
 
 So, real examples. 
 
-* Wikipedia [would have you believe](en.wikipedia.org/wiki/Pareto_principle) that the Pareto principle was born during
+* Wikipedia [would have you believe](http://en.wikipedia.org/wiki/Pareto_principle) that the Pareto principle was born during
 Vilfredo Pareto's study of **Italian landowners -- 20% of them owned 80% of the
 land.**
 
