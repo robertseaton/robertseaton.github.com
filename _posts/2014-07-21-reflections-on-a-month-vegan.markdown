@@ -117,7 +117,7 @@ products:
 * Reducing animal suffering. This one is pretty straightforward. I know there
   are a lot of non-vegans out there (men, generally) who claim that they don't
   care about what happens to, say, a cow. I suspect these individuals are just
-  confused about there own values, and actually would prefer a world without
+  confused about their own values, and actually would prefer a world without
   animal suffering to one with it.
 * Health. [*The China Study*](http://www.amazon.com/gp/product/1932100385/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1932100385&linkCode=as2&tag=rsio-20&linkId=WXX6XEYIYZFK5RUS) is probably the strongest evidence that we have for
   the efficacy of a plant-based diet on preventing heart disease and all the
