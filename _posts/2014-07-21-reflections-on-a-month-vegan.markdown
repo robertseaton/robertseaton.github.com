@@ -132,6 +132,10 @@ would be a no-brainer.
 
 ## Restrictive?
 
+> I have never been able to deny myself anything, not even a cup of coffee if I
+> wanted it.
+<span id="quote-attribute">—Wittgenstein</span>
+
 So, right, one of the, uh, concerns I hear echoed most about veganism from
 people is that it's a very restrictive diet. No animal products! How can someone
 live like that?
