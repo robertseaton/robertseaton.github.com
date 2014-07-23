@@ -84,30 +84,31 @@ chapter of text written around it, which is more than enough.
 
 ### Joe Sugarman's Axioms
 
-Joe has 17 axioms, but I've deleted the boring ones. 
+Joe has 17 axioms, but I've deleted the boring ones, and renumbered them. So now
+it's extra confusing.
 
-* **Axiom:** All the elements in an advertisement are primarily designed to do
+* **Axiom 1:** All the elements in an advertisement are primarily designed to do
 one thing and one thing only: get you to read the first sentence of the copy.
-* **Axiom:** The sole purpose of the first sentence in an advertisement is to get
+* **Axiom 2:** The sole purpose of the first sentence in an advertisement is to get
 you to read the second sentence.
-* **Axiom:** Your ad layout and the first few paragraphs of your ad must create
+* **Axiom 3:** Your ad layout and the first few paragraphs of your ad must create
 the buying environment most conducive to the sale of your product or service.
-* **Axiom:** Get the reader to say yes and harmonize with your accurate and
+* **Axiom 4:** Get the reader to say yes and harmonize with your accurate and
 truthful statements while reading your copy.
-* **Axiom:** Your readers should be so compelled to read your copy that they
+* **Axiom 5:** Your readers should be so compelled to read your copy that they
 cannot stop reading until they read all of it as if sliding down a slippery slide.
-* **Axiom:** Never sell a product or service. Always sell a concept.
-* **Axiom:** Copy should be long enough to cause the reader to take the action you request.
-* **Axiom:** Every communication should be a personal one, from the writer to
+* **Axiom 6:** Never sell a product or service. Always sell a concept.
+* **Axiom 7:** Copy should be long enough to cause the reader to take the action you request.
+* **Axiom 8:** Every communication should be a personal one, from the writer to
 the recipient, regardless of the medium used.
-* **Axiom:** The ideas presented in your copy should flow in a logical
+* **Axiom 9:** The ideas presented in your copy should flow in a logical
 fashion, anticipating your prospect's questions and answering them as if the
 questions were asked face-to-face.
-* **Axiom:** In the editing process, you refine your copy to express exactly
+* **Axiom 10:** In the editing process, you refine your copy to express exactly
 what you want to express with the fewest words.
-* **Axiom:** The more the mind must work to reach a conclusion successfully,
+* **Axiom 11:** The more the mind must work to reach a conclusion successfully,
 the more positive, enjoyable or stimulating the experience.
-* **Axiom:** Selling a cure is a lot easier than selling a preventative,
+* **Axiom 12:** Selling a cure is a lot easier than selling a preventative,
 unless the preventative is perceived as a cure or the curative aspects of the
 preventative are emphasized.
 
