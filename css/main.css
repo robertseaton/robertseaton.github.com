@@ -158,6 +158,9 @@ img {
 article img {
     max-width: 500px;
     height: auto;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-left: 15px;
 }
 
 ul#rss li a:hover,
