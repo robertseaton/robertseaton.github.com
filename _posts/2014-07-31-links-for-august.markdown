@@ -63,7 +63,7 @@ layout: post
 
 ## Trivia
 
-* "O. J. Simpson was considered briefly [for the part of Terminator], but producers felt [he seemed too nice to play a killer](http://www.ign.com/articles/2009/05/20/ign-presents-the-history-of-terminator)r."
+* "O. J. Simpson was considered briefly [for the part of Terminator], but producers felt [he seemed too nice to play a killer](http://www.ign.com/articles/2009/05/20/ign-presents-the-history-of-terminator)."
 
 * There are no nations with an older minimum drinking age than the United States (the Puritans are still at work, I guess). No entire nations, anyways. [In some Indian states, you must be 25 to purchase alcohol.](http://en.wikipedia.org/wiki/Alcohol_laws_of_India#Legal_drinking_age)
 
