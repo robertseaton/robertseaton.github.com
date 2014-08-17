@@ -43,7 +43,7 @@ Here's my attempt at making it all just a bit more manageable.
 
 <center><img src="/img/bad-dalek-drawing.png" alt="A bad dalek drawing. Caption: I built a machine to eradicate…non-cat lifeforms. When I turned it on, it destroyed itself."></img></center>
 
-* If you're interested in building financial algorithms or, really, just predicting arbitrage opportunities for one of America's largest cash crops, check out [this data set](https://github.com/zmjones/priceofweed), which tracks the price of marijuana from September 2nd, 2010 until about the present.
+* If you're interested in building financial algorithms or, really, just predicting arbitrage opportunities for one of America's largest cash crops, check out [this data set](http://www.priceofweed.com/), which tracks the price of marijuana from September 2nd, 2010 until about the present.
 
 * [Who's using what drugs and how often?](http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/34933?q=&paging.rows=25&sortBy=10)
 
