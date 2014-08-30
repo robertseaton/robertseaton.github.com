@@ -9,7 +9,7 @@ description: "Should you be making more eye contact? How do people respond to to
 
 Belladonna means "beautiful woman" in Italian, but it's also the name of a type of plant. The origins of the term belladonna are uncertain, but date back to at least 1554.
 
-It's been suggested (and this is my favorite theory) that the name might be related to belladonna's use as a cosmetic. Women would dab their eyes with the plant in order to dilate their pupils, in an attempt to enhance beauty. 
+It's been suggested (and this is my favorite theory) that the name might be related to belladonna's use as a cosmetic. Women would consume the plant in order to dilate their pupils, in an attempt to enhance beauty. 
 
 The only problem? Belladonna (sometimes called nightshade) is poisonous.
 
