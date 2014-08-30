@@ -181,7 +181,7 @@ But not men:
 
 > Men's reactions were exactly opposite. Men were most favorable toward women when they were told the woman's gaze or their own gaze had been low.
 
-I wonder if this is just male insecurity? If I was told some chick had been staring at me, I might wonder, "Is there something wrong with my hair? Has one of my legs grown two legs of its own and walked off of its own volition?"
+I wonder if this is just male insecurity? If I was told some chick had been staring at me, I might wonder, "Is there something wrong with my hair? Has one of my legs grown two legs and walked off of its own volition?"
 
 ## Does eye contact cause love?
 
